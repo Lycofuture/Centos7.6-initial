@@ -41,7 +41,6 @@ async function extractIpAndPort() {
     const response = await fetch(geoipurl);
     const arrayBuffer = await response.arrayBuffer();
     const dbBuffer = Buffer.from(arrayBuffer);
-    console.log(`GeoLite2 ${dbBuffer} 地理数据`)
     const reader = maxmind.Reader.openBuffer(dbBuffer);
     const countryCounts = {};
     // 提取 IP 和端口
@@ -54,7 +53,6 @@ async function extractIpAndPort() {
           const speed = parseFloat(fields[speedIndex].replace(' kB/s', ''));
           return speed > 0; // 过滤下载速度大于 0 kB/s 的记录
         }
-        console.log(`ip 整理 ${fields}`)
         return true
       })
       .map(fields => {
