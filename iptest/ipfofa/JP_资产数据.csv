@@ -1,0 +1,351 @@
+﻿host,ip,port,protocol,title,domain,country,city,link,as_organization
+https://47.79.39.72:3306,47.79.39.72,3306,https,,,JP,Tokyo,https://47.79.39.72:3306,
+https://43.153.180.34:10443,43.153.180.34,10443,https,,,JP,Tokyo,https://43.153.180.34:10443,"Tencent Building, Kejizhongyi Avenue"
+https://57.180.174.248:8443,57.180.174.248,8443,https,,,JP,Tokyo,https://57.180.174.248:8443,AMAZON-02
+https://54.95.102.36:8443,54.95.102.36,8443,https,,,JP,Tokyo,https://54.95.102.36:8443,AMAZON-02
+https://38.207.130.96:8500,38.207.130.96,8500,https,,,JP,Tokyo,https://38.207.130.96:8500,COGENT-174
+https://58.3.69.220:10443,58.3.69.220,10443,https,,,JP,Kitakyushu,https://58.3.69.220:10443,"QTnet,Inc."
+https://103.35.188.231:8443,103.35.188.231,8443,https,,,JP,Tokyo,https://103.35.188.231:8443,ARTERIA Networks Corporation
+https://126.90.11.240:8443,126.90.11.240,8443,https,,,JP,Yonago,https://126.90.11.240:8443,Softbank BB Corp.
+https://103.93.79.241:8443,103.93.79.241,8443,https,,,JP,Tokyo,https://103.93.79.241:8443,Edgenap Ltd
+https://138.2.36.157:8443,138.2.36.157,8443,https,,,JP,Osaka,https://138.2.36.157:8443,ORACLE-BMC-31898
+https://64.176.57.141:8443,64.176.57.141,8443,https,,,JP,Osaka,https://64.176.57.141:8443,AS-CHOOPA
+https://158.101.147.106:10443,158.101.147.106,10443,https,,,JP,Tokyo,https://158.101.147.106:10443,ORACLE-BMC-31898
+https://60.47.12.39:37810,60.47.12.39,37810,https,,,JP,Fukushima,https://60.47.12.39:37810,NTT Communications Corporation
+https://47.79.38.200:60001,47.79.38.200,60001,https,,,JP,Tokyo,https://47.79.38.200:60001,
+https://140.238.51.18:10000,140.238.51.18,10000,https,,,JP,Tokyo,https://140.238.51.18:10000,ORACLE-BMC-31898
+https://103.169.216.134:10443,103.169.216.134,10443,https,,,JP,Tokyo,https://103.169.216.134:10443,"JINX CO., LIMITED"
+https://103.169.216.132:10443,103.169.216.132,10443,https,,,JP,Tokyo,https://103.169.216.132:10443,"JINX CO., LIMITED"
+https://103.169.216.199:10443,103.169.216.199,10443,https,,,JP,Tokyo,https://103.169.216.199:10443,"JINX CO., LIMITED"
+https://103.169.216.202:10443,103.169.216.202,10443,https,,,JP,Tokyo,https://103.169.216.202:10443,"JINX CO., LIMITED"
+https://103.169.216.208:10443,103.169.216.208,10443,https,,,JP,Tokyo,https://103.169.216.208:10443,"JINX CO., LIMITED"
+https://103.169.216.201:10443,103.169.216.201,10443,https,,,JP,Tokyo,https://103.169.216.201:10443,"JINX CO., LIMITED"
+https://103.169.216.203:10443,103.169.216.203,10443,https,,,JP,Tokyo,https://103.169.216.203:10443,"JINX CO., LIMITED"
+https://103.169.216.151:10443,103.169.216.151,10443,https,,,JP,Tokyo,https://103.169.216.151:10443,"JINX CO., LIMITED"
+https://103.169.216.216:10443,103.169.216.216,10443,https,,,JP,Tokyo,https://103.169.216.216:10443,"JINX CO., LIMITED"
+https://103.169.216.211:10443,103.169.216.211,10443,https,,,JP,Tokyo,https://103.169.216.211:10443,"JINX CO., LIMITED"
+https://103.169.216.220:10443,103.169.216.220,10443,https,,,JP,Tokyo,https://103.169.216.220:10443,"JINX CO., LIMITED"
+https://103.169.216.133:10443,103.169.216.133,10443,https,,,JP,Tokyo,https://103.169.216.133:10443,"JINX CO., LIMITED"
+https://103.169.216.193:10443,103.169.216.193,10443,https,,,JP,Tokyo,https://103.169.216.193:10443,"JINX CO., LIMITED"
+https://103.169.216.205:10443,103.169.216.205,10443,https,,,JP,Tokyo,https://103.169.216.205:10443,"JINX CO., LIMITED"
+https://103.169.216.197:10443,103.169.216.197,10443,https,,,JP,Tokyo,https://103.169.216.197:10443,"JINX CO., LIMITED"
+https://52.195.193.233:10000,52.195.193.233,10000,https,,,JP,Tokyo,https://52.195.193.233:10000,AMAZON-02
+https://103.169.216.137:10443,103.169.216.137,10443,https,,,JP,Tokyo,https://103.169.216.137:10443,"JINX CO., LIMITED"
+https://103.169.216.194:10443,103.169.216.194,10443,https,,,JP,Tokyo,https://103.169.216.194:10443,"JINX CO., LIMITED"
+https://103.169.216.148:10443,103.169.216.148,10443,https,,,JP,Tokyo,https://103.169.216.148:10443,"JINX CO., LIMITED"
+https://103.169.216.136:10443,103.169.216.136,10443,https,,,JP,Tokyo,https://103.169.216.136:10443,"JINX CO., LIMITED"
+https://103.169.216.215:10443,103.169.216.215,10443,https,,,JP,Tokyo,https://103.169.216.215:10443,"JINX CO., LIMITED"
+https://103.169.216.200:10443,103.169.216.200,10443,https,,,JP,Tokyo,https://103.169.216.200:10443,"JINX CO., LIMITED"
+https://101.128.174.250:22335,101.128.174.250,22335,https,,,JP,Sakata,https://101.128.174.250:22335,Internet Initiative Japan Inc.
+https://23.249.22.30:10443,23.249.22.30,10443,https,,,JP,Tokyo,https://23.249.22.30:10443,
+https://23.249.22.32:10443,23.249.22.32,10443,https,,,JP,Tokyo,https://23.249.22.32:10443,
+https://23.249.22.4:10443,23.249.22.4,10443,https,,,JP,Tokyo,https://23.249.22.4:10443,
+https://23.249.22.14:10443,23.249.22.14,10443,https,,,JP,Tokyo,https://23.249.22.14:10443,
+https://23.249.22.33:10443,23.249.22.33,10443,https,,,JP,Tokyo,https://23.249.22.33:10443,
+https://23.249.22.3:10443,23.249.22.3,10443,https,,,JP,Tokyo,https://23.249.22.3:10443,
+https://23.249.22.35:10443,23.249.22.35,10443,https,,,JP,Tokyo,https://23.249.22.35:10443,
+https://23.249.22.36:10443,23.249.22.36,10443,https,,,JP,Tokyo,https://23.249.22.36:10443,
+https://23.249.22.6:10443,23.249.22.6,10443,https,,,JP,Tokyo,https://23.249.22.6:10443,
+https://103.169.216.198:10443,103.169.216.198,10443,https,,,JP,Tokyo,https://103.169.216.198:10443,"JINX CO., LIMITED"
+https://103.169.216.135:10443,103.169.216.135,10443,https,,,JP,Tokyo,https://103.169.216.135:10443,"JINX CO., LIMITED"
+https://103.169.216.207:10443,103.169.216.207,10443,https,,,JP,Tokyo,https://103.169.216.207:10443,"JINX CO., LIMITED"
+https://103.169.216.212:10443,103.169.216.212,10443,https,,,JP,Tokyo,https://103.169.216.212:10443,"JINX CO., LIMITED"
+https://103.169.216.143:10443,103.169.216.143,10443,https,,,JP,Tokyo,https://103.169.216.143:10443,"JINX CO., LIMITED"
+https://185.184.223.18:445,185.184.223.18,445,https,,,JP,Osaka,https://185.184.223.18:445,Owl Limited
+https://158.101.132.240:10002,158.101.132.240,10002,https,,,JP,Tokyo,https://158.101.132.240:10002,ORACLE-BMC-31898
+https://38.47.125.108:8080,38.47.125.108,8080,https,,,JP,Tokyo,https://38.47.125.108:8080,Nearoute Limited
+https://152.70.107.16:8080,152.70.107.16,8080,https,,,JP,Tokyo,https://152.70.107.16:8080,ORACLE-BMC-31898
+https://140.238.51.18:10002,140.238.51.18,10002,https,,,JP,Tokyo,https://140.238.51.18:10002,ORACLE-BMC-31898
+https://5.8.71.96:445,5.8.71.96,445,https,,,JP,Tokyo,https://5.8.71.96:445,G-Core Labs S.A.
+https://52.194.126.37:8080,52.194.126.37,8080,https,,,JP,Tokyo,https://52.194.126.37:8080,AMAZON-02
+https://23.249.22.40:10443,23.249.22.40,10443,https,,,JP,Tokyo,https://23.249.22.40:10443,
+https://23.249.22.48:10443,23.249.22.48,10443,https,,,JP,Tokyo,https://23.249.22.48:10443,
+https://23.249.22.45:10443,23.249.22.45,10443,https,,,JP,Tokyo,https://23.249.22.45:10443,
+https://23.249.22.10:10443,23.249.22.10,10443,https,,,JP,Tokyo,https://23.249.22.10:10443,
+https://23.249.22.42:10443,23.249.22.42,10443,https,,,JP,Tokyo,https://23.249.22.42:10443,
+https://23.249.22.17:10443,23.249.22.17,10443,https,,,JP,Tokyo,https://23.249.22.17:10443,
+https://23.249.22.41:10443,23.249.22.41,10443,https,,,JP,Tokyo,https://23.249.22.41:10443,
+https://23.249.22.7:10443,23.249.22.7,10443,https,,,JP,Tokyo,https://23.249.22.7:10443,
+https://23.249.22.34:10443,23.249.22.34,10443,https,,,JP,Tokyo,https://23.249.22.34:10443,
+https://23.249.22.12:10443,23.249.22.12,10443,https,,,JP,Tokyo,https://23.249.22.12:10443,
+https://23.249.22.47:10443,23.249.22.47,10443,https,,,JP,Tokyo,https://23.249.22.47:10443,
+https://23.249.22.37:10443,23.249.22.37,10443,https,,,JP,Tokyo,https://23.249.22.37:10443,
+https://168.138.42.138:444,168.138.42.138,444,https,,,JP,Osaka,https://168.138.42.138:444,ORACLE-BMC-31898
+https://18.180.15.60:8443,18.180.15.60,8443,https,,,JP,Tokyo,https://18.180.15.60:8443,AMAZON-02
+https://43.133.10.100:445,43.133.10.100,445,https,,,JP,Tokyo,https://43.133.10.100:445,"Tencent Building, Kejizhongyi Avenue"
+https://85.208.109.166:8443,85.208.109.166,8443,https,,,JP,Tokyo,https://85.208.109.166:8443,ENZUINC
+https://20.243.142.208:8443,20.243.142.208,8443,https,,,JP,Tokyo,https://20.243.142.208:8443,MICROSOFT-CORP-MSN-AS-BLOCK
+https://52.198.234.56:8443,52.198.234.56,8443,https,,,JP,Tokyo,https://52.198.234.56:8443,AMAZON-02
+https://20.243.125.64:10000,20.243.125.64,10000,https,,,JP,Tokyo,https://20.243.125.64:10000,MICROSOFT-CORP-MSN-AS-BLOCK
+https://5.104.75.28:587,5.104.75.28,587,https,,,JP,Tokyo,https://5.104.75.28:587,SIA Singularity Telecom
+https://158.101.158.41:10443,158.101.158.41,10443,https,,,JP,Tokyo,https://158.101.158.41:10443,ORACLE-BMC-31898
+https://158.101.132.240:10000,158.101.132.240,10000,https,,,JP,Tokyo,https://158.101.132.240:10000,ORACLE-BMC-31898
+https://193.117.91.47:37810,193.117.91.47,37810,https,,,JP,Tokyo,https://193.117.91.47:37810,"ZTV CO.,LTD"
+https://156.231.116.232:9443,156.231.116.232,9443,https,,,JP,Tokyo,https://156.231.116.232:9443,MULTA-ASN1
+https://132.226.11.209:9443,132.226.11.209,9443,https,,,JP,Tokyo,https://132.226.11.209:9443,ORACLE-BMC-31898
+https://168.138.192.236:9443,168.138.192.236,9443,https,,,JP,Tokyo,https://168.138.192.236:9443,ORACLE-BMC-31898
+https://61.245.11.69:2053,61.245.11.69,2053,https,,,JP,Tokyo,https://61.245.11.69:2053,
+https://156.231.115.164:9443,156.231.115.164,9443,https,,,JP,Tokyo,https://156.231.115.164:9443,MULTA-ASN1
+https://168.138.42.237:9443,168.138.42.237,9443,https,,,JP,Osaka,https://168.138.42.237:9443,ORACLE-BMC-31898
+https://188.253.24.161:7443,188.253.24.161,7443,https,,,JP,Tokyo,https://188.253.24.161:7443,AMAZON-02
+https://149.28.22.198:2053,149.28.22.198,2053,https,,,JP,Tokyo,https://149.28.22.198:2053,AS-CHOOPA
+https://172.233.93.232:2053,172.233.93.232,2053,https,,,JP,Osaka,https://172.233.93.232:2053,Akamai International B.V.
+https://176.97.70.51:2053,176.97.70.51,2053,https,,,JP,Marunouchi,https://176.97.70.51:2053,M247 Europe SRL
+https://104.238.149.122:28443,104.238.149.122,28443,https,,,JP,Tokyo,https://104.238.149.122:28443,AS-CHOOPA
+https://150.230.203.210:8099,150.230.203.210,8099,https,,,JP,Tokyo,https://150.230.203.210:8099,ORACLE-BMC-31898
+https://103.106.228.126:2053,103.106.228.126,2053,https,,,JP,Tokyo,https://103.106.228.126:2053,"BrainStorm Network, Inc"
+https://108.160.139.154:2053,108.160.139.154,2053,https,,,JP,Tokyo,https://108.160.139.154:2053,AS-CHOOPA
+https://103.35.191.130:2053,103.35.191.130,2053,https,,,JP,Tokyo,https://103.35.191.130:2053,ARTERIA Networks Corporation
+https://188.253.16.238:2053,188.253.16.238,2053,https,,,JP,Tokyo,https://188.253.16.238:2053,AMAZON-02
+https://150.230.57.42:80,150.230.57.42,80,https,,,JP,Osaka,https://150.230.57.42:80,ORACLE-BMC-31898
+https://85.208.109.20:2053,85.208.109.20,2053,https,,,JP,Tokyo,https://85.208.109.20:2053,ENZUINC
+https://155.248.178.58:80,155.248.178.58,80,https,,,JP,Tokyo,https://155.248.178.58:80,ORACLE-BMC-31898
+https://188.253.19.222:2053,188.253.19.222,2053,https,,,JP,Tokyo,https://188.253.19.222:2053,AMAZON-02
+https://188.253.19.248:2053,188.253.19.248,2053,https,,,JP,Tokyo,https://188.253.19.248:2053,AMAZON-02
+https://188.253.19.192:2053,188.253.19.192,2053,https,,,JP,Tokyo,https://188.253.19.192:2053,AMAZON-02
+https://188.253.22.38:2053,188.253.22.38,2053,https,,,JP,Tokyo,https://188.253.22.38:2053,AMAZON-02
+https://168.138.54.164:65443,168.138.54.164,65443,https,,,JP,Osaka,https://168.138.54.164:65443,ORACLE-BMC-31898
+https://188.253.21.12:2053,188.253.21.12,2053,https,,,JP,Tokyo,https://188.253.21.12:2053,AMAZON-02
+https://85.208.109.148:2053,85.208.109.148,2053,https,,,JP,Tokyo,https://85.208.109.148:2053,ENZUINC
+https://85.208.109.28:2053,85.208.109.28,2053,https,,,JP,Tokyo,https://85.208.109.28:2053,ENZUINC
+https://85.208.109.166:2053,85.208.109.166,2053,https,,,JP,Tokyo,https://85.208.109.166:2053,ENZUINC
+https://85.208.109.143:2053,85.208.109.143,2053,https,,,JP,Tokyo,https://85.208.109.143:2053,ENZUINC
+https://176.97.73.82:2053,176.97.73.82,2053,https,,,JP,Marunouchi,https://176.97.73.82:2053,M247 Europe SRL
+https://5.180.45.232:2053,5.180.45.232,2053,https,,,JP,Tokyo,https://5.180.45.232:2053,ENZUINC
+https://103.231.72.196:2053,103.231.72.196,2053,https,,,JP,Tokyo,https://103.231.72.196:2053,ARTERIA Networks Corporation
+https://188.253.19.142:2053,188.253.19.142,2053,https,,,JP,Tokyo,https://188.253.19.142:2053,AMAZON-02
+https://188.253.19.100:2053,188.253.19.100,2053,https,,,JP,Tokyo,https://188.253.19.100:2053,AMAZON-02
+https://103.35.189.81:2053,103.35.189.81,2053,https,,,JP,Tokyo,https://103.35.189.81:2053,ARTERIA Networks Corporation
+https://188.253.23.123:2053,188.253.23.123,2053,https,,,JP,Tokyo,https://188.253.23.123:2053,AMAZON-02
+https://2.59.38.185:2053,2.59.38.185,2053,https,,,JP,Tokyo,https://2.59.38.185:2053,DataWeb Global Group B.V.
+https://38.180.28.163:2053,38.180.28.163,2053,https,,,JP,Tokyo,https://38.180.28.163:2053,M247 Europe SRL
+https://103.231.73.251:2053,103.231.73.251,2053,https,,,JP,Tokyo,https://103.231.73.251:2053,ARTERIA Networks Corporation
+https://103.231.73.252:2053,103.231.73.252,2053,https,,,JP,Tokyo,https://103.231.73.252:2053,ARTERIA Networks Corporation
+https://103.75.118.144:2053,103.75.118.144,2053,https,,,JP,Tokyo,https://103.75.118.144:2053,"BrainStorm Network, Inc"
+https://103.231.75.238:2053,103.231.75.238,2053,https,,,JP,Tokyo,https://103.231.75.238:2053,ARTERIA Networks Corporation
+https://188.253.24.161:2053,188.253.24.161,2053,https,,,JP,Tokyo,https://188.253.24.161:2053,AMAZON-02
+https://193.123.161.248:2052,193.123.161.248,2052,https,,,JP,Tokyo,https://193.123.161.248:2052,ORACLE-BMC-31898
+https://103.231.73.115:2053,103.231.73.115,2053,https,,,JP,Tokyo,https://103.231.73.115:2053,ARTERIA Networks Corporation
+https://103.231.73.25:2053,103.231.73.25,2053,https,,,JP,Tokyo,https://103.231.73.25:2053,ARTERIA Networks Corporation
+https://103.231.75.226:2053,103.231.75.226,2053,https,,,JP,Tokyo,https://103.231.75.226:2053,ARTERIA Networks Corporation
+https://132.145.127.203:2053,132.145.127.203,2053,https,,,JP,Tokyo,https://132.145.127.203:2053,ORACLE-BMC-31898
+https://45.32.33.0:2053,45.32.33.0,2053,https,,,JP,Tokyo,https://45.32.33.0:2053,AS-CHOOPA
+https://188.253.22.207:2053,188.253.22.207,2053,https,,,JP,Tokyo,https://188.253.22.207:2053,AMAZON-02
+https://47.74.20.213:8081,47.74.20.213,8081,https,,,JP,Tokyo,https://47.74.20.213:8081,"Alibaba US Technology Co., Ltd."
+https://94.177.131.183:2053,94.177.131.183,2053,https,,,JP,Tokyo,https://94.177.131.183:2053,
+https://141.147.144.246:8080,141.147.144.246,8080,https,,,JP,Osaka,https://141.147.144.246:8080,ORACLE-BMC-31898
+https://103.231.73.197:2053,103.231.73.197,2053,https,,,JP,Tokyo,https://103.231.73.197:2053,ARTERIA Networks Corporation
+https://103.231.73.200:2053,103.231.73.200,2053,https,,,JP,Tokyo,https://103.231.73.200:2053,ARTERIA Networks Corporation
+https://64.176.53.19:8002,64.176.53.19,8002,https,,,JP,Osaka,https://64.176.53.19:8002,AS-CHOOPA
+https://5.104.75.130:2053,5.104.75.130,2053,https,,,JP,Tokyo,https://5.104.75.130:2053,SIA Singularity Telecom
+https://103.35.189.137:2053,103.35.189.137,2053,https,,,JP,Tokyo,https://103.35.189.137:2053,ARTERIA Networks Corporation
+https://103.106.228.67:2053,103.106.228.67,2053,https,,,JP,Tokyo,https://103.106.228.67:2053,"BrainStorm Network, Inc"
+https://20.40.99.34:8080,20.40.99.34,8080,https,,,JP,Tokyo,https://20.40.99.34:8080,MICROSOFT-CORP-MSN-AS-BLOCK
+https://103.35.188.231:2053,103.35.188.231,2053,https,,,JP,Tokyo,https://103.35.188.231:2053,ARTERIA Networks Corporation
+https://138.2.53.250:8080,138.2.53.250,8080,https,,,JP,Osaka,https://138.2.53.250:8080,ORACLE-BMC-31898
+https://103.231.75.153:2053,103.231.75.153,2053,https,,,JP,Tokyo,https://103.231.75.153:2053,ARTERIA Networks Corporation
+https://103.231.75.190:2053,103.231.75.190,2053,https,,,JP,Tokyo,https://103.231.75.190:2053,ARTERIA Networks Corporation
+https://5.104.75.10:2053,5.104.75.10,2053,https,,,JP,Tokyo,https://5.104.75.10:2053,SIA Singularity Telecom
+https://103.232.213.117:8080,103.232.213.117,8080,https,,,JP,Tokyo,https://103.232.213.117:8080,
+https://85.208.109.102:2080,85.208.109.102,2080,https,,,JP,Tokyo,https://85.208.109.102:2080,ENZUINC
+https://141.147.182.224:2053,141.147.182.224,2053,https,,,JP,Tokyo,https://141.147.182.224:2053,ORACLE-BMC-31898
+https://188.253.22.219:2053,188.253.22.219,2053,https,,,JP,Tokyo,https://188.253.22.219:2053,AMAZON-02
+https://131.186.60.210:8080,131.186.60.210,8080,https,,,JP,Tokyo,https://131.186.60.210:8080,ORACLE-BMC-31898
+https://5.180.45.86:2053,5.180.45.86,2053,https,,,JP,Tokyo,https://5.180.45.86:2053,ENZUINC
+https://103.231.73.180:2053,103.231.73.180,2053,https,,,JP,Tokyo,https://103.231.73.180:2053,ARTERIA Networks Corporation
+https://103.231.73.169:2053,103.231.73.169,2053,https,,,JP,Tokyo,https://103.231.73.169:2053,ARTERIA Networks Corporation
+https://103.231.73.166:2053,103.231.73.166,2053,https,,,JP,Tokyo,https://103.231.73.166:2053,ARTERIA Networks Corporation
+https://103.231.73.171:2053,103.231.73.171,2053,https,,,JP,Tokyo,https://103.231.73.171:2053,ARTERIA Networks Corporation
+https://103.231.73.114:2053,103.231.73.114,2053,https,,,JP,Tokyo,https://103.231.73.114:2053,ARTERIA Networks Corporation
+https://103.231.73.104:2053,103.231.73.104,2053,https,,,JP,Tokyo,https://103.231.73.104:2053,ARTERIA Networks Corporation
+https://jp2.wibo.pub:8001,47.79.35.195,8001,https,,wibo.pub,JP,Tokyo,https://jp2.wibo.pub:8001,
+https://47.79.35.195:8001,47.79.35.195,8001,https,,,JP,Tokyo,https://47.79.35.195:8001,
+https://103.35.191.226:2053,103.35.191.226,2053,https,,,JP,Tokyo,https://103.35.191.226:2053,ARTERIA Networks Corporation
+https://103.231.73.202:2053,103.231.73.202,2053,https,,,JP,Tokyo,https://103.231.73.202:2053,ARTERIA Networks Corporation
+https://168.138.52.52:2086,168.138.52.52,2086,https,,,JP,Osaka,https://168.138.52.52:2086,ORACLE-BMC-31898
+https://20.194.199.241:3000,20.194.199.241,3000,https,,,JP,Tokyo,https://20.194.199.241:3000,MICROSOFT-CORP-MSN-AS-BLOCK
+https://18.182.98.172:8880,18.182.98.172,8880,https,,,JP,Tokyo,https://18.182.98.172:8880,AMAZON-02
+https://103.35.189.42:2087,103.35.189.42,2087,https,,,JP,Tokyo,https://103.35.189.42:2087,ARTERIA Networks Corporation
+https://47.79.38.221:4443,47.79.38.221,4443,https,,,JP,Tokyo,https://47.79.38.221:4443,
+https://152.70.102.222:5443,152.70.102.222,5443,https,,,JP,Tokyo,https://152.70.102.222:5443,ORACLE-BMC-31898
+https://35.72.31.196:8880,35.72.31.196,8880,https,,,JP,Tokyo,https://35.72.31.196:8880,AMAZON-02
+https://47.79.35.222:8880,47.79.35.222,8880,https,,,JP,Tokyo,https://47.79.35.222:8880,
+https://64.110.107.15:8443,64.110.107.15,8443,https,,,JP,Osaka,https://64.110.107.15:8443,ORACLE-BMC-31898
+https://188.253.22.207:8443,188.253.22.207,8443,https,,,JP,Tokyo,https://188.253.22.207:8443,AMAZON-02
+https://103.35.188.19:8443,103.35.188.19,8443,https,,,JP,Tokyo,https://103.35.188.19:8443,ARTERIA Networks Corporation
+https://188.253.19.192:8443,188.253.19.192,8443,https,,,JP,Tokyo,https://188.253.19.192:8443,AMAZON-02
+https://89.187.160.74:8443,89.187.160.74,8443,https,,,JP,Tokyo,https://89.187.160.74:8443,Datacamp Limited
+https://89.187.160.73:8443,89.187.160.73,8443,https,,,JP,Tokyo,https://89.187.160.73:8443,Datacamp Limited
+https://140.238.38.31:8443,140.238.38.31,8443,https,,,JP,Tokyo,https://140.238.38.31:8443,ORACLE-BMC-31898
+https://185.200.64.94:8443,185.200.64.94,8443,https,,,JP,Tokyo,https://185.200.64.94:8443,Owl Limited
+https://147.78.246.242:8443,147.78.246.242,8443,https,,,JP,Tokyo,https://147.78.246.242:8443,Owl Limited
+https://202.144.195.64:8443,202.144.195.64,8443,https,,,JP,Tokyo,https://202.144.195.64:8443,IPTELECOM ASIA
+https://103.35.191.130:8443,103.35.191.130,8443,https,,,JP,Tokyo,https://103.35.191.130:8443,ARTERIA Networks Corporation
+https://3.113.152.180:8443,3.113.152.180,8443,https,,,JP,Tokyo,https://3.113.152.180:8443,AMAZON-02
+https://40.115.196.177:8443,40.115.196.177,8443,https,,,JP,Tokyo,https://40.115.196.177:8443,MICROSOFT-CORP-MSN-AS-BLOCK
+https://103.35.188.233:8443,103.35.188.233,8443,https,,,JP,Tokyo,https://103.35.188.233:8443,ARTERIA Networks Corporation
+https://89.187.160.75:8443,89.187.160.75,8443,https,,,JP,Tokyo,https://89.187.160.75:8443,Datacamp Limited
+https://138.2.57.135:8443,138.2.57.135,8443,https,,,JP,Osaka,https://138.2.57.135:8443,ORACLE-BMC-31898
+https://103.35.189.137:8443,103.35.189.137,8443,https,,,JP,Tokyo,https://103.35.189.137:8443,ARTERIA Networks Corporation
+https://103.35.189.42:8443,103.35.189.42,8443,https,,,JP,Tokyo,https://103.35.189.42:8443,ARTERIA Networks Corporation
+https://54.64.53.13:8443,54.64.53.13,8443,https,,,JP,Tokyo,https://54.64.53.13:8443,AMAZON-02
+https://103.231.73.126:8443,103.231.73.126,8443,https,,,JP,Tokyo,https://103.231.73.126:8443,ARTERIA Networks Corporation
+https://141.147.153.229:8443,141.147.153.229,8443,https,,,JP,Osaka,https://141.147.153.229:8443,ORACLE-BMC-31898
+https://132.145.127.203:8443,132.145.127.203,8443,https,,,JP,Tokyo,https://132.145.127.203:8443,ORACLE-BMC-31898
+https://84.17.34.103:8443,84.17.34.103,8443,https,,,JP,Tokyo,https://84.17.34.103:8443,Datacamp Limited
+https://85.208.109.148:8443,85.208.109.148,8443,https,,,JP,Tokyo,https://85.208.109.148:8443,ENZUINC
+https://140.83.34.214:8443,140.83.34.214,8443,https,,,JP,Tokyo,https://140.83.34.214:8443,ORACLE-BMC-31898
+https://188.253.18.186:8443,188.253.18.186,8443,https,,,JP,Tokyo,https://188.253.18.186:8443,AMAZON-02
+https://103.231.72.196:8443,103.231.72.196,8443,https,,,JP,Tokyo,https://103.231.72.196:8443,ARTERIA Networks Corporation
+https://141.11.139.211:8443,141.11.139.211,8443,https,,,JP,Tokyo,https://141.11.139.211:8443,Nearoute Limited
+https://85.208.109.28:8443,85.208.109.28,8443,https,,,JP,Tokyo,https://85.208.109.28:8443,ENZUINC
+https://103.35.191.226:8443,103.35.191.226,8443,https,,,JP,Tokyo,https://103.35.191.226:8443,ARTERIA Networks Corporation
+https://147.78.246.35:8443,147.78.246.35,8443,https,,,JP,Tokyo,https://147.78.246.35:8443,Owl Limited
+https://45.66.217.193:2096,45.66.217.193,2096,https,,,JP,Tokyo,https://45.66.217.193:2096,Owl Limited
+https://5.180.45.232:8443,5.180.45.232,8443,https,,,JP,Tokyo,https://5.180.45.232:8443,ENZUINC
+https://176.97.73.82:8443,176.97.73.82,8443,https,,,JP,Marunouchi,https://176.97.73.82:8443,M247 Europe SRL
+https://5.180.45.86:8443,5.180.45.86,8443,https,,,JP,Tokyo,https://5.180.45.86:8443,ENZUINC
+https://149.28.22.198:8443,149.28.22.198,8443,https,,,JP,Tokyo,https://149.28.22.198:8443,AS-CHOOPA
+https://50.7.159.182:8443,50.7.159.182,8443,https,,,JP,Tokyo,https://50.7.159.182:8443,FDCSERVERS
+https://103.106.228.67:8443,103.106.228.67,8443,https,,,JP,Tokyo,https://103.106.228.67:8443,"BrainStorm Network, Inc"
+https://54.249.255.192:8443,54.249.255.192,8443,https,,,JP,Tokyo,https://54.249.255.192:8443,AMAZON-02
+https://5.104.75.130:8443,5.104.75.130,8443,https,,,JP,Tokyo,https://5.104.75.130:8443,SIA Singularity Telecom
+https://88.214.20.80:8443,88.214.20.80,8443,https,,,JP,Tokyo,https://88.214.20.80:8443,xTom GmbH
+https://140.238.62.170:8443,140.238.62.170,8443,https,,,JP,Tokyo,https://140.238.62.170:8443,ORACLE-BMC-31898
+https://89.187.160.66:8443,89.187.160.66,8443,https,,,JP,Tokyo,https://89.187.160.66:8443,Datacamp Limited
+https://47.79.39.72:8880,47.79.39.72,8880,https,,,JP,Tokyo,https://47.79.39.72:8880,
+https://taien.hidns.co:8880,47.79.39.72,8880,https,,hidns.co,JP,Tokyo,https://taien.hidns.co:8880,
+https://47.79.33.240:8880,47.79.33.240,8880,https,,,JP,Tokyo,https://47.79.33.240:8880,
+https://113.156.223.217:10049,113.156.223.217,10049,https,,,JP,Tokyo,https://113.156.223.217:10049,KDDI CORPORATION
+https://18.178.82.213:10332,18.178.82.213,10332,https,,,JP,Tokyo,https://18.178.82.213:10332,AMAZON-02
+https://54.95.254.136:8880,54.95.254.136,8880,https,,,JP,Tokyo,https://54.95.254.136:8880,AMAZON-02
+https://103.35.189.42:2096,103.35.189.42,2096,https,,,JP,Tokyo,https://103.35.189.42:2096,ARTERIA Networks Corporation
+https://154.40.62.161:4433,154.40.62.161,4433,https,,,JP,Tokyo,https://154.40.62.161:4433,DIGITALVIRT
+https://43.207.156.183:7777,43.207.156.183,7777,https,,,JP,Tokyo,https://43.207.156.183:7777,AMAZON-02
+https://54.95.33.218:1111,54.95.33.218,1111,https,,,JP,Tokyo,https://54.95.33.218:1111,AMAZON-02
+https://13.115.46.153:55555,13.115.46.153,55555,https,,,JP,Tokyo,https://13.115.46.153:55555,AMAZON-02
+https://110.131.206.103:10101,110.131.206.103,10101,https,,,JP,Tokyo,https://110.131.206.103:10101,"JCOM Co., Ltd."
+https://188.253.19.126:7777,188.253.19.126,7777,https,,,JP,Tokyo,https://188.253.19.126:7777,AMAZON-02
+https://65.49.237.8:8886,65.49.237.8,8886,https,,,JP,Tokyo,https://65.49.237.8:8886,IT7NET
+https://_8887._https.rbcethj.f2ng8gk-x3d2.com:8886,65.49.237.8,8886,https,,f2ng8gk-x3d2.com,JP,Tokyo,https://_8887._https.rbcethj.f2ng8gk-x3d2.com:8886,IT7NET
+https://18.183.62.101:8191,18.183.62.101,8191,https,,,JP,Tokyo,https://18.183.62.101:8191,AMAZON-02
+https://204123.com:8886,65.49.237.39,8886,https,,204123.com,JP,Tokyo,https://204123.com:8886,IT7NET
+https://b.3277708.cc:8886,65.49.237.39,8886,https,,3277708.cc,JP,Tokyo,https://b.3277708.cc:8886,IT7NET
+https://3277707.cc:8886,65.49.237.39,8886,https,,3277707.cc,JP,Tokyo,https://3277707.cc:8886,IT7NET
+https://www.3111986.com:8886,65.49.237.39,8886,https,,3111986.com,JP,Tokyo,https://www.3111986.com:8886,IT7NET
+https://65.49.237.39:8886,65.49.237.39,8886,https,,,JP,Tokyo,https://65.49.237.39:8886,IT7NET
+https://hcw67878com.60066z.com:8886,65.49.237.39,8886,https,,60066z.com,JP,Tokyo,https://hcw67878com.60066z.com:8886,IT7NET
+https://a.3277701.cc:8886,65.49.237.39,8886,https,,3277701.cc,JP,Tokyo,https://a.3277701.cc:8886,IT7NET
+https://www.3111981.com:8886,65.49.237.39,8886,https,,3111981.com,JP,Tokyo,https://www.3111981.com:8886,IT7NET
+https://a.3277713.vip:8886,65.49.237.39,8886,https,,3277713.vip,JP,Tokyo,https://a.3277713.vip:8886,IT7NET
+https://3277708.cc:8886,65.49.237.39,8886,https,,3277708.cc,JP,Tokyo,https://3277708.cc:8886,IT7NET
+https://a.3277718.vip:8886,65.49.237.39,8886,https,,3277718.vip,JP,Tokyo,https://a.3277718.vip:8886,IT7NET
+https://www.3111973.com:8886,65.49.237.39,8886,https,,3111973.com,JP,Tokyo,https://www.3111973.com:8886,IT7NET
+https://www.3111976.com:8886,65.49.237.39,8886,https,,3111976.com,JP,Tokyo,https://www.3111976.com:8886,IT7NET
+https://43.133.211.105:5443,43.133.211.105,5443,https,,,JP,Tokyo,https://43.133.211.105:5443,"Tencent Building, Kejizhongyi Avenue"
+https://139.162.65.242:110,139.162.65.242,110,https,,,JP,Tokyo,https://139.162.65.242:110,Akamai Connected Cloud
+https://47.74.46.240:8165,47.74.46.240,8165,https,,,JP,Tokyo,https://47.74.46.240:8165,"Alibaba US Technology Co., Ltd."
+https://43.163.231.2:80,43.163.231.2,80,https,,,JP,Tokyo,https://43.163.231.2:80,"Tencent Building, Kejizhongyi Avenue"
+https://168.138.52.243:9003,168.138.52.243,9003,https,,,JP,Osaka,https://168.138.52.243:9003,ORACLE-BMC-31898
+https://23.106.130.200:80,23.106.130.200,80,https,,,JP,Osaka,https://23.106.130.200:80,IT7NET
+https://15.152.50.17:8141,15.152.50.17,8141,https,,,JP,Osaka,https://15.152.50.17:8141,AMAZON-02
+https://188.253.19.248:8443,188.253.19.248,8443,https,,,JP,Tokyo,https://188.253.19.248:8443,AMAZON-02
+https://103.75.70.106:8443,103.75.70.106,8443,https,,,JP,Tokyo,https://103.75.70.106:8443,Canopus It Solutions Pvt Ltd
+https://outline-lv-1.serva4ok.org:8443,103.231.73.144,8443,https,,serva4ok.org,JP,Tokyo,https://outline-lv-1.serva4ok.org:8443,ARTERIA Networks Corporation
+https://103.231.73.144:8443,103.231.73.144,8443,https,,,JP,Tokyo,https://103.231.73.144:8443,ARTERIA Networks Corporation
+https://103.35.189.81:8443,103.35.189.81,8443,https,,,JP,Tokyo,https://103.35.189.81:8443,ARTERIA Networks Corporation
+https://188.253.25.225:8443,188.253.25.225,8443,https,,,JP,Tokyo,https://188.253.25.225:8443,AMAZON-02
+https://172.233.84.110:8443,172.233.84.110,8443,https,,,JP,Osaka,https://172.233.84.110:8443,Akamai International B.V.
+https://188.253.21.12:8443,188.253.21.12,8443,https,,,JP,Tokyo,https://188.253.21.12:8443,AMAZON-02
+https://188.253.21.135:8443,188.253.21.135,8443,https,,,JP,Tokyo,https://188.253.21.135:8443,AMAZON-02
+https://5.180.45.102:8443,5.180.45.102,8443,https,,,JP,Tokyo,https://5.180.45.102:8443,ENZUINC
+https://131.186.32.192:8443,131.186.32.192,8443,https,,,JP,Tokyo,https://131.186.32.192:8443,ORACLE-BMC-31898
+https://188.253.19.142:8443,188.253.19.142,8443,https,,,JP,Tokyo,https://188.253.19.142:8443,AMAZON-02
+https://188.253.16.238:8443,188.253.16.238,8443,https,,,JP,Tokyo,https://188.253.16.238:8443,AMAZON-02
+https://168.138.41.216:8443,168.138.41.216,8443,https,,,JP,Osaka,https://168.138.41.216:8443,ORACLE-BMC-31898
+https://188.253.21.139:8443,188.253.21.139,8443,https,,,JP,Tokyo,https://188.253.21.139:8443,AMAZON-02
+https://188.253.21.136:8443,188.253.21.136,8443,https,,,JP,Tokyo,https://188.253.21.136:8443,AMAZON-02
+https://188.253.22.45:8443,188.253.22.45,8443,https,,,JP,Tokyo,https://188.253.22.45:8443,AMAZON-02
+https://188.253.19.100:8443,188.253.19.100,8443,https,,,JP,Tokyo,https://188.253.19.100:8443,AMAZON-02
+https://35.73.129.155:8443,35.73.129.155,8443,https,,,JP,Tokyo,https://35.73.129.155:8443,AMAZON-02
+https://150.230.204.141:8443,150.230.204.141,8443,https,,,JP,Tokyo,https://150.230.204.141:8443,ORACLE-BMC-31898
+https://35.74.208.160:8443,35.74.208.160,8443,https,,,JP,Tokyo,https://35.74.208.160:8443,AMAZON-02
+https://195.245.241.127:8443,195.245.241.127,8443,https,,,JP,Tokyo,https://195.245.241.127:8443,Owl Limited
+https://126.125.233.250:8443,126.125.233.250,8443,https,,,JP,Tokyo,https://126.125.233.250:8443,Softbank BB Corp.
+https://38.180.28.163:8443,38.180.28.163,8443,https,,,JP,Tokyo,https://38.180.28.163:8443,M247 Europe SRL
+https://5.104.75.10:8443,5.104.75.10,8443,https,,,JP,Tokyo,https://5.104.75.10:8443,SIA Singularity Telecom
+https://188.253.21.14:8443,188.253.21.14,8443,https,,,JP,Tokyo,https://188.253.21.14:8443,AMAZON-02
+https://188.253.21.137:8443,188.253.21.137,8443,https,,,JP,Tokyo,https://188.253.21.137:8443,AMAZON-02
+https://182.163.94.45:8443,182.163.94.45,8443,https,,,JP,Tokyo,https://182.163.94.45:8443,"FreeBit Co.,Ltd."
+https://188.253.17.204:8443,188.253.17.204,8443,https,,,JP,Tokyo,https://188.253.17.204:8443,AMAZON-02
+https://jp.wdnmd.pro:8443,138.2.36.157,8443,https,,wdnmd.pro,JP,Osaka,https://jp.wdnmd.pro:8443,ORACLE-BMC-31898
+https://5.104.75.123:8443,5.104.75.123,8443,https,,,JP,Tokyo,https://5.104.75.123:8443,SIA Singularity Telecom
+https://188.253.19.222:8443,188.253.19.222,8443,https,,,JP,Tokyo,https://188.253.19.222:8443,AMAZON-02
+https://45.8.114.64:8443,45.8.114.64,8443,https,,,JP,Osaka,https://45.8.114.64:8443,xTom
+https://47.79.34.241:8443,47.79.34.241,8443,https,,,JP,Tokyo,https://47.79.34.241:8443,
+https://188.253.22.38:8443,188.253.22.38,8443,https,,,JP,Tokyo,https://188.253.22.38:8443,AMAZON-02
+https://103.231.73.10:8443,103.231.73.10,8443,https,,,JP,Tokyo,https://103.231.73.10:8443,ARTERIA Networks Corporation
+https://18.179.135.143:8443,18.179.135.143,8443,https,,,JP,Tokyo,https://18.179.135.143:8443,AMAZON-02
+https://8.209.212.180:8443,8.209.212.180,8443,https,,,JP,Tokyo,https://8.209.212.180:8443,"Alibaba US Technology Co., Ltd."
+https://188.253.22.219:8443,188.253.22.219,8443,https,,,JP,Tokyo,https://188.253.22.219:8443,AMAZON-02
+https://kormyshka.secure.isgood.host:8443,188.253.22.219,8443,https,,isgood.host,JP,Tokyo,https://kormyshka.secure.isgood.host:8443,AMAZON-02
+https://5.104.75.196:8443,5.104.75.196,8443,https,,,JP,Tokyo,https://5.104.75.196:8443,SIA Singularity Telecom
+https://138.3.214.175:8443,138.3.214.175,8443,https,,,JP,Tokyo,https://138.3.214.175:8443,ORACLE-BMC-31898
+https://188.253.24.161:8443,188.253.24.161,8443,https,,,JP,Tokyo,https://188.253.24.161:8443,AMAZON-02
+https://103.137.212.47:8443,103.137.212.47,8443,https,,,JP,Tokyo,https://103.137.212.47:8443,rainbow network limited
+https://103.169.216.131:10443,103.169.216.131,10443,https,,,JP,Tokyo,https://103.169.216.131:10443,"JINX CO., LIMITED"
+https://103.20.198.18:80,103.20.198.18,80,https,,,JP,Tokyo,https://103.20.198.18:80,Nearoute Limited.
+https://13.208.164.60:8056,13.208.164.60,8056,https,,,JP,Osaka,https://13.208.164.60:8056,AMAZON-02
+https://23.249.22.2:10443,23.249.22.2,10443,https,,,JP,Tokyo,https://23.249.22.2:10443,
+https://15.168.240.74:8045,15.168.240.74,8045,https,,,JP,Osaka,https://15.168.240.74:8045,AMAZON-02
+https://54.250.28.236:1198,54.250.28.236,1198,https,,,JP,Tokyo,https://54.250.28.236:1198,AMAZON-02
+https://54.250.28.236:1998,54.250.28.236,1998,https,,,JP,Tokyo,https://54.250.28.236:1998,AMAZON-02
+https://54.250.28.236:2948,54.250.28.236,2948,https,,,JP,Tokyo,https://54.250.28.236:2948,AMAZON-02
+https://54.250.28.236:5498,54.250.28.236,5498,https,,,JP,Tokyo,https://54.250.28.236:5498,AMAZON-02
+https://54.250.28.236:2598,54.250.28.236,2598,https,,,JP,Tokyo,https://54.250.28.236:2598,AMAZON-02
+https://54.238.31.218:8045,54.238.31.218,8045,https,,,JP,Tokyo,https://54.238.31.218:8045,AMAZON-02
+https://152.70.82.45:8029,152.70.82.45,8029,https,,,JP,Osaka,https://152.70.82.45:8029,ORACLE-BMC-31898
+https://64.176.55.41:1024,64.176.55.41,1024,https,,,JP,Osaka,https://64.176.55.41:1024,AS-CHOOPA
+https://64.176.54.251:8013,64.176.54.251,8013,https,,,JP,Osaka,https://64.176.54.251:8013,AS-CHOOPA
+https://103.231.73.10:2053,103.231.73.10,2053,https,,,JP,Tokyo,https://103.231.73.10:2053,ARTERIA Networks Corporation
+https://85.208.109.20:8443,85.208.109.20,8443,https,,,JP,Tokyo,https://85.208.109.20:8443,ENZUINC
+https://_8889._https.vshtjc.sqew5gs5d-vo9c.com:8889,65.49.236.71,8889,https,,sqew5gs5d-vo9c.com,JP,Tokyo,https://_8889._https.vshtjc.sqew5gs5d-vo9c.com:8889,IT7NET
+https://www.vxg5ef2ar-tru5d.com:8889,65.49.236.71,8889,https,,vxg5ef2ar-tru5d.com,JP,Tokyo,https://www.vxg5ef2ar-tru5d.com:8889,IT7NET
+https://_8889._https.bzkic.fhawg1qi3-bgy9d.com:8889,65.49.236.71,8889,https,,fhawg1qi3-bgy9d.com,JP,Tokyo,https://_8889._https.bzkic.fhawg1qi3-bgy9d.com:8889,IT7NET
+https://_8889._https.zwpzy.yaxv0gr5d-vo9s.com:8889,65.49.236.71,8889,https,,yaxv0gr5d-vo9s.com,JP,Tokyo,https://_8889._https.zwpzy.yaxv0gr5d-vo9s.com:8889,IT7NET
+https://_8889._https.pwsoq.fssi9gb2d-vo7t.com:8889,65.49.236.71,8889,https,,fssi9gb2d-vo7t.com,JP,Tokyo,https://_8889._https.pwsoq.fssi9gb2d-vo7t.com:8889,IT7NET
+https://65.49.236.71:8889,65.49.236.71,8889,https,,,JP,Tokyo,https://65.49.236.71:8889,IT7NET
+https://b.vxg5ef2ar-tru5d.com:8889,65.49.236.71,8889,https,,vxg5ef2ar-tru5d.com,JP,Tokyo,https://b.vxg5ef2ar-tru5d.com:8889,IT7NET
+https://www.rdg1we7ya-eyy1d.com:8889,65.49.236.71,8889,https,,rdg1we7ya-eyy1d.com,JP,Tokyo,https://www.rdg1we7ya-eyy1d.com:8889,IT7NET
+https://b.wg2jk3tu-mkf2d.com:8889,65.49.236.71,8889,https,,wg2jk3tu-mkf2d.com,JP,Tokyo,https://b.wg2jk3tu-mkf2d.com:8889,IT7NET
+https://a.ijg3kg1jy-dfa3d.com:8889,65.49.236.71,8889,https,,ijg3kg1jy-dfa3d.com,JP,Tokyo,https://a.ijg3kg1jy-dfa3d.com:8889,IT7NET
+https://_8889._https.vglrr.fssi9gb2d-vo7t.com:8889,65.49.236.71,8889,https,,fssi9gb2d-vo7t.com,JP,Tokyo,https://_8889._https.vglrr.fssi9gb2d-vo7t.com:8889,IT7NET
+https://_8889._https.dgmjn.fssi9gb2d-vo7t.com:8889,65.49.236.71,8889,https,,fssi9gb2d-vo7t.com,JP,Tokyo,https://_8889._https.dgmjn.fssi9gb2d-vo7t.com:8889,IT7NET
+https://_8889._https.jdjbez.reyr8go0d-vo7g.com:8889,65.49.236.71,8889,https,,reyr8go0d-vo7g.com,JP,Tokyo,https://_8889._https.jdjbez.reyr8go0d-vo7g.com:8889,IT7NET
+https://_8889._https.vtfns.tfsrg3zg3-nju8d.com:8889,65.49.236.71,8889,https,,tfsrg3zg3-nju8d.com,JP,Tokyo,https://_8889._https.vtfns.tfsrg3zg3-nju8d.com:8889,IT7NET
+https://a.ewg0re7df-gfa0d.com:8889,65.49.236.71,8889,https,,ewg0re7df-gfa0d.com,JP,Tokyo,https://a.ewg0re7df-gfa0d.com:8889,IT7NET
+https://a.vxg8rt9ad-ezf8d.com:8889,65.49.236.71,8889,https,,vxg8rt9ad-ezf8d.com,JP,Tokyo,https://a.vxg8rt9ad-ezf8d.com:8889,IT7NET
+https://_8889._https.ksybe.hpag8lp3-hft9d.com:8889,65.49.236.71,8889,https,,hpag8lp3-hft9d.com,JP,Tokyo,https://_8889._https.ksybe.hpag8lp3-hft9d.com:8889,IT7NET
+https://_8889._https.gyveq.fssi9gb2d-vo7t.com:8889,65.49.236.71,8889,https,,fssi9gb2d-vo7t.com,JP,Tokyo,https://_8889._https.gyveq.fssi9gb2d-vo7t.com:8889,IT7NET
+https://_8889._https.wiuix.vy2e7lk-7uv.com:8889,65.49.236.71,8889,https,,vy2e7lk-7uv.com,JP,Tokyo,https://_8889._https.wiuix.vy2e7lk-7uv.com:8889,IT7NET
+https://_8889._https.wmvns.ftgeg5un5-fsa0d.com:8889,65.49.236.71,8889,https,,ftgeg5un5-fsa0d.com,JP,Tokyo,https://_8889._https.wmvns.ftgeg5un5-fsa0d.com:8889,IT7NET
+https://a.sdg5rv1tr-yth5d.com:8889,65.49.236.71,8889,https,,sdg5rv1tr-yth5d.com,JP,Tokyo,https://a.sdg5rv1tr-yth5d.com:8889,IT7NET
+https://_8889._https.jwqch.fssi9gb2d-vo7t.com:8889,65.49.236.71,8889,https,,fssi9gb2d-vo7t.com,JP,Tokyo,https://_8889._https.jwqch.fssi9gb2d-vo7t.com:8889,IT7NET
+https://a.ug6fw6ih-tyt6d.com:8889,65.49.236.71,8889,https,,ug6fw6ih-tyt6d.com,JP,Tokyo,https://a.ug6fw6ih-tyt6d.com:8889,IT7NET
+https://_8889._https.lmcfw.fssi9gb2d-vo7t.com:8889,65.49.236.71,8889,https,,fssi9gb2d-vo7t.com,JP,Tokyo,https://_8889._https.lmcfw.fssi9gb2d-vo7t.com:8889,IT7NET
+https://_8889._https.pjtwvc.yuarg8we7-kbh2d.com:8889,65.49.236.71,8889,https,,yuarg8we7-kbh2d.com,JP,Tokyo,https://_8889._https.pjtwvc.yuarg8we7-kbh2d.com:8889,IT7NET
+https://_8889._https.xeltc.ftgeg5un5-fsa0d.com:8889,65.49.236.71,8889,https,,ftgeg5un5-fsa0d.com,JP,Tokyo,https://_8889._https.xeltc.ftgeg5un5-fsa0d.com:8889,IT7NET
+https://_8889._https.wjlst.fssi9gb2d-vo7t.com:8889,65.49.236.71,8889,https,,fssi9gb2d-vo7t.com,JP,Tokyo,https://_8889._https.wjlst.fssi9gb2d-vo7t.com:8889,IT7NET
+https://b.esg5xv2rs-ywy5d.com:8889,65.49.236.71,8889,https,,esg5xv2rs-ywy5d.com,JP,Tokyo,https://b.esg5xv2rs-ywy5d.com:8889,IT7NET
+https://_8889._https.mezlf.fssi9gb2d-vo7t.com:8889,65.49.236.71,8889,https,,fssi9gb2d-vo7t.com,JP,Tokyo,https://_8889._https.mezlf.fssi9gb2d-vo7t.com:8889,IT7NET
+https://_8889._https.rvpsc.fssi9gb2d-vo7t.com:8889,65.49.236.71,8889,https,,fssi9gb2d-vo7t.com,JP,Tokyo,https://_8889._https.rvpsc.fssi9gb2d-vo7t.com:8889,IT7NET
+https://149.28.31.107:10010,149.28.31.107,10010,https,,,JP,Tokyo,https://149.28.31.107:10010,AS-CHOOPA
+https://103.35.188.233:2053,103.35.188.233,2053,https,,,JP,Tokyo,https://103.35.188.233:2053,ARTERIA Networks Corporation
+https://94.177.131.183:8443,94.177.131.183,8443,https,,,JP,Tokyo,https://94.177.131.183:8443,
+https://5.104.75.196:2053,5.104.75.196,2053,https,,,JP,Tokyo,https://5.104.75.196:2053,SIA Singularity Telecom
+https://5.104.75.123:2053,5.104.75.123,2053,https,,,JP,Tokyo,https://5.104.75.123:2053,SIA Singularity Telecom
+https://188.253.25.60:2053,188.253.25.60,2053,https,,,JP,Tokyo,https://188.253.25.60:2053,AMAZON-02
+https://5.104.75.12:2053,5.104.75.12,2053,https,,,JP,Tokyo,https://5.104.75.12:2053,SIA Singularity Telecom
+https://hnwg.tk:2052,193.123.161.248,2052,https,,hnwg.tk,JP,Tokyo,https://hnwg.tk:2052,ORACLE-BMC-31898
+https://103.231.73.149:2053,103.231.73.149,2053,https,,,JP,Tokyo,https://103.231.73.149:2053,ARTERIA Networks Corporation
+https://103.231.73.151:2053,103.231.73.151,2053,https,,,JP,Tokyo,https://103.231.73.151:2053,ARTERIA Networks Corporation

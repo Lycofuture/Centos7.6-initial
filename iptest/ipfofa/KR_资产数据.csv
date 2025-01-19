@@ -1,0 +1,351 @@
+﻿host,ip,port,protocol,title,domain,country,city,link,as_organization
+https://183.104.93.244:30005,183.104.93.244,30005,https,,,KR,Seongnam,https://183.104.93.244:30005,Korea Telecom
+https://58.239.136.32:30005,58.239.136.32,30005,https,,,KR,Busan,https://58.239.136.32:30005,SK Broadband Co Ltd
+https://180.68.18.119:30005,180.68.18.119,30005,https,,,KR,Seoul,https://180.68.18.119:30005,SK Broadband Co Ltd
+https://14.58.117.125:30002,14.58.117.125,30002,https,,,KR,Seongnam,https://14.58.117.125:30002,Korea Telecom
+https://211.55.213.199:30005,211.55.213.199,30005,https,,,KR,Seongnam,https://211.55.213.199:30005,Korea Telecom
+https://121.129.75.204:30005,121.129.75.204,30005,https,,,KR,Seoul,https://121.129.75.204:30005,Korea Telecom
+https://175.192.27.197:30005,175.192.27.197,30005,https,,,KR,Seongnam,https://175.192.27.197:30005,Korea Telecom
+https://221.152.230.125:25105,221.152.230.125,25105,https,,,KR,Busan,https://221.152.230.125:25105,Korea Telecom
+https://211.231.47.120:10243,211.231.47.120,10243,https,,,KR,Seongnam,https://211.231.47.120:10243,Korea Telecom
+https://175.201.220.169:19150,175.201.220.169,19150,https,,,KR,Seongnam,https://175.201.220.169:19150,Korea Telecom
+https://59.20.141.38:11434,59.20.141.38,11434,https,,,KR,Seongnam,https://59.20.141.38:11434,Korea Telecom
+https://168.126.108.158:27443,168.126.108.158,27443,https,,,KR,Seongnam,https://168.126.108.158:27443,Korea Telecom
+https://112.164.161.5:10005,112.164.161.5,10005,https,,,KR,Suncheon,https://112.164.161.5:10005,Korea Telecom
+https://35.216.16.31:18443,35.216.16.31,18443,https,,,KR,Seoul,https://35.216.16.31:18443,GOOGLE
+https://122.252.123.220:22335,122.252.123.220,22335,https,,,KR,Seoul,https://122.252.123.220:22335,LG HelloVision Corp.
+https://122.36.31.22:16992,122.36.31.22,16992,https,,,KR,Seoul,https://122.36.31.22:16992,LG POWERCOMM
+https://61.83.8.8:10245,61.83.8.8,10245,https,,,KR,Geoje,https://61.83.8.8:10245,Korea Telecom
+https://132.226.238.191:10002,132.226.238.191,10002,https,,,KR,Seoul,https://132.226.238.191:10002,ORACLE-BMC-31898
+https://49.238.237.3:2443,49.238.237.3,2443,https,,,KR,Seoul,https://49.238.237.3:2443,DREAMMARK1
+https://118.42.188.118:10000,118.42.188.118,10000,https,,,KR,Seongnam,https://118.42.188.118:10000,Korea Telecom
+https://222.113.136.246:10000,222.113.136.246,10000,https,,,KR,Seongnam,https://222.113.136.246:10000,Korea Telecom
+https://221.164.240.160:10002,221.164.240.160,10002,https,,,KR,Seongnam,https://221.164.240.160:10002,Korea Telecom
+https://121.138.98.202:10443,121.138.98.202,10443,https,,,KR,Seongnam,https://121.138.98.202:10443,Korea Telecom
+https://124.216.65.6:26214,124.216.65.6,26214,https,,,KR,Ulsan,https://124.216.65.6:26214,Ulsan Jung-Ang Broadcasting Network
+https://175.195.126.28:10443,175.195.126.28,10443,https,,,KR,Seongnam,https://175.195.126.28:10443,Korea Telecom
+https://124.49.18.2:10443,124.49.18.2,10443,https,,,KR,Seoul,https://124.49.18.2:10443,LG POWERCOMM
+https://123.143.49.3:14443,123.143.49.3,14443,https,,,KR,Seoul,https://123.143.49.3:14443,LG DACOM Corporation
+https://116.127.28.49:19150,116.127.28.49,19150,https,,,KR,Seoul,https://116.127.28.49:19150,SK Broadband Co Ltd
+https://211.105.86.219:30012,211.105.86.219,30012,https,,,KR,Seongnam,https://211.105.86.219:30012,Korea Telecom
+https://43.203.53.49:8443,43.203.53.49,8443,https,,,KR,Seoul,https://43.203.53.49:8443,AMAZON-02
+https://15.164.56.85:8443,15.164.56.85,8443,https,,,KR,Icheon,https://15.164.56.85:8443,AMAZON-02
+https://14.56.226.68:10443,14.56.226.68,10443,https,,,KR,Seongnam,https://14.56.226.68:10443,Korea Telecom
+https://49.143.129.254:12300,49.143.129.254,12300,https,,,KR,Daejeon,https://49.143.129.254:12300,"CMB Daejeon Broadcasting Co,.Ltd"
+https://119.18.114.201:11285,119.18.114.201,11285,https,,,KR,Gyeongsan,https://119.18.114.201:11285,LG HelloVision Corp.
+https://183.108.34.248:10443,183.108.34.248,10443,https,,,KR,Seongnam,https://183.108.34.248:10443,Korea Telecom
+https://59.14.4.241:10000,59.14.4.241,10000,https,,,KR,Suwon,https://59.14.4.241:10000,Korea Telecom
+https://210.222.30.180:27017,210.222.30.180,27017,https,,,KR,Seongnam,https://210.222.30.180:27017,Korea Telecom
+https://61.108.242.70:27017,61.108.242.70,27017,https,,,KR,Seoul,https://61.108.242.70:27017,LG HelloVision Corp.
+https://218.157.227.35:27017,218.157.227.35,27017,https,,,KR,Seongnam,https://218.157.227.35:27017,Korea Telecom
+https://221.156.244.42:27017,221.156.244.42,27017,https,,,KR,Seongnam,https://221.156.244.42:27017,Korea Telecom
+https://218.158.109.102:27017,218.158.109.102,27017,https,,,KR,Seongnam,https://218.158.109.102:27017,Korea Telecom
+https://220.83.59.77:12203,220.83.59.77,12203,https,,,KR,Seongnam,https://220.83.59.77:12203,Korea Telecom
+https://14.41.44.168:27017,14.41.44.168,27017,https,,,KR,Seongnam,https://14.41.44.168:27017,Korea Telecom
+https://118.41.73.169:27017,118.41.73.169,27017,https,,,KR,Pohang,https://118.41.73.169:27017,Korea Telecom
+https://211.248.59.31:18080,211.248.59.31,18080,https,,,KR,Seongnam,https://211.248.59.31:18080,Korea Telecom
+https://121.178.83.129:11423,121.178.83.129,11423,https,,,KR,Gurye,https://121.178.83.129:11423,Korea Telecom
+https://121.139.122.10:10000,121.139.122.10,10000,https,,,KR,Seongnam,https://121.139.122.10:10000,Korea Telecom
+https://220.77.138.245:27017,220.77.138.245,27017,https,,,KR,Seongnam,https://220.77.138.245:27017,Korea Telecom
+https://211.184.62.104:13720,211.184.62.104,13720,https,,,KR,Seongnam,https://211.184.62.104:13720,Korea Telecom
+https://110.44.195.163:10002,110.44.195.163,10002,https,,,KR,Seoul,https://110.44.195.163:10002,LG HelloVision Corp.
+https://220.122.59.161:10002,220.122.59.161,10002,https,,,KR,Seongnam,https://220.122.59.161:10002,Korea Telecom
+https://121.155.63.190:27017,121.155.63.190,27017,https,,,KR,Seongnam,https://121.155.63.190:27017,Korea Telecom
+https://220.81.151.239:13722,220.81.151.239,13722,https,,,KR,Seongnam,https://220.81.151.239:13722,Korea Telecom
+https://125.137.50.78:10002,125.137.50.78,10002,https,,,KR,Seongnam,https://125.137.50.78:10002,Korea Telecom
+https://118.33.118.200:10000,118.33.118.200,10000,https,,,KR,Seongnam,https://118.33.118.200:10000,Korea Telecom
+https://125.143.186.132:27017,125.143.186.132,27017,https,,,KR,Guri,https://125.143.186.132:27017,Korea Telecom
+https://125.131.236.206:10002,125.131.236.206,10002,https,,,KR,Seongnam,https://125.131.236.206:10002,Korea Telecom
+https://180.66.141.145:27443,180.66.141.145,27443,https,,,KR,Seoul,https://180.66.141.145:27443,SK Broadband Co Ltd
+https://39.119.138.181:10443,39.119.138.181,10443,https,,,KR,Seoul,https://39.119.138.181:10443,SK Broadband Co Ltd
+https://58.122.128.254:10088,58.122.128.254,10088,https,,,KR,Seoul,https://58.122.128.254:10088,SK Broadband Co Ltd
+https://112.185.128.56:10065,112.185.128.56,10065,https,,,KR,Seongnam,https://112.185.128.56:10065,Korea Telecom
+https://180.230.169.39:10002,180.230.169.39,10002,https,,,KR,Suwon,https://180.230.169.39:10002,LG POWERCOMM
+https://185.249.135.206:2020,185.249.135.206,2020,https,,,KR,Seoul,https://185.249.135.206:2020,
+https://59.27.171.204:31337,59.27.171.204,31337,https,,,KR,Seongnam,https://59.27.171.204:31337,Korea Telecom
+https://152.67.201.202:9999,152.67.201.202,9999,https,,,KR,Chuncheon,https://152.67.201.202:9999,ORACLE-BMC-31898
+https://59.29.125.71:10443,59.29.125.71,10443,https,,,KR,Seongnam,https://59.29.125.71:10443,Korea Telecom
+https://220.95.20.1:18086,220.95.20.1,18086,https,,,KR,Seongnam,https://220.95.20.1:18086,Korea Telecom
+https://183.107.163.3:23791,183.107.163.3,23791,https,,,KR,Seongnam,https://183.107.163.3:23791,Korea Telecom
+https://183.109.237.62:10443,183.109.237.62,10443,https,,,KR,Seongnam,https://183.109.237.62:10443,Korea Telecom
+https://222.107.185.134:16993,222.107.185.134,16993,https,,,KR,Seongnam,https://222.107.185.134:16993,Korea Telecom
+https://121.175.77.73:10088,121.175.77.73,10088,https,,,KR,Yangsan,https://121.175.77.73:10088,Korea Telecom
+https://43.200.252.54:445,43.200.252.54,445,https,,,KR,Icheon,https://43.200.252.54:445,AMAZON-02
+https://211.243.77.40:18083,211.243.77.40,18083,https,,,KR,Suwon,https://211.243.77.40:18083,SK Broadband Co Ltd
+https://1.231.145.247:10443,1.231.145.247,10443,https,,,KR,Uijeongbu,https://1.231.145.247:10443,SK Broadband Co Ltd
+https://39.126.15.191:11434,39.126.15.191,11434,https,,,KR,Seoul,https://39.126.15.191:11434,"PUSAN CABLE TV SYSTEM CO., LTD."
+https://39.125.3.36:30037,39.125.3.36,30037,https,,,KR,Seoul,https://39.125.3.36:30037,SK Broadband Co Ltd
+https://121.178.83.161:10002,121.178.83.161,10002,https,,,KR,Gurye,https://121.178.83.161:10002,Korea Telecom
+https://182.31.166.20:37777,182.31.166.20,37777,https,,,KR,Jinju,https://182.31.166.20:37777,Seokyung Cable Television Co.. Ltd.
+https://121.184.78.62:10443,121.184.78.62,10443,https,,,KR,Seongnam,https://121.184.78.62:10443,Korea Telecom
+https://14.51.201.141:10000,14.51.201.141,10000,https,,,KR,Seongnam,https://14.51.201.141:10000,Korea Telecom
+https://39.126.102.220:10002,39.126.102.220,10002,https,,,KR,Seoul,https://39.126.102.220:10002,"PUSAN CABLE TV SYSTEM CO., LTD."
+https://121.162.29.88:18080,121.162.29.88,18080,https,,,KR,Seongnam,https://121.162.29.88:18080,Korea Telecom
+https://221.148.237.239:28017,221.148.237.239,28017,https,,,KR,Seongnam,https://221.148.237.239:28017,Korea Telecom
+https://175.115.206.204:10088,175.115.206.204,10088,https,,,KR,Seoul,https://175.115.206.204:10088,SK Broadband Co Ltd
+https://112.223.240.147:10443,112.223.240.147,10443,https,,,KR,Seoul,https://112.223.240.147:10443,LG DACOM Corporation
+https://146.56.138.244:10443,146.56.138.244,10443,https,,,KR,Seoul,https://146.56.138.244:10443,ORACLE-BMC-31898
+https://125.137.255.82:28015,125.137.255.82,28015,https,,,KR,Seongnam,https://125.137.255.82:28015,Korea Telecom
+https://39.123.159.34:10443,39.123.159.34,10443,https,,,KR,Seoul,https://39.123.159.34:10443,SK Broadband Co Ltd
+https://175.205.86.137:28017,175.205.86.137,28017,https,,,KR,Cheongju,https://175.205.86.137:28017,Korea Telecom
+https://61.74.213.66:18080,61.74.213.66,18080,https,,,KR,Seongnam,https://61.74.213.66:18080,Korea Telecom
+https://180.68.18.119:10000,180.68.18.119,10000,https,,,KR,Seoul,https://180.68.18.119:10000,SK Broadband Co Ltd
+https://175.194.96.175:10002,175.194.96.175,10002,https,,,KR,Seongnam,https://175.194.96.175:10002,Korea Telecom
+https://146.56.173.92:10000,146.56.173.92,10000,https,,,KR,Seoul,https://146.56.173.92:10000,ORACLE-BMC-31898
+https://114.199.34.148:12999,114.199.34.148,12999,https,,,KR,Daegu,https://114.199.34.148:12999,GREEN CABLE TELEVISION STATION
+https://122.36.31.22:30037,122.36.31.22,30037,https,,,KR,Seoul,https://122.36.31.22:30037,LG POWERCOMM
+https://59.5.139.238:13579,59.5.139.238,13579,https,,,KR,Guri,https://59.5.139.238:13579,Korea Telecom
+https://221.158.83.75:28017,221.158.83.75,28017,https,,,KR,Seongnam,https://221.158.83.75:28017,Korea Telecom
+https://220.123.29.114:10443,220.123.29.114,10443,https,,,KR,Seongnam,https://220.123.29.114:10443,Korea Telecom
+https://211.223.28.36:28017,211.223.28.36,28017,https,,,KR,Seongnam,https://211.223.28.36:28017,Korea Telecom
+https://180.182.134.79:10002,180.182.134.79,10002,https,,,KR,Seoul,https://180.182.134.79:10002,LG HelloVision Corp.
+https://121.175.54.93:30037,121.175.54.93,30037,https,,,KR,Seongnam,https://121.175.54.93:30037,Korea Telecom
+https://121.145.245.158:28017,121.145.245.158,28017,https,,,KR,Miryang,https://121.145.245.158:28017,Korea Telecom
+https://106.253.168.87:18080,106.253.168.87,18080,https,,,KR,Seoul,https://106.253.168.87:18080,LG DACOM Corporation
+https://121.142.60.240:10443,121.142.60.240,10443,https,,,KR,Seongnam,https://121.142.60.240:10443,Korea Telecom
+https://118.40.29.126:10005,118.40.29.126,10005,https,,,KR,Gwangju,https://118.40.29.126:10005,Korea Telecom
+https://183.104.92.31:10443,183.104.92.31,10443,https,,,KR,Seongnam,https://183.104.92.31:10443,Korea Telecom
+https://222.107.185.134:10002,222.107.185.134,10002,https,,,KR,Seongnam,https://222.107.185.134:10002,Korea Telecom
+https://14.50.165.157:10000,14.50.165.157,10000,https,,,KR,Seongnam,https://14.50.165.157:10000,Korea Telecom
+https://59.12.46.51:10002,59.12.46.51,10002,https,,,KR,Suwon,https://59.12.46.51:10002,Korea Telecom
+https://221.151.70.126:10443,221.151.70.126,10443,https,,,KR,Seongnam,https://221.151.70.126:10443,Korea Telecom
+https://121.179.59.233:10443,121.179.59.233,10443,https,,,KR,Seongnam,https://121.179.59.233:10443,Korea Telecom
+https://218.145.4.124:10002,218.145.4.124,10002,https,,,KR,Seongnam,https://218.145.4.124:10002,Korea Telecom
+https://220.125.141.121:10000,220.125.141.121,10000,https,,,KR,Seongnam,https://220.125.141.121:10000,Korea Telecom
+https://59.23.217.249:16922,59.23.217.249,16922,https,,,KR,Gunwi,https://59.23.217.249:16922,Korea Telecom
+https://122.202.237.184:18080,122.202.237.184,18080,https,,,KR,Jeju,https://122.202.237.184:18080,KCTV JEJU BROADCASTING
+https://121.161.56.159:18080,121.161.56.159,18080,https,,,KR,Seongnam,https://121.161.56.159:18080,Korea Telecom
+https://175.207.220.224:27443,175.207.220.224,27443,https,,,KR,Seongnam,https://175.207.220.224:27443,Korea Telecom
+https://39.118.11.108:30303,39.118.11.108,30303,https,,,KR,Seoul,https://39.118.11.108:30303,SK Broadband Co Ltd
+https://220.73.75.74:10443,220.73.75.74,10443,https,,,KR,Seongnam,https://220.73.75.74:10443,Korea Telecom
+https://59.14.3.77:10255,59.14.3.77,10255,https,,,KR,Suwon,https://59.14.3.77:10255,Korea Telecom
+https://3.34.60.229:10443,3.34.60.229,10443,https,,,KR,Icheon,https://3.34.60.229:10443,AMAZON-02
+https://132.226.22.3:9999,132.226.22.3,9999,https,,,KR,Seoul,https://132.226.22.3:9999,ORACLE-BMC-31898
+https://14.50.18.157:37020,14.50.18.157,37020,https,,,KR,Seongnam,https://14.50.18.157:37020,Korea Telecom
+https://58.228.46.173:18080,58.228.46.173,18080,https,,,KR,Seoul,https://58.228.46.173:18080,SK Broadband Co Ltd
+https://218.150.66.110:10000,218.150.66.110,10000,https,,,KR,Seongnam,https://218.150.66.110:10000,Korea Telecom
+https://123.99.111.135:18080,123.99.111.135,18080,https,,,KR,Busan,https://123.99.111.135:18080,SK Broadband Co Ltd
+https://119.200.244.99:10443,119.200.244.99,10443,https,,,KR,Seongnam,https://119.200.244.99:10443,Korea Telecom
+https://119.198.135.151:10443,119.198.135.151,10443,https,,,KR,Busan,https://119.198.135.151:10443,Korea Telecom
+https://183.108.49.180:10002,183.108.49.180,10002,https,,,KR,Seongnam,https://183.108.49.180:10002,Korea Telecom
+https://140.238.31.125:10443,140.238.31.125,10443,https,,,KR,Seoul,https://140.238.31.125:10443,ORACLE-BMC-31898
+https://118.47.69.238:10005,118.47.69.238,10005,https,,,KR,Ulsan,https://118.47.69.238:10005,Korea Telecom
+https://175.213.71.196:10443,175.213.71.196,10443,https,,,KR,Seongnam,https://175.213.71.196:10443,Korea Telecom
+https://132.226.232.194:444,132.226.232.194,444,https,,,KR,Seoul,https://132.226.232.194:444,ORACLE-BMC-31898
+https://13.209.135.221:8443,13.209.135.221,8443,https,,,KR,Icheon,https://13.209.135.221:8443,AMAZON-02
+https://222.120.14.243:10000,222.120.14.243,10000,https,,,KR,Seongnam,https://222.120.14.243:10000,Korea Telecom
+https://61.109.113.232:10000,61.109.113.232,10000,https,,,KR,Seoul,https://61.109.113.232:10000,SK Broadband Co Ltd
+https://218.232.139.60:18080,218.232.139.60,18080,https,,,KR,Seoul,https://218.232.139.60:18080,SK Broadband Co Ltd
+https://59.11.33.164:32771,59.11.33.164,32771,https,,,KR,Seongnam,https://59.11.33.164:32771,Korea Telecom
+https://222.102.94.59:10000,222.102.94.59,10000,https,,,KR,Seongnam,https://222.102.94.59:10000,Korea Telecom
+https://146.56.173.92:10002,146.56.173.92,10002,https,,,KR,Seoul,https://146.56.173.92:10002,ORACLE-BMC-31898
+https://121.175.77.73:10000,121.175.77.73,10000,https,,,KR,Yangsan,https://121.175.77.73:10000,Korea Telecom
+https://124.58.180.235:10000,124.58.180.235,10000,https,,,KR,Bucheon,https://124.58.180.235:10000,LG POWERCOMM
+https://125.137.255.82:18080,125.137.255.82,18080,https,,,KR,Seongnam,https://125.137.255.82:18080,Korea Telecom
+https://183.105.151.175:10002,183.105.151.175,10002,https,,,KR,Sinan,https://183.105.151.175:10002,Korea Telecom
+https://59.22.31.190:13722,59.22.31.190,13722,https,,,KR,Seongnam,https://59.22.31.190:13722,Korea Telecom
+https://58.122.187.141:10443,58.122.187.141,10443,https,,,KR,Seoul,https://58.122.187.141:10443,SK Broadband Co Ltd
+https://210.117.73.66:10218,210.117.73.66,10218,https,,,KR,Seoul,https://210.117.73.66:10218,SK Broadband Co Ltd
+https://3.37.74.98:8443,3.37.74.98,8443,https,,,KR,Seoul,https://3.37.74.98:8443,AMAZON-02
+https://54.180.33.184:8443,54.180.33.184,8443,https,,,KR,Icheon,https://54.180.33.184:8443,AMAZON-02
+https://112.72.202.60:10443,112.72.202.60,10443,https,,,KR,Seoul,https://112.72.202.60:10443,HCN CHUNGBUK CABLE TV SYSTEMS
+https://59.16.25.237:10000,59.16.25.237,10000,https,,,KR,Seongnam,https://59.16.25.237:10000,Korea Telecom
+https://221.165.214.213:37777,221.165.214.213,37777,https,,,KR,Namdong,https://221.165.214.213:37777,Korea Telecom
+https://175.198.156.202:10000,175.198.156.202,10000,https,,,KR,Bucheon,https://175.198.156.202:10000,Korea Telecom
+https://61.76.234.29:34599,61.76.234.29,34599,https,,,KR,Seongnam,https://61.76.234.29:34599,Korea Telecom
+https://54.180.74.192:8443,54.180.74.192,8443,https,,,KR,Icheon,https://54.180.74.192:8443,AMAZON-02
+https://152.70.38.241:18443,152.70.38.241,18443,https,,,KR,Seoul,https://152.70.38.241:18443,ORACLE-BMC-31898
+https://39.124.208.84:30303,39.124.208.84,30303,https,,,KR,Seoul,https://39.124.208.84:30303,SK Broadband Co Ltd
+https://220.80.128.180:13333,220.80.128.180,13333,https,,,KR,Seongnam,https://220.80.128.180:13333,Korea Telecom
+https://52.231.97.210:2053,52.231.97.210,2053,https,,,KR,Seoul,https://52.231.97.210:2053,MICROSOFT-CORP-MSN-AS-BLOCK
+https://58.126.222.195:11434,58.126.222.195,11434,https,,,KR,Seoul,https://58.126.222.195:11434,SK Broadband Co Ltd
+https://61.39.76.186:10073,61.39.76.186,10073,https,,,KR,Seoul,https://61.39.76.186:10073,LG DACOM Corporation
+https://180.68.18.119:11434,180.68.18.119,11434,https,,,KR,Seoul,https://180.68.18.119:11434,SK Broadband Co Ltd
+https://49.238.236.255:2053,49.238.236.255,2053,https,,,KR,Seoul,https://49.238.236.255:2053,DREAMMARK1
+https://49.238.237.3:9443,49.238.237.3,9443,https,,,KR,Seoul,https://49.238.237.3:9443,DREAMMARK1
+https://3.34.60.229:9443,3.34.60.229,9443,https,,,KR,Icheon,https://3.34.60.229:9443,AMAZON-02
+https://185.249.135.206:2053,185.249.135.206,2053,https,,,KR,Seoul,https://185.249.135.206:2053,
+https://185.249.135.130:2053,185.249.135.130,2053,https,,,KR,Seoul,https://185.249.135.130:2053,
+https://54.180.202.133:2053,54.180.202.133,2053,https,,,KR,Icheon,https://54.180.202.133:2053,AMAZON-02
+https://220.121.230.236:10116,220.121.230.236,10116,https,,,KR,Seongnam,https://220.121.230.236:10116,Korea Telecom
+https://49.238.236.12:2083,49.238.236.12,2083,https,,,KR,Seoul,https://49.238.236.12:2083,DREAMMARK1
+https://152.69.224.139:7443,152.69.224.139,7443,https,,,KR,Chuncheon,https://152.69.224.139:7443,ORACLE-BMC-31898
+https://49.238.236.11:2083,49.238.236.11,2083,https,,,KR,Seoul,https://49.238.236.11:2083,DREAMMARK1
+https://49.238.237.171:2053,49.238.237.171,2053,https,,,KR,Seoul,https://49.238.237.171:2053,DREAMMARK1
+https://49.238.237.255:2053,49.238.237.255,2053,https,,,KR,Seoul,https://49.238.237.255:2053,DREAMMARK1
+https://49.238.237.172:2053,49.238.237.172,2053,https,,,KR,Seoul,https://49.238.237.172:2053,DREAMMARK1
+https://222.237.90.90:10230,222.237.90.90,10230,https,,,KR,Seoul,https://222.237.90.90:10230,SK Broadband Co Ltd
+https://59.4.242.89:37810,59.4.242.89,37810,https,,,KR,Seongnam,https://59.4.242.89:37810,Korea Telecom
+https://59.19.185.150:10049,59.19.185.150,10049,https,,,KR,Seongnam,https://59.19.185.150:10049,Korea Telecom
+https://110.13.120.141:10134,110.13.120.141,10134,https,,,KR,Gwangmyeong,https://110.13.120.141:10134,SK Broadband Co Ltd
+https://49.238.237.172:2083,49.238.237.172,2083,https,,,KR,Seoul,https://49.238.237.172:2083,DREAMMARK1
+https://158.247.217.115:2053,158.247.217.115,2053,https,,,KR,Seoul,https://158.247.217.115:2053,AS-CHOOPA
+https://49.238.237.255:2083,49.238.237.255,2083,https,,,KR,Seoul,https://49.238.237.255:2083,DREAMMARK1
+https://49.238.237.171:2083,49.238.237.171,2083,https,,,KR,Seoul,https://49.238.237.171:2083,DREAMMARK1
+https://121.189.160.148:10120,121.189.160.148,10120,https,,,KR,Seongnam,https://121.189.160.148:10120,Korea Telecom
+https://121.188.158.73:34599,121.188.158.73,34599,https,,,KR,Seongnam,https://121.188.158.73:34599,Korea Telecom
+https://49.238.236.12:2053,49.238.236.12,2053,https,,,KR,Seoul,https://49.238.236.12:2053,DREAMMARK1
+https://118.41.95.26:13333,118.41.95.26,13333,https,,,KR,Seongnam,https://118.41.95.26:13333,Korea Telecom
+https://121.186.173.204:10035,121.186.173.204,10035,https,,,KR,Seongnam,https://121.186.173.204:10035,Korea Telecom
+https://49.238.236.255:2083,49.238.236.255,2083,https,,,KR,Seoul,https://49.238.236.255:2083,DREAMMARK1
+https://183.97.71.221:32770,183.97.71.221,32770,https,,,KR,Seongnam,https://183.97.71.221:32770,Korea Telecom
+https://221.167.64.65:10250,221.167.64.65,10250,https,,,KR,Seongnam,https://221.167.64.65:10250,Korea Telecom
+https://121.164.92.132:10333,121.164.92.132,10333,https,,,KR,Seongnam,https://121.164.92.132:10333,Korea Telecom
+https://175.209.8.171:25010,175.209.8.171,25010,https,,,KR,Seongnam,https://175.209.8.171:25010,Korea Telecom
+https://112.171.28.61:33443,112.171.28.61,33443,https,,,KR,Seongnam,https://112.171.28.61:33443,Korea Telecom
+https://125.138.28.68:12300,125.138.28.68,12300,https,,,KR,Seongnam,https://125.138.28.68:12300,Korea Telecom
+https://193.123.251.50:8080,193.123.251.50,8080,https,,,KR,Seoul,https://193.123.251.50:8080,ORACLE-BMC-31898
+https://101.33.68.31:8080,101.33.68.31,8080,https,,,KR,Seoul,https://101.33.68.31:8080,"Tencent Building, Kejizhongyi Avenue"
+https://1.247.35.37:10244,1.247.35.37,10244,https,,,KR,Seoul,https://1.247.35.37:10244,SK Broadband Co Ltd
+https://121.182.176.53:13722,121.182.176.53,13722,https,,,KR,Seongnam,https://121.182.176.53:13722,Korea Telecom
+https://59.1.166.218:29015,59.1.166.218,29015,https,,,KR,Jeonju,https://59.1.166.218:29015,Korea Telecom
+https://146.56.177.247:8080,146.56.177.247,8080,https,,,KR,Seoul,https://146.56.177.247:8080,ORACLE-BMC-31898
+https://64.176.225.3:2053,64.176.225.3,2053,https,,,KR,Seoul,https://64.176.225.3:2053,
+https://220.84.45.97:23791,220.84.45.97,23791,https,,,KR,Seongnam,https://220.84.45.97:23791,Korea Telecom
+https://138.2.117.210:2082,138.2.117.210,2082,https,,,KR,Chuncheon,https://138.2.117.210:2082,ORACLE-BMC-31898
+https://211.222.100.97:32773,211.222.100.97,32773,https,,,KR,Seongnam,https://211.222.100.97:32773,Korea Telecom
+https://121.175.77.73:19888,121.175.77.73,19888,https,,,KR,Yangsan,https://121.175.77.73:19888,Korea Telecom
+https://112.72.140.7:16010,112.72.140.7,16010,https,,,KR,Seoul,https://112.72.140.7:16010,HCN CHUNGBUK CABLE TV SYSTEMS
+https://121.55.153.121:10005,121.55.153.121,10005,https,,,KR,Daegu,https://121.55.153.121:10005,GREEN CABLE TELEVISION STATION
+https://158.247.194.228:2053,158.247.194.228,2053,https,,,KR,Seoul,https://158.247.194.228:2053,AS-CHOOPA
+https://113.199.114.12:29015,113.199.114.12,29015,https,,,KR,Seongnam,https://113.199.114.12:29015,ABN
+https://119.200.192.118:10080,119.200.192.118,10080,https,,,KR,Seongnam,https://119.200.192.118:10080,Korea Telecom
+https://132.226.228.13:4433,132.226.228.13,4433,https,,,KR,Seoul,https://132.226.228.13:4433,ORACLE-BMC-31898
+https://112.223.240.147:13722,112.223.240.147,13722,https,,,KR,Seoul,https://112.223.240.147:13722,LG DACOM Corporation
+https://59.19.210.250:10218,59.19.210.250,10218,https,,,KR,Seongnam,https://59.19.210.250:10218,Korea Telecom
+https://129.154.217.172:3306,129.154.217.172,3306,https,,,KR,Seoul,https://129.154.217.172:3306,ORACLE-BMC-31898
+https://123.214.37.132:25565,123.214.37.132,25565,https,,,KR,Seoul,https://123.214.37.132:25565,SK Broadband Co Ltd
+https://222.102.126.226:32414,222.102.126.226,32414,https,,,KR,Seongnam,https://222.102.126.226:32414,Korea Telecom
+https://49.238.237.171:2096,49.238.237.171,2096,https,,,KR,Seoul,https://49.238.237.171:2096,DREAMMARK1
+https://49.238.236.255:2096,49.238.236.255,2096,https,,,KR,Seoul,https://49.238.236.255:2096,DREAMMARK1
+https://59.19.210.250:18443,59.19.210.250,18443,https,,,KR,Seongnam,https://59.19.210.250:18443,Korea Telecom
+https://123.109.172.6:10250,123.109.172.6,10250,https,,,KR,Seoul,https://123.109.172.6:10250,SK Broadband Co Ltd
+https://183.107.163.3:25105,183.107.163.3,25105,https,,,KR,Seongnam,https://183.107.163.3:25105,Korea Telecom
+https://49.238.238.172:2096,49.238.238.172,2096,https,,,KR,Seoul,https://49.238.238.172:2096,DREAMMARK1
+https://49.238.238.171:2096,49.238.238.171,2096,https,,,KR,Seoul,https://49.238.238.171:2096,DREAMMARK1
+https://49.238.236.12:2096,49.238.236.12,2096,https,,,KR,Seoul,https://49.238.236.12:2096,DREAMMARK1
+https://49.238.236.11:2096,49.238.236.11,2096,https,,,KR,Seoul,https://49.238.236.11:2096,DREAMMARK1
+https://221.151.152.135:30002,221.151.152.135,30002,https,,,KR,Seongnam,https://221.151.152.135:30002,Korea Telecom
+https://49.238.237.255:2096,49.238.237.255,2096,https,,,KR,Seoul,https://49.238.237.255:2096,DREAMMARK1
+https://59.9.149.31:10035,59.9.149.31,10035,https,,,KR,Seongnam,https://59.9.149.31:10035,Korea Telecom
+https://54.180.202.133:8443,54.180.202.133,8443,https,,,KR,Icheon,https://54.180.202.133:8443,AMAZON-02
+https://183.98.116.50:16993,183.98.116.50,16993,https,,,KR,Seongnam,https://183.98.116.50:16993,Korea Telecom
+https://129.154.206.215:8443,129.154.206.215,8443,https,,,KR,Seoul,https://129.154.206.215:8443,ORACLE-BMC-31898
+https://49.238.237.171:2087,49.238.237.171,2087,https,,,KR,Seoul,https://49.238.237.171:2087,DREAMMARK1
+https://59.19.210.250:10049,59.19.210.250,10049,https,,,KR,Seongnam,https://59.19.210.250:10049,Korea Telecom
+https://59.11.89.252:10332,59.11.89.252,10332,https,,,KR,Seongnam,https://59.11.89.252:10332,Korea Telecom
+https://152.70.234.188:8443,152.70.234.188,8443,https,,,KR,Seoul,https://152.70.234.188:8443,ORACLE-BMC-31898
+https://222.97.207.98:37777,222.97.207.98,37777,https,,,KR,Seongnam,https://222.97.207.98:37777,Korea Telecom
+https://146.56.183.185:8443,146.56.183.185,8443,https,,,KR,Seoul,https://146.56.183.185:8443,ORACLE-BMC-31898
+https://158.247.217.211:8443,158.247.217.211,8443,https,,,KR,Seoul,https://158.247.217.211:8443,AS-CHOOPA
+https://158.247.230.27:8443,158.247.230.27,8443,https,,,KR,Seoul,https://158.247.230.27:8443,AS-CHOOPA
+https://3.36.237.215:8443,3.36.237.215,8443,https,,,KR,Icheon,https://3.36.237.215:8443,AMAZON-02
+https://141.164.52.167:8443,141.164.52.167,8443,https,,,KR,Seoul,https://141.164.52.167:8443,AS-CHOOPA
+https://3.35.107.231:8443,3.35.107.231,8443,https,,,KR,Seoul,https://3.35.107.231:8443,AMAZON-02
+https://20.41.77.63:8443,20.41.77.63,8443,https,,,KR,Seoul,https://20.41.77.63:8443,MICROSOFT-CORP-MSN-AS-BLOCK
+https://64.176.226.4:8443,64.176.226.4,8443,https,,,KR,Seoul,https://64.176.226.4:8443,
+https://49.238.236.12:8443,49.238.236.12,8443,https,,,KR,Seoul,https://49.238.236.12:8443,DREAMMARK1
+https://49.238.236.11:8443,49.238.236.11,8443,https,,,KR,Seoul,https://49.238.236.11:8443,DREAMMARK1
+https://146.56.160.64:8443,146.56.160.64,8443,https,,,KR,Seoul,https://146.56.160.64:8443,ORACLE-BMC-31898
+https://218.48.214.4:37810,218.48.214.4,37810,https,,,KR,Seoul,https://218.48.214.4:37810,SK Broadband Co Ltd
+https://49.238.236.12:2087,49.238.236.12,2087,https,,,KR,Seoul,https://49.238.236.12:2087,DREAMMARK1
+https://49.238.236.11:2087,49.238.236.11,2087,https,,,KR,Seoul,https://49.238.236.11:2087,DREAMMARK1
+https://49.238.237.172:8443,49.238.237.172,8443,https,,,KR,Seoul,https://49.238.237.172:8443,DREAMMARK1
+https://49.238.237.171:8443,49.238.237.171,8443,https,,,KR,Seoul,https://49.238.237.171:8443,DREAMMARK1
+https://54.180.135.90:9001,54.180.135.90,9001,https,,,KR,Icheon,https://54.180.135.90:9001,AMAZON-02
+https://220.80.11.79:12192,220.80.11.79,12192,https,,,KR,Seongnam,https://220.80.11.79:12192,Korea Telecom
+https://49.238.236.255:2087,49.238.236.255,2087,https,,,KR,Seoul,https://49.238.236.255:2087,DREAMMARK1
+https://49.238.237.172:2087,49.238.237.172,2087,https,,,KR,Seoul,https://49.238.237.172:2087,DREAMMARK1
+https://218.155.70.238:27017,218.155.70.238,27017,https,,,KR,Seongnam,https://218.155.70.238:27017,Korea Telecom
+https://183.108.109.96:31337,183.108.109.96,31337,https,,,KR,Chuncheon,https://183.108.109.96:31337,Korea Telecom
+https://121.186.173.204:10080,121.186.173.204,10080,https,,,KR,Seongnam,https://121.186.173.204:10080,Korea Telecom
+https://222.120.26.137:16922,222.120.26.137,16922,https,,,KR,Seongnam,https://222.120.26.137:16922,Korea Telecom
+https://52fancy.win:8888,132.226.16.83,8888,https,,52fancy.win,KR,Seoul,https://52fancy.win:8888,ORACLE-BMC-31898
+https://132.226.16.83:8888,132.226.16.83,8888,https,,,KR,Seoul,https://132.226.16.83:8888,ORACLE-BMC-31898
+https://39.112.228.122:22335,39.112.228.122,22335,https,,,KR,Seoul,https://39.112.228.122:22335,SK Broadband Co Ltd
+https://14.44.44.241:13980,14.44.44.241,13980,https,,,KR,Seongnam,https://14.44.44.241:13980,Korea Telecom
+https://138.2.122.57:8880,138.2.122.57,8880,https,,,KR,Chuncheon,https://138.2.122.57:8880,ORACLE-BMC-31898
+https://49.238.237.255:2087,49.238.237.255,2087,https,,,KR,Seoul,https://49.238.237.255:2087,DREAMMARK1
+https://211.247.39.2:10134,211.247.39.2,10134,https,,,KR,Seoul,https://211.247.39.2:10134,SK Broadband Co Ltd
+https://4.217.251.4:8880,4.217.251.4,8880,https,,,KR,Seoul,https://4.217.251.4:8880,MICROSOFT-CORP-MSN-AS-BLOCK
+https://59.5.198.233:10101,59.5.198.233,10101,https,,,KR,Seongnam,https://59.5.198.233:10101,Korea Telecom
+https://59.19.210.250:31337,59.19.210.250,31337,https,,,KR,Seongnam,https://59.19.210.250:31337,Korea Telecom
+https://175.201.70.54:30048,175.201.70.54,30048,https,,,KR,Seongnam,https://175.201.70.54:30048,Korea Telecom
+https://49.238.237.172:2096,49.238.237.172,2096,https,,,KR,Seoul,https://49.238.237.172:2096,DREAMMARK1
+https://1.240.196.227:30013,1.240.196.227,30013,https,,,KR,Seoul,https://1.240.196.227:30013,SK Broadband Co Ltd
+https://158.180.81.148:80,158.180.81.148,80,https,,,KR,Chuncheon,https://158.180.81.148:80,ORACLE-BMC-31898
+https://175.192.144.30:10095,175.192.144.30,10095,https,,,KR,Seongnam,https://175.192.144.30:10095,Korea Telecom
+https://122.32.153.23:30007,122.32.153.23,30007,https,,,KR,Guri,https://122.32.153.23:30007,LG POWERCOMM
+https://59.19.210.250:10081,59.19.210.250,10081,https,,,KR,Seongnam,https://59.19.210.250:10081,Korea Telecom
+https://180.68.18.119:11371,180.68.18.119,11371,https,,,KR,Seoul,https://180.68.18.119:11371,SK Broadband Co Ltd
+https://59.13.27.36:34567,59.13.27.36,34567,https,,,KR,Seongnam,https://59.13.27.36:34567,Korea Telecom
+https://113.130.194.193:11371,113.130.194.193,11371,https,,,KR,Seoul,https://113.130.194.193:11371,LG HelloVision Corp.
+https://183.103.167.69:11965,183.103.167.69,11965,https,,,KR,Seongnam,https://183.103.167.69:11965,Korea Telecom
+https://146.56.173.92:8282,146.56.173.92,8282,https,,,KR,Seoul,https://146.56.173.92:8282,ORACLE-BMC-31898
+https://118.127.192.253:28015,118.127.192.253,28015,https,,,KR,Seoul,https://118.127.192.253:28015,LG HelloVision Corp.
+https://183.107.163.3:11371,183.107.163.3,11371,https,,,KR,Seongnam,https://183.107.163.3:11371,Korea Telecom
+https://152.67.195.193:8282,152.67.195.193,8282,https,,,KR,Chuncheon,https://152.67.195.193:8282,ORACLE-BMC-31898
+https://146.56.44.226:55555,146.56.44.226,55555,https,,,KR,Seoul,https://146.56.44.226:55555,ORACLE-BMC-31898
+https://182.31.205.181:10122,182.31.205.181,10122,https,,,KR,Jinju,https://182.31.205.181:10122,Seokyung Cable Television Co.. Ltd.
+https://112.223.240.147:32770,112.223.240.147,32770,https,,,KR,Seoul,https://112.223.240.147:32770,LG DACOM Corporation
+https://122.36.53.96:30012,122.36.53.96,30012,https,,,KR,Seoul,https://122.36.53.96:30012,LG POWERCOMM
+https://14.52.76.149:30012,14.52.76.149,30012,https,,,KR,Seoul,https://14.52.76.149:30012,Korea Telecom
+https://140.238.10.54:4567,140.238.10.54,4567,https,,,KR,Seoul,https://140.238.10.54:4567,ORACLE-BMC-31898
+https://58.145.53.104:10230,58.145.53.104,10230,https,,,KR,Seoul,https://58.145.53.104:10230,SK Broadband Co Ltd
+https://125.131.159.38:30005,125.131.159.38,30005,https,,,KR,Seongnam,https://125.131.159.38:30005,Korea Telecom
+https://152.67.204.113:3443,152.67.204.113,3443,https,,,KR,Chuncheon,https://152.67.204.113:3443,ORACLE-BMC-31898
+https://112.147.238.250:34567,112.147.238.250,34567,https,,,KR,Seoul,https://112.147.238.250:34567,LG POWERCOMM
+https://39.117.92.22:28017,39.117.92.22,28017,https,,,KR,Seoul,https://39.117.92.22:28017,SK Broadband Co Ltd
+https://112.185.201.42:30037,112.185.201.42,30037,https,,,KR,Seongnam,https://112.185.201.42:30037,Korea Telecom
+https://219.255.114.230:30005,219.255.114.230,30005,https,,,KR,Seoul,https://219.255.114.230:30005,SK Broadband Co Ltd
+https://182.213.153.243:10011,182.213.153.243,10011,https,,,KR,Seongnam,https://182.213.153.243:10011,LG POWERCOMM
+https://122.45.210.38:10082,122.45.210.38,10082,https,,,KR,Guri,https://122.45.210.38:10082,LG POWERCOMM
+https://59.187.74.76:15001,59.187.74.76,15001,https,,,KR,Seoul,https://59.187.74.76:15001,LG DACOM Corporation
+https://180.229.222.116:33001,180.229.222.116,33001,https,,,KR,Seoul,https://180.229.222.116:33001,LG POWERCOMM
+https://124.49.18.2:20001,124.49.18.2,20001,https,,,KR,Seoul,https://124.49.18.2:20001,LG POWERCOMM
+https://218.39.213.65:19888,218.39.213.65,19888,https,,,KR,Seoul,https://218.39.213.65:19888,SK Broadband Co Ltd
+https://183.106.65.65:15443,183.106.65.65,15443,https,,,KR,Seongnam,https://183.106.65.65:15443,Korea Telecom
+https://182.214.97.16:22703,182.214.97.16,22703,https,,,KR,Seoul,https://182.214.97.16:22703,LG POWERCOMM
+https://43.201.85.100:8167,43.201.85.100,8167,https,,,KR,Seoul,https://43.201.85.100:8167,AMAZON-02
+https://121.172.7.211:10080,121.172.7.211,10080,https,,,KR,Seongnam,https://121.172.7.211:10080,Korea Telecom
+https://115.94.182.76:30312,115.94.182.76,30312,https,,,KR,Seoul,https://115.94.182.76:30312,LG DACOM Corporation
+https://221.164.158.107:30310,221.164.158.107,30310,https,,,KR,Seongnam,https://221.164.158.107:30310,Korea Telecom
+https://220.92.214.90:30005,220.92.214.90,30005,https,,,KR,Seongnam,https://220.92.214.90:30005,Korea Telecom
+https://180.229.222.116:33244,180.229.222.116,33244,https,,,KR,Seoul,https://180.229.222.116:33244,LG POWERCOMM
+https://210.16.200.242:36265,210.16.200.242,36265,https,,,KR,Seoul,https://210.16.200.242:36265,abcle
+https://183.107.163.3:18293,183.107.163.3,18293,https,,,KR,Seongnam,https://183.107.163.3:18293,Korea Telecom
+https://121.151.223.104:34963,121.151.223.104,34963,https,,,KR,Seongnam,https://121.151.223.104:34963,Korea Telecom
+https://210.16.200.242:18992,210.16.200.242,18992,https,,,KR,Seoul,https://210.16.200.242:18992,abcle
+https://183.107.163.3:15062,183.107.163.3,15062,https,,,KR,Seongnam,https://183.107.163.3:15062,Korea Telecom
+https://210.16.200.242:19583,210.16.200.242,19583,https,,,KR,Seoul,https://210.16.200.242:19583,abcle
+https://210.16.200.242:12125,210.16.200.242,12125,https,,,KR,Seoul,https://210.16.200.242:12125,abcle
+https://183.107.163.3:11082,183.107.163.3,11082,https,,,KR,Seongnam,https://183.107.163.3:11082,Korea Telecom
+https://183.107.163.3:12326,183.107.163.3,12326,https,,,KR,Seongnam,https://183.107.163.3:12326,Korea Telecom
+https://180.229.222.116:31000,180.229.222.116,31000,https,,,KR,Seoul,https://180.229.222.116:31000,LG POWERCOMM
+https://182.224.47.84:14550,182.224.47.84,14550,https,,,KR,Seoul,https://182.224.47.84:14550,LG POWERCOMM
+https://183.107.163.3:37475,183.107.163.3,37475,https,,,KR,Seongnam,https://183.107.163.3:37475,Korea Telecom
+https://183.107.163.3:22094,183.107.163.3,22094,https,,,KR,Seongnam,https://183.107.163.3:22094,Korea Telecom
+https://210.16.200.242:38237,210.16.200.242,38237,https,,,KR,Seoul,https://210.16.200.242:38237,abcle
+https://124.63.156.29:28713,124.63.156.29,28713,https,,,KR,Seoul,https://124.63.156.29:28713,LG POWERCOMM
+https://183.107.163.3:19314,183.107.163.3,19314,https,,,KR,Seongnam,https://183.107.163.3:19314,Korea Telecom
+https://210.16.200.242:25738,210.16.200.242,25738,https,,,KR,Seoul,https://210.16.200.242:25738,abcle
+https://180.229.222.116:11055,180.229.222.116,11055,https,,,KR,Seoul,https://180.229.222.116:11055,LG POWERCOMM
+https://210.16.200.242:18349,210.16.200.242,18349,https,,,KR,Seoul,https://210.16.200.242:18349,abcle
+https://210.16.200.242:21052,210.16.200.242,21052,https,,,KR,Seoul,https://210.16.200.242:21052,abcle
+https://183.107.163.3:26698,183.107.163.3,26698,https,,,KR,Seongnam,https://183.107.163.3:26698,Korea Telecom
+https://183.107.163.3:18224,183.107.163.3,18224,https,,,KR,Seongnam,https://183.107.163.3:18224,Korea Telecom
+https://183.107.163.3:15051,183.107.163.3,15051,https,,,KR,Seongnam,https://183.107.163.3:15051,Korea Telecom
+https://183.107.163.3:16917,183.107.163.3,16917,https,,,KR,Seongnam,https://183.107.163.3:16917,Korea Telecom
+https://182.224.47.84:26548,182.224.47.84,26548,https,,,KR,Seoul,https://182.224.47.84:26548,LG POWERCOMM
+https://210.16.200.242:27140,210.16.200.242,27140,https,,,KR,Seoul,https://210.16.200.242:27140,abcle
+https://183.107.163.3:28544,183.107.163.3,28544,https,,,KR,Seongnam,https://183.107.163.3:28544,Korea Telecom
+https://183.107.163.3:26548,183.107.163.3,26548,https,,,KR,Seongnam,https://183.107.163.3:26548,Korea Telecom
+https://180.229.222.116:14616,180.229.222.116,14616,https,,,KR,Seoul,https://180.229.222.116:14616,LG POWERCOMM
+https://121.151.223.104:15197,121.151.223.104,15197,https,,,KR,Seongnam,https://121.151.223.104:15197,Korea Telecom
+https://183.101.147.67:32414,183.101.147.67,32414,https,,,KR,Seongnam,https://183.101.147.67:32414,Korea Telecom
+https://183.107.163.3:38589,183.107.163.3,38589,https,,,KR,Seongnam,https://183.107.163.3:38589,Korea Telecom
+https://180.229.222.116:20110,180.229.222.116,20110,https,,,KR,Seoul,https://180.229.222.116:20110,LG POWERCOMM
+https://180.229.222.116:11247,180.229.222.116,11247,https,,,KR,Seoul,https://180.229.222.116:11247,LG POWERCOMM
+https://180.229.222.116:37302,180.229.222.116,37302,https,,,KR,Seoul,https://180.229.222.116:37302,LG POWERCOMM
+https://180.229.222.116:10848,180.229.222.116,10848,https,,,KR,Seoul,https://180.229.222.116:10848,LG POWERCOMM
+https://183.107.163.3:12265,183.107.163.3,12265,https,,,KR,Seongnam,https://183.107.163.3:12265,Korea Telecom
