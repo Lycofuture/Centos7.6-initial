@@ -46,7 +46,7 @@ async function extractIpAndPort() {
     // 提取 IP 和端口
     const result = lines.slice(1) // 去掉表头
       .map(line => line.split(',')) // 按逗号分割每一行
-      .filter(fields => fields.length > Math.max(ipIndex, speedIndex)) // 确保有足够的列
+      .filter(fields => fields.length > Math.max(ipIndex)) // 确保有足够的列
       .filter(fields => {
         const speedField = fields[speedIndex];
         if (speedField) {
@@ -58,6 +58,7 @@ async function extractIpAndPort() {
       .map(fields => {
         ip = fields[ipIndex];
         const data = reader.country(ip);
+        if (data && data.country && data.country.names) {
         // 获取中文名称和国家代码
         const country = data.country.names['zh-CN'] || '未知';
         if (!countryCounts[country]) {
@@ -66,7 +67,11 @@ async function extractIpAndPort() {
         // 每个国家提取两个ip
         if (countryCounts[country] < 2) {
           countryCounts[country] += 1;
-          return `${ip}:8443#${country}`;
+          console.log(`提取：${ip}:443#${country}`)
+          return `${ip}:443#${country}`;
+        }
+        } else {
+          console.log(`GeoLite2 中找不到 ${ip} 地理数据`)
         }
         return null;
       })
