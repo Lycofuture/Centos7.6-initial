@@ -46,6 +46,9 @@ async function extractIpAndPort() {
     console.log('正在提取请稍后......')
     // 读取 GeoLite2 数据库
     const response = await fetch(geoipurl);
+    if (!response.ok) {
+      throw new Error(`无法下载 GeoLite2 数据库: ${response.statusText}`);
+    }
     const arrayBuffer = await response.arrayBuffer();
     const dbBuffer = Buffer.from(arrayBuffer);
     const reader = maxmind.Reader.openBuffer(dbBuffer);
@@ -76,8 +79,11 @@ async function extractIpAndPort() {
           // 每个国家提取5个ip
           if (countryCounts[country] < shu) {
             countryCounts[country] += 1;
+            console.log(`提取：${ip}:${port}#${country}`)
             return `${ip}:${port}#${country}`;
           }
+        } else {
+          console.log(`GeoLite2 中找不到 ${ip} 地理数据`)
         }
         return null;
       })
