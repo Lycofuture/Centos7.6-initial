@@ -3,7 +3,7 @@ import path from 'path';
 import url from 'url';
 import fetch from 'node-fetch';
 import maxmind from '@maxmind/geoip2-node';
-
+const speed = false // 是否过滤下载速度大于 0 kB/s 的记录
 // 获取当前脚本路径
 const __filename = url.fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -38,6 +38,7 @@ async function extractIpAndPort() {
     }
 
     // 读取 GeoLite2 数据库
+    console.log('正在下载 GeoLite2 数据库...');
     const response = await fetch(geoipurl);
     const arrayBuffer = await response.arrayBuffer();
     const dbBuffer = Buffer.from(arrayBuffer);
@@ -46,12 +47,14 @@ async function extractIpAndPort() {
     // 提取 IP 和端口
     const result = lines.slice(1) // 去掉表头
       .map(line => line.split(',')) // 按逗号分割每一行
-      .filter(fields => fields.length > Math.max(ipIndex,speedIndex)) // 确保有足够的列
+      .filter(fields => fields.length > Math.max(ipIndex, speedIndex)) // 确保有足够的列
       .filter(fields => {
-        const speedField = fields[speedIndex];
-        if (speedField) {
-          const speed = parseFloat(fields[speedIndex].replace(' kB/s', ''));
-          return speed > 0; // 过滤下载速度大于 0 kB/s 的记录
+        if (speed) {
+          const speedField = fields[speedIndex];
+          if (speedField) {
+            const speed = parseFloat(fields[speedIndex].replace(' kB/s', ''));
+            return speed > 0; // 过滤下载速度大于 0 kB/s 的记录
+          }
         }
         return true
       })
