@@ -9,7 +9,7 @@ log() {
 }
 
 # 执行第一个 Node.js 脚本
-log "开始执行 extraction.js"
+log "开始执行 ip_init.js"
 if node ip_init.js; then
     log "ip_init.js 执行成功"
 else
@@ -19,7 +19,7 @@ fi
 
 # 执行 Go 脚本
 log "开始执行 iptest.go"
-if go run iptest.go -file ip_tq.txt -outfile ip_tq.csv; then
+if go run iptest.go -file ip_tq.txt -outfile ip_tq.csv -max 100 -speedtest 5 -url speed.cloudflare.com/__down?bytes=500000000 -tls true; then
     log "iptest.go 执行成功"
 else
     log "iptest.go 执行失败"
@@ -27,7 +27,7 @@ else
 fi
 
 # 执行第二个 Node.js 脚本
-log "开始执行 detected.js"
+log "开始执行 ip_tq.js"
 if node ip_tq.js; then
     log "ip_tq.js 执行成功"
 else
