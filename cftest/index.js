@@ -33,7 +33,7 @@ async function extractIpAndPort() {
     const ipIndex = headers.indexOf(ip);
     const speedIndex = headers.indexOf(speedtestresult);
 
-    if (ipIndex === -1 || portIndex === -1) {
+    if (ipIndex === -1 || speedIndex === -1) {
       throw new Error(`CSV 文件缺少 ${ip} 或 ${speedtestresult} 列`);
     }
 
