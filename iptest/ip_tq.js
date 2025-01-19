@@ -45,12 +45,8 @@ async function extractIpAndPort() {
     }
 
     // 提取 IP 和端口
-    console.log('正在提取请稍后......')
     // 读取 GeoLite2 数据库
     const response = await fetch(geoipurl);
-    if (!response.ok) {
-      throw new Error(`无法下载 GeoLite2 数据库: ${response.statusText}`);
-    }
     const arrayBuffer = await response.arrayBuffer();
     const dbBuffer = Buffer.from(arrayBuffer);
     const reader = maxmind.Reader.openBuffer(dbBuffer);
