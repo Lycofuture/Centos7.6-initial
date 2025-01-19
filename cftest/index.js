@@ -7,7 +7,7 @@ import maxmind from '@maxmind/geoip2-node';
 // 获取当前脚本路径
 const __filename = url.fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-
+const shu = 999999
 // 输入 CSV 文件路径
 const csvFilePath = path.resolve(__dirname, 'result.csv');
 // 输出 TXT 文件路径
@@ -33,20 +33,21 @@ async function extractIpAndPort() {
     const ipIndex = headers.indexOf(ip);
     const speedIndex = headers.indexOf(speedtestresult);
 
-    if (ipIndex === -1 || speedIndex === -1) {
-      throw new Error(`CSV 文件缺少 ${ip} 或 ${speedtestresult} 列`);
+    if (ipIndex === -1) {
+      throw new Error(`CSV 文件缺少 ${ip} 列`);
     }
 
     // 读取 GeoLite2 数据库
-    const response = await fetch(geoipurl);
-    const arrayBuffer = await response.arrayBuffer();
-    const dbBuffer = Buffer.from(arrayBuffer);
+    // const response = await fetch(geoipurl);
+    // const arrayBuffer = await response.arrayBuffer();
+    // const dbBuffer = Buffer.from(arrayBuffer);
+    const dbBuffer = fs.readFileSync(path.resolve(__dirname, 'GeoLite2-Country.mmdb'));
     const reader = maxmind.Reader.openBuffer(dbBuffer);
     const countryCounts = {};
     // 提取 IP 和端口
     const result = lines.slice(1) // 去掉表头
       .map(line => line.split(',')) // 按逗号分割每一行
-      .filter(fields => fields.length > Math.max(ipIndex)) // 确保有足够的列
+      .filter(fields => fields.length > Math.max(ipIndex,speedIndex)) // 确保有足够的列
       .filter(fields => {
         const speedField = fields[speedIndex];
         if (speedField) {
@@ -58,16 +59,16 @@ async function extractIpAndPort() {
       .map(fields => {
         ip = fields[ipIndex];
         const data = reader.country(ip);
-        if (data && data.country && data.country.names) {
+        if (data?.country?.names) {
           // 获取中文名称和国家代码
           const country = data.country.names['zh-CN'] || '未知';
           if (!countryCounts[country]) {
             countryCounts[country] = 0;
           }
           // 每个国家提取两个ip
-          if (countryCounts[country] < 2) {
+          if (countryCounts[country] < shu) {
             countryCounts[country] += 1;
-            console.log(`提取：${ip}:443#${country}`)
+            // console.log(`提取：${ip}:443#${country}`)
             return `${ip}:443#${country}`;
           }
         } else {
