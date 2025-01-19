@@ -53,6 +53,7 @@ async function extractIpAndPort() {
           const speed = parseFloat(fields[speedIndex].replace(' kB/s', ''));
           return speed > 0; // 过滤下载速度大于 0 kB/s 的记录
         }
+        return true
       })
       .map(fields => {
         ip = fields[ipIndex];
