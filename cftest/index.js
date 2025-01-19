@@ -41,6 +41,7 @@ async function extractIpAndPort() {
     const response = await fetch(geoipurl);
     const arrayBuffer = await response.arrayBuffer();
     const dbBuffer = Buffer.from(arrayBuffer);
+    console.log(`GeoLite2 ${dbBuffer} 地理数据`)
     const reader = maxmind.Reader.openBuffer(dbBuffer);
     const countryCounts = {};
     // 提取 IP 和端口
@@ -53,7 +54,7 @@ async function extractIpAndPort() {
           const speed = parseFloat(fields[speedIndex].replace(' kB/s', ''));
           return speed > 0; // 过滤下载速度大于 0 kB/s 的记录
         }
-        console.log(fields)
+        console.log(`ip 整理 ${fields}`)
         return true
       })
       .map(fields => {
@@ -61,16 +62,16 @@ async function extractIpAndPort() {
         const data = reader.country(ip);
         if (data && data.country && data.country.names) {
         // 获取中文名称和国家代码
-        const country = data.country.names['zh-CN'] || '未知';
-        if (!countryCounts[country]) {
-          countryCounts[country] = 0;
-        }
+          const country = data.country.names['zh-CN'] || '未知';
+          if (!countryCounts[country]) {
+            countryCounts[country] = 0;
+          }
         // 每个国家提取两个ip
-        if (countryCounts[country] < 2) {
-          countryCounts[country] += 1;
-          console.log(`提取：${ip}:443#${country}`)
-          return `${ip}:443#${country}`;
-        }
+          if (countryCounts[country] < 2) {
+            countryCounts[country] += 1;
+            console.log(`提取：${ip}:443#${country}`)
+            return `${ip}:443#${country}`;
+          }
         } else {
           console.log(`GeoLite2 中找不到 ${ip} 地理数据`)
         }
