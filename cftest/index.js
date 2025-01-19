@@ -38,10 +38,9 @@ async function extractIpAndPort() {
     }
 
     // 读取 GeoLite2 数据库
-    // const response = await fetch(geoipurl);
-    // const arrayBuffer = await response.arrayBuffer();
-    // const dbBuffer = Buffer.from(arrayBuffer);
-    const dbBuffer = fs.readFileSync(path.resolve(__dirname, 'GeoLite2-Country.mmdb'));
+    const response = await fetch(geoipurl);
+    const arrayBuffer = await response.arrayBuffer();
+    const dbBuffer = Buffer.from(arrayBuffer);
     const reader = maxmind.Reader.openBuffer(dbBuffer);
     const countryCounts = {};
     // 提取 IP 和端口
@@ -68,7 +67,7 @@ async function extractIpAndPort() {
           // 每个国家提取两个ip
           if (countryCounts[country] < shu) {
             countryCounts[country] += 1;
-            // console.log(`提取：${ip}:443#${country}`)
+            console.log(`提取：${ip}:443#${country}`)
             return `${ip}:443#${country}`;
           }
         } else {
