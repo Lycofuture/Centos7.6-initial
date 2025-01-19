@@ -59,12 +59,12 @@ async function extractIpAndPort() {
         ip = fields[ipIndex];
         const data = reader.country(ip);
         if (data && data.country && data.country.names) {
-        // 获取中文名称和国家代码
+          // 获取中文名称和国家代码
           const country = data.country.names['zh-CN'] || '未知';
           if (!countryCounts[country]) {
             countryCounts[country] = 0;
           }
-        // 每个国家提取两个ip
+          // 每个国家提取两个ip
           if (countryCounts[country] < 2) {
             countryCounts[country] += 1;
             console.log(`提取：${ip}:443#${country}`)
