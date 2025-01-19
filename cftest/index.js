@@ -31,7 +31,7 @@ async function extractIpAndPort() {
     // 获取表头
     const headers = lines[0].split(',');
     const ipIndex = headers.indexOf(ip);
-    const portIndex = headers.indexOf(speedtestresult);
+    const speedIndex = headers.indexOf(speedtestresult);
 
     if (ipIndex === -1 || portIndex === -1) {
       throw new Error(`CSV 文件缺少 ${ip} 或 ${speedtestresult} 列`);
@@ -46,10 +46,13 @@ async function extractIpAndPort() {
     // 提取 IP 和端口
     const result = lines.slice(1) // 去掉表头
       .map(line => line.split(',')) // 按逗号分割每一行
-      .filter(fields => fields.length > Math.max(ipIndex, portIndex)) // 确保有足够的列
+      .filter(fields => fields.length > Math.max(ipIndex, speedIndex)) // 确保有足够的列
       .filter(fields => {
-        const speed = parseFloat(fields[portIndex].replace(' kB/s', ''));
-        return speed > 0; // 过滤下载速度大于 0 kB/s 的记录
+        const speedField = fields[speedIndex];
+        if (speedField) {
+          const speed = parseFloat(fields[portIndex].replace(' kB/s', ''));
+          return speed > 0; // 过滤下载速度大于 0 kB/s 的记录
+        }
       })
       .map(fields => {
         ip = fields[ipIndex];
