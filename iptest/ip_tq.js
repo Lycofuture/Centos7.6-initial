@@ -71,7 +71,7 @@ async function extractIpAndPort() {
         const ip = fields[ipIndex];
         const port = fields[portIndex];
         const data = reader.country(ip);
-        if (data && data.country && data.country.names) {
+        if (data?.country?.names) {
           // 获取中文名称和国家代码
           const country = data.country.names['zh-CN'] || '未知';
           if (!countryCounts[country]) {
