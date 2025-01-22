@@ -6,7 +6,7 @@ import maxmind from '@maxmind/geoip2-node';
 //每个国家提前数量
 const shu = 5
 // 是否过滤下载速度大于 0 kB/s 的记录
-const speed = true
+const speed = false
 // 获取当前脚本路径
 const __filename = url.fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
