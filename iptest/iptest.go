@@ -23,7 +23,8 @@ import (
 )
 
 const (
-	requestURL  = "speed.cloudflare.com/cdn-cgi/trace" // 请求trace URL
+	// requestURL  = "speed.cloudflare.com/cdn-cgi/trace" // 请求trace URL
+	requestURL  = "cloudflaremirrors.com/cdn-cgi/trace"
 	timeout     = 1 * time.Second                      // 超时时间
 	maxDuration = 2 * time.Second                      // 最大持续时间
 )
