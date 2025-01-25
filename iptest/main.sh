@@ -19,7 +19,7 @@ fi
 
 # 执行 Go 脚本
 log "开始执行 iptest.go"
-if go run iptest.go -file ip_tq.txt -outfile ip_tq.csv -max 100 -speedtest 0 -url speed.cloudflare.com/__down?bytes=500000000 -tls true; then
+if go run iptest.go -file ip_tq.txt -outfile ip_tq.csv; then
     log "iptest.go 执行成功"
 else
     log "iptest.go 执行失败"
