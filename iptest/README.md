@@ -29,7 +29,7 @@ node ip_init.js
 - `tls` 默认参数 `true` 是否启用TLS
 
 ```bash
-go run iptest.go -file ip_tq.txt -outfile ip_tq.csv -max 50
+go run iptest.go -file ip_tq.txt -outfile ip_tq.csv
 ```
 
 提取有速度的ip并整理为指定格式
