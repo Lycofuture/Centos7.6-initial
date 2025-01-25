@@ -34,7 +34,8 @@ var (
 	outFile      = flag.String("outfile", "ip.csv", "输出文件名称")                                  // 输出文件名称
 	maxThreads   = flag.Int("max", 100, "并发请求最大协程数")                                           // 最大协程数
 	speedTest    = flag.Int("speedtest", 5, "下载测速协程数量,设为0禁用测速")                                // 下载测速协程数量
-	speedTestURL = flag.String("url", "speed.cloudflare.com/__down?bytes=500000000", "测速文件地址") // 测速文件地址
+	// speedTestURL = flag.String("url", "speed.cloudflare.com/__down?bytes=500000000", "测速文件地址") // 测速文件地址
+	speedTestURL = flag.String("url", "speed.majutsu.top", "测速文件地址") // 测速文件地址
 	enableTLS    = flag.Bool("tls", true, "是否启用TLS")                                           // TLS是否启用
 )
 
