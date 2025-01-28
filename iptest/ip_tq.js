@@ -5,8 +5,10 @@ import fetch from 'node-fetch';
 import maxmind from '@maxmind/geoip2-node';
 //每个国家提前数量
 const shu = 5
-// 是否过滤下载速度大于 0 kB/s 的记录
+// 是否过滤下载速度
 const speed = true
+// 过滤下载速度下限，单位kb/s
+const test = 1024
 // 获取当前脚本路径
 const __filename = url.fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -62,7 +64,7 @@ async function extractIpAndPort() {
           if (speedField) {
             const speed = parseFloat(fields[speedIndex].replace(' kB/s', ''));
             // const dc = fields[datacenterIndex];
-            return speed > 100 // && (dc === 'FUK' || dc === 'OKA' || dc === 'KIX' || dc === 'NRT'); // 过滤下载速度小于 100 kB/s 的记录
+            return speed > test // && (dc === 'FUK' || dc === 'OKA' || dc === 'KIX' || dc === 'NRT'); // 过滤下载速度小于 100 kB/s 的记录
           }
         }
         return true
