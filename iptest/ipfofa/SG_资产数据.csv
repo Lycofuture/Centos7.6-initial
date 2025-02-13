@@ -1,4 +1,9 @@
 ﻿host,ip,port,protocol,title,domain,country,city,link,as_organization
+https://103.248.228.189:12202,103.248.228.189,12202,https,403 Forbidden,,SG,Singapore,https://103.248.228.189:12202,
+https://129.226.206.70:12194,129.226.206.70,12194,https,403 Forbidden,,SG,Singapore,https://129.226.206.70:12194,"Tencent Building, Kejizhongyi Avenue"
+https://52.163.219.16:666,52.163.219.16,666,https,403 Forbidden,,SG,Singapore,https://52.163.219.16:666,MICROSOFT-CORP-MSN-AS-BLOCK
+43.159.113.44:111,43.159.113.44,111,http,,,SG,Singapore,http://43.159.113.44:111,ACE
+https://27.0.234.9:12112,27.0.234.9,12112,https,403 Forbidden,,SG,Singapore,https://27.0.234.9:12112,WebHorizon Internet Services
 https://43.175.235.243:8888,43.175.235.243,8888,https,403 Forbidden,,SG,Singapore,https://43.175.235.243:8888,
 https://128.199.128.28:123,128.199.128.28,123,https,403 Forbidden,,SG,Singapore,https://128.199.128.28:123,DIGITALOCEAN-ASN
 https://43.163.108.80:10086,43.163.108.80,10086,https,,,SG,Singapore,https://43.163.108.80:10086,
@@ -49,7 +54,6 @@ https://4.145.82.148:50001,4.145.82.148,50001,https,403 Forbidden,,SG,Singapore,
 https://4.194.133.39:4435,4.194.133.39,4435,https,403 Forbidden,,SG,Singapore,https://4.194.133.39:4435,MICROSOFT-CORP-MSN-AS-BLOCK
 https://139.180.155.36:50000,139.180.155.36,50000,https,403 Forbidden,,SG,Singapore,https://139.180.155.36:50000,AS-CHOOPA
 https://101.32.170.155:60000,101.32.170.155,60000,https,403 Forbidden,,SG,Singapore,https://101.32.170.155:60000,"Tencent Building, Kejizhongyi Avenue"
-43.159.113.44:111,43.159.113.44,111,http,,,SG,Singapore,http://43.159.113.44:111,ACE
 139.162.60.160:40000,139.162.60.160,40000,http,,,SG,Singapore,http://139.162.60.160:40000,Akamai Connected Cloud
 https://34.142.238.22:10002,34.142.238.22,10002,https,403 Forbidden,,SG,Singapore,https://34.142.238.22:10002,GOOGLE-CLOUD-PLATFORM
 129.227.68.11:8888,129.227.68.11,8888,http,,,SG,Singapore,http://129.227.68.11:8888,ZEN-ECN
@@ -106,10 +110,8 @@ https://101.44.160.69:10088,101.44.160.69,10088,https,403 Forbidden,,SG,Singapor
 157.245.53.80:179,157.245.53.80,179,http,,,SG,Singapore,http://157.245.53.80:179,DIGITALOCEAN-ASN
 https://43.134.111.233:18067,43.134.111.233,18067,https,403 Forbidden,,SG,Singapore,https://43.134.111.233:18067,"Tencent Building, Kejizhongyi Avenue"
 https://8.223.71.219:8123,8.223.71.219,8123,https,403 Forbidden,,SG,Singapore,https://8.223.71.219:8123,
-https://27.0.234.9:12112,27.0.234.9,12112,https,403 Forbidden,,SG,Singapore,https://27.0.234.9:12112,WebHorizon Internet Services
 43.159.113.128:111,43.159.113.128,111,http,,,SG,Singapore,http://43.159.113.128:111,ACE
 https://206.189.149.4:8113,206.189.149.4,8113,https,403 Forbidden,,SG,Singapore,https://206.189.149.4:8113,DIGITALOCEAN-ASN
-https://52.163.219.16:666,52.163.219.16,666,https,403 Forbidden,,SG,Singapore,https://52.163.219.16:666,MICROSOFT-CORP-MSN-AS-BLOCK
 https://167.172.68.150:26,167.172.68.150,26,https,403 Forbidden,,SG,Singapore,https://167.172.68.150:26,DIGITALOCEAN-ASN
 https://159.223.32.39:26,159.223.32.39,26,https,403 Forbidden,,SG,Singapore,https://159.223.32.39:26,DIGITALOCEAN-ASN
 https://165.22.251.103:26,165.22.251.103,26,https,403 Forbidden,,SG,Singapore,https://165.22.251.103:26,DIGITALOCEAN-ASN
@@ -297,5 +299,3 @@ https://64.176.83.70:1688,64.176.83.70,1688,https,Access Forbidden,,SG,Singapore
 35.240.184.147:8095,35.240.184.147,8095,http,,,SG,Singapore,http://35.240.184.147:8095,GOOGLE-CLOUD-PLATFORM
 43.159.103.8:21,43.159.103.8,21,http,,,SG,Singapore,http://43.159.103.8:21,ACE
 43.159.102.7:21,43.159.102.7,21,http,,,SG,Singapore,http://43.159.102.7:21,ACE
-https://43.175.224.216:139,43.175.224.216,139,https,403 Forbidden,,SG,Singapore,https://43.175.224.216:139,
-https://43.175.224.216:3306,43.175.224.216,3306,https,403 Forbidden,,SG,Singapore,https://43.175.224.216:3306,

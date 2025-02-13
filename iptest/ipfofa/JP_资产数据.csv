@@ -1,4 +1,25 @@
 ﻿host,ip,port,protocol,title,domain,country,city,link,as_organization
+https://121.92.13.205:14854,121.92.13.205,14854,https,403 Forbidden,,JP,Himeji,https://121.92.13.205:14854,Cable Television TOYAMA Inc.
+https://121.92.13.205:30431,121.92.13.205,30431,https,403 Forbidden,,JP,Himeji,https://121.92.13.205:30431,Cable Television TOYAMA Inc.
+https://58.3.87.101:12243,58.3.87.101,12243,https,403 Forbidden,,JP,Nagasaki,https://58.3.87.101:12243,"QTnet,Inc."
+124.150.208.121:12242,124.150.208.121,12242,http,Attention Required! | Cloudflare,,JP,Fukuoka,http://124.150.208.121:12242,"QTnet,Inc."
+https://180.9.66.125:12234,180.9.66.125,12234,https,403 Forbidden,,JP,Tokyo,https://180.9.66.125:12234,NTT Communications Corporation
+https://180.9.66.125:12228,180.9.66.125,12228,https,403 Forbidden,,JP,Tokyo,https://180.9.66.125:12228,NTT Communications Corporation
+119.230.149.211:12216,119.230.149.211,12216,http,,,JP,Osaka,http://119.230.149.211:12216,OPTAGE Inc.
+https://223.134.102.89:12197,223.134.102.89,12197,https,403 Forbidden,,JP,Tokyo,https://223.134.102.89:12197,Sony Network Communications Inc.
+https://116.94.162.9:12183,116.94.162.9,12183,https,403 Forbidden,,JP,Fukuoka,https://116.94.162.9:12183,"QTnet,Inc."
+https://144.91.146.87:12177,144.91.146.87,12177,https,403 Forbidden,,JP,Asahikawa,https://144.91.146.87:12177,"Asahikawa Cable Television Co., Ltd."
+https://116.94.162.9:12174,116.94.162.9,12174,https,403 Forbidden,,JP,Fukuoka,https://116.94.162.9:12174,"QTnet,Inc."
+https://27.143.72.180:12174,27.143.72.180,12174,https,403 Forbidden,,JP,Saitama,https://27.143.72.180:12174,"JCOM Co., Ltd."
+https://119.229.77.159:12152,119.229.77.159,12152,https,403 Forbidden,,JP,Nara,https://119.229.77.159:12152,OPTAGE Inc.
+https://47.79.42.198:9527,47.79.42.198,9527,https,403 Forbidden,,JP,Tokyo,https://47.79.42.198:9527,
+https://153.216.52.158:12112,153.216.52.158,12112,https,403 Forbidden,,JP,Yokohama,https://153.216.52.158:12112,NTT Communications Corporation
+https://64.176.37.187:10001,64.176.37.187,10001,https,403 Forbidden,,JP,Osaka,https://64.176.37.187:10001,AS-CHOOPA
+https://153.161.182.166:12106,153.161.182.166,12106,https,403 Forbidden,,JP,Sendai,https://153.161.182.166:12106,NTT Communications Corporation
+https://27.143.72.180:12000,27.143.72.180,12000,https,403 Forbidden,,JP,Saitama,https://27.143.72.180:12000,"JCOM Co., Ltd."
+https://5.226.51.108:12345,5.226.51.108,12345,https,403 Forbidden,,JP,Tokyo,https://5.226.51.108:12345,
+https://153.208.172.14:11480,153.208.172.14,11480,https,403 Forbidden,,JP,Tsukuba,https://153.208.172.14:11480,NTT Communications Corporation
+https://58.3.87.101:11184,58.3.87.101,11184,https,403 Forbidden,,JP,Nagasaki,https://58.3.87.101:11184,"QTnet,Inc."
 https://153.209.49.186:10943,153.209.49.186,10943,https,403 Forbidden,,JP,Kitakata,https://153.209.49.186:10943,NTT Communications Corporation
 https://147.78.245.209:10934,147.78.245.209,10934,https,403 Forbidden,,JP,Tokyo,https://147.78.245.209:10934,Owl Limited
 https://119.229.77.159:10933,119.229.77.159,10933,https,403 Forbidden,,JP,Nara,https://119.229.77.159:10933,OPTAGE Inc.
@@ -236,7 +257,6 @@ https://218.40.123.69:12317,218.40.123.69,12317,https,403 Forbidden,,JP,Takamats
 https://110.54.5.59:12000,110.54.5.59,12000,https,403 Forbidden,,JP,Fukuoka,https://110.54.5.59:12000,"QTnet,Inc."
 https://180.145.105.106:12507,180.145.105.106,12507,https,403 Forbidden,,JP,Amagasaki,https://180.145.105.106:12507,OPTAGE Inc.
 https://125.31.112.243:12507,125.31.112.243,12507,https,403 Forbidden,,JP,Matsuura,https://125.31.112.243:12507,"QTnet,Inc."
-119.230.149.211:12216,119.230.149.211,12216,http,,,JP,Osaka,http://119.230.149.211:12216,OPTAGE Inc.
 https://119.63.185.16:12512,119.63.185.16,12512,https,403 Forbidden,,JP,Osaka,https://119.63.185.16:12512,"ITEC HANKYU HANSHIN CO.,LTD."
 https://121.86.228.186:12124,121.86.228.186,12124,https,403 Forbidden,,JP,Osaka,https://121.86.228.186:12124,OPTAGE Inc.
 https://119.231.45.178:12379,119.231.45.178,12379,https,403 Forbidden,,JP,Osaka,https://119.231.45.178:12379,OPTAGE Inc.
@@ -279,23 +299,3 @@ https://172.104.117.62:10081,172.104.117.62,10081,https,403 Forbidden,,JP,Tokyo,
 172.104.117.245:10048,172.104.117.245,10048,http,,,JP,Tokyo,http://172.104.117.245:10048,Akamai Connected Cloud
 172.104.117.190:10048,172.104.117.190,10048,http,,,JP,Tokyo,http://172.104.117.190:10048,Akamai Connected Cloud
 172.104.117.129:10048,172.104.117.129,10048,http,,,JP,Tokyo,http://172.104.117.129:10048,Akamai Connected Cloud
-172.104.116.98:10048,172.104.116.98,10048,http,,,JP,Tokyo,http://172.104.116.98:10048,Akamai Connected Cloud
-172.104.117.31:10048,172.104.117.31,10048,http,,,JP,Tokyo,http://172.104.117.31:10048,Akamai Connected Cloud
-172.104.116.183:10048,172.104.116.183,10048,http,,,JP,Tokyo,http://172.104.116.183:10048,Akamai Connected Cloud
-172.104.117.26:10048,172.104.117.26,10048,http,,,JP,Tokyo,http://172.104.117.26:10048,Akamai Connected Cloud
-172.104.117.74:10048,172.104.117.74,10048,http,,,JP,Tokyo,http://172.104.117.74:10048,Akamai Connected Cloud
-172.104.116.220:10048,172.104.116.220,10048,http,,,JP,Tokyo,http://172.104.116.220:10048,Akamai Connected Cloud
-172.104.117.77:10048,172.104.117.77,10048,http,,,JP,Tokyo,http://172.104.117.77:10048,Akamai Connected Cloud
-172.104.117.14:10048,172.104.117.14,10048,http,,,JP,Tokyo,http://172.104.117.14:10048,Akamai Connected Cloud
-172.104.116.190:10048,172.104.116.190,10048,http,,,JP,Tokyo,http://172.104.116.190:10048,Akamai Connected Cloud
-172.104.116.210:10048,172.104.116.210,10048,http,,,JP,Tokyo,http://172.104.116.210:10048,Akamai Connected Cloud
-172.104.116.239:10048,172.104.116.239,10048,http,,,JP,Tokyo,http://172.104.116.239:10048,Akamai Connected Cloud
-172.104.116.245:10048,172.104.116.245,10048,http,,,JP,Tokyo,http://172.104.116.245:10048,Akamai Connected Cloud
-172.104.116.251:10048,172.104.116.251,10048,http,,,JP,Tokyo,http://172.104.116.251:10048,Akamai Connected Cloud
-172.104.117.54:10048,172.104.117.54,10048,http,,,JP,Tokyo,http://172.104.117.54:10048,Akamai Connected Cloud
-172.104.116.242:10048,172.104.116.242,10048,http,,,JP,Tokyo,http://172.104.116.242:10048,Akamai Connected Cloud
-172.104.116.250:10048,172.104.116.250,10048,http,,,JP,Tokyo,http://172.104.116.250:10048,Akamai Connected Cloud
-172.104.117.172:10048,172.104.117.172,10048,http,,,JP,Tokyo,http://172.104.117.172:10048,Akamai Connected Cloud
-172.104.117.235:10048,172.104.117.235,10048,http,,,JP,Tokyo,http://172.104.117.235:10048,Akamai Connected Cloud
-172.104.117.180:10048,172.104.117.180,10048,http,,,JP,Tokyo,http://172.104.117.180:10048,Akamai Connected Cloud
-172.104.117.244:10048,172.104.117.244,10048,http,,,JP,Tokyo,http://172.104.117.244:10048,Akamai Connected Cloud
