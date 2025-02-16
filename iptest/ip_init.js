@@ -33,16 +33,23 @@ async function extractIpAndPort() {
     }
 
     // 提取 IP 和端口
-    const result = Array.from(new Set(
-      lines.slice(1) // 去掉表头
-        .map(line => line.split(',')) // 按逗号分割每一行
-        .filter(fields => fields.length > Math.max(ipIndex, portIndex)) // 确保有足够的列
-        .map(fields => {
-          const ip = fields[ipIndex];
-          const port = fields[portIndex];
-          return `${ip} ${port}`;
-        })
-    )).join('\n'); // 合并成多行字符串
+    const resultSet = new Set();
+    lines.slice(1).forEach((line, index) => {
+      const fields = line.split(',');
+      if (fields.length <= Math.max(ipIndex, portIndex)) return;
+
+        const ip = fields[ipIndex];
+        const port = fields[portIndex];
+
+        if (!Number(port)) {
+          console.log(`第${index + 2}行无效参数: ${ip}  ${port}`);
+          return; // 直接跳过，不加入 Set
+        }
+
+      resultSet.add(`${ip} ${port}`);
+    });
+    // 去重
+    const result = Array.from(resultSet).join('\n');
     // 写入到 TXT 文件
     await fs.promises.writeFile(txtFilePath, result, 'utf8');
     console.log(`已成功提取到 ${txtFilePath}`);
