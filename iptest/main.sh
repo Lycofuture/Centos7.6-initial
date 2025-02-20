@@ -19,7 +19,7 @@ fi
 
 # 执行 Go 脚本
 log "开始执行 iptest.go"
-if go run iptest.go -file ip_tq.txt -outfile ip_tq.csv -max 20 -speedtest 0; then
+if go run iptest.go -file ip_tq.txt -outfile ip_tq.csv -max 20 -speedtest 5; then
     log "iptest.go 执行成功"
 else
     log "iptest.go 执行失败"
