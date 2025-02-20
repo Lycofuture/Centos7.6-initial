@@ -172,7 +172,11 @@ async function extractData() {
       return;
     }
 
-    const rows = table.querySelectorAll("tr");
+    const rows = Array.from(table.querySelectorAll("tr"));
+    // 删除表格最后一行
+    if (rows.length > 1) {
+      rows.pop();
+    }
 
     // 获取表头列索引
     const headers = Array.from(rows[0].querySelectorAll("th")).map((th) =>
