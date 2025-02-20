@@ -272,7 +272,7 @@ async function extractIpAndPort() {
       ZW: ["HRE"],
     };
     // 提取 IP 和端口
-    const result = lines
+    const ipEntries = lines
       .slice(1) // 去掉表头
       .map((line) => line.split(",")) // 按逗号分割每一行
       .filter(
@@ -294,21 +294,29 @@ async function extractIpAndPort() {
         const ip = fields[ipIndex];
         const port = fields[portIndex];
         const dc = fields[datacenterIndex];
-        const dateip =
+        const country =
           Object.keys(datacenterMap).find((country) =>
             datacenterMap[country].includes(dc),
           ) || "其他";
-        console.log(`提取：${ip}:${port}#${dateip}`);
-        return `${ip}:${port}#${dateip}`;
-      })
-      .filter((ip) => ip !== null)
-      // 排序
-      .sort((a, b) => {
-        const countryA = a.split("#")[1];
-        const countryB = b.split("#")[1];
-        return countryA.localeCompare(countryB);
-      })
-      .join("\n"); // 合并成多行字符串
+        console.log(`提取：${ip}:${port}#${country}`);
+        return { entry: `${ip}:${port}#${country}`, country };
+      });
+
+    const grouped = ipEntries.reduce((acc, { entry, country }) => {
+      if (!acc[country]) {
+        acc[country] = [];
+      }
+      if (acc[country].length < 5) {
+        acc[country].push(entry);
+      }
+      return acc;
+    }, {});
+
+    // 可选：对国家进行排序后拼接所有分组
+    const result = Object.keys(grouped)
+      .sort() // 对国家名称进行排序
+      .map((country) => grouped[country].join("\n"))
+      .join("\n");
 
     // 写入到 TXT 文件
     await fs.promises.writeFile(txtFilegeo, result, "utf8");
