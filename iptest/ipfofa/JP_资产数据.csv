@@ -1,17 +1,29 @@
 ﻿host,ip,port,protocol,title,domain,country,city,link,as_organization
-https://158.101.150.73:2222,158.101.150.73,2222,https,403 Forbidden,,JP,Tokyo,https://158.101.150.73:2222,ORACLE-BMC-31898
+https://139.162.65.242:110,139.162.65.242,110,https,403 Forbidden,,JP,Tokyo,https://139.162.65.242:110,Akamai Connected Cloud
+133.186.215.253:111,133.186.215.253,111,http,,,JP,Tokyo,http://133.186.215.253:111,NHN
+125.6.38.38:111,125.6.38.38,111,http,,,JP,Tokyo,http://125.6.38.38:111,NHN
+https://119.24.35.111:20180,119.24.35.111,20180,https,403 Forbidden,,JP,Osaka,https://119.24.35.111:20180,"JCOM Co., Ltd."
+https://125.48.184.202:20180,125.48.184.202,20180,https,403 Forbidden,,JP,Tokyo,https://125.48.184.202:20180,KDDI CORPORATION
+https://47.79.42.129:9527,47.79.42.129,9527,https,403 Forbidden,,JP,Tokyo,https://47.79.42.129:9527,
+https://153.129.32.24:10443,153.129.32.24,10443,https,403 Forbidden,,JP,Komagane,https://153.129.32.24:10443,NTT Communications Corporation
+https://47.79.33.133:9527,47.79.33.133,9527,https,403 Forbidden,,JP,Tokyo,https://47.79.33.133:9527,
+https://185.184.223.18:445,185.184.223.18,445,https,403 Forbidden,,JP,Osaka,https://185.184.223.18:445,Owl Limited
+https://176.119.150.174:10000,176.119.150.174,10000,https,403 Forbidden,,JP,Tokyo,https://176.119.150.174:10000,Owl Limited
+https://43.133.211.105:5443,43.133.211.105,5443,https,403 Forbidden,,JP,Tokyo,https://43.133.211.105:5443,"Tencent Building, Kejizhongyi Avenue"
+https://46.232.53.118:4430,46.232.53.118,4430,https,403 Forbidden,,JP,Tokyo,https://46.232.53.118:4430,Nerocloud Ltd
+https://47.79.38.221:4443,47.79.38.221,4443,https,403 Forbidden,,JP,Tokyo,https://47.79.38.221:4443,
+https://47.79.39.72:3306,47.79.39.72,3306,https,403 Forbidden,,JP,Tokyo,https://47.79.39.72:3306,
+https://124.140.26.124:19999,124.140.26.124,19999,https,403 Forbidden,,JP,Yokohama,https://124.140.26.124:19999,"JCOM Co., Ltd."
+https://64.176.53.19:8002,64.176.53.19,8002,https,403 Forbidden,,JP,Osaka,https://64.176.53.19:8002,AS-CHOOPA
+https://20.37.96.21:1443,20.37.96.21,1443,https,403 Forbidden,,JP,Tokyo,https://20.37.96.21:1443,MICROSOFT-CORP-MSN-AS-BLOCK
+https://85.208.109.102:2080,85.208.109.102,2080,https,403 Forbidden,,JP,Tokyo,https://85.208.109.102:2080,ENZUINC
 https://144.91.146.87:12362,144.91.146.87,12362,https,403 Forbidden,,JP,Asahikawa,https://144.91.146.87:12362,"Asahikawa Cable Television Co., Ltd."
-https://168.138.208.208:2222,168.138.208.208,2222,https,403 Forbidden,,JP,Tokyo,https://168.138.208.208:2222,ORACLE-BMC-31898
 https://153.171.47.199:12353,153.171.47.199,12353,https,403 Forbidden,,JP,Iwaki,https://153.171.47.199:12353,NTT Communications Corporation
 https://156.231.116.232:9443,156.231.116.232,9443,https,403 Forbidden,,JP,Tokyo,https://156.231.116.232:9443,MULTA-ASN1
 https://156.231.115.164:9443,156.231.115.164,9443,https,403 Forbidden,,JP,Tokyo,https://156.231.115.164:9443,MULTA-ASN1
 https://116.193.224.119:12342,116.193.224.119,12342,https,403 Forbidden,,JP,Yamaguchi,https://116.193.224.119:12342,CITY-CABLE SHUNAN Corporation
-https://131.186.36.178:12333,131.186.36.178,12333,https,403 Forbidden,,JP,Tokyo,https://131.186.36.178:12333,ORACLE-BMC-31898
-https://138.2.26.222:12333,138.2.26.222,12333,https,403 Forbidden,,JP,Tokyo,https://138.2.26.222:12333,ORACLE-BMC-31898
 https://46.232.53.118:4433,46.232.53.118,4433,https,403 Forbidden,,JP,Tokyo,https://46.232.53.118:4433,Nerocloud Ltd
-https://47.79.38.221:4443,47.79.38.221,4443,https,403 Forbidden,,JP,Tokyo,https://47.79.38.221:4443,
 https://34.84.42.116:54321,34.84.42.116,54321,https,403 Forbidden,,JP,Tokyo,https://34.84.42.116:54321,GOOGLE-CLOUD-PLATFORM
-https://168.138.203.197:30012,168.138.203.197,30012,https,403 Forbidden,,JP,Tokyo,https://168.138.203.197:30012,ORACLE-BMC-31898
 https://27.120.158.145:12306,27.120.158.145,12306,https,403 Forbidden,,JP,Takamatsu,https://27.120.158.145:12306,"STNet, Incorporated"
 https://144.91.146.87:12304,144.91.146.87,12304,https,403 Forbidden,,JP,Asahikawa,https://144.91.146.87:12304,"Asahikawa Cable Television Co., Ltd."
 https://43.163.238.160:21,43.163.238.160,21,https,403 Forbidden,,JP,Tokyo,https://43.163.238.160:21,"Tencent Building, Kejizhongyi Avenue"
@@ -29,20 +41,15 @@ https://116.94.162.9:12183,116.94.162.9,12183,https,403 Forbidden,,JP,Fukuoka,ht
 https://144.91.146.87:12177,144.91.146.87,12177,https,403 Forbidden,,JP,Asahikawa,https://144.91.146.87:12177,"Asahikawa Cable Television Co., Ltd."
 https://116.94.162.9:12174,116.94.162.9,12174,https,403 Forbidden,,JP,Fukuoka,https://116.94.162.9:12174,"QTnet,Inc."
 https://27.143.72.180:12174,27.143.72.180,12174,https,403 Forbidden,,JP,Saitama,https://27.143.72.180:12174,"JCOM Co., Ltd."
-https://47.74.10.228:12164,47.74.10.228,12164,https,403 Forbidden,,JP,Tokyo,https://47.74.10.228:12164,"Alibaba US Technology Co., Ltd."
 https://119.229.77.159:12152,119.229.77.159,12152,https,403 Forbidden,,JP,Nara,https://119.229.77.159:12152,OPTAGE Inc.
 https://47.79.42.198:9527,47.79.42.198,9527,https,403 Forbidden,,JP,Tokyo,https://47.79.42.198:9527,
-https://155.248.172.55:12121,155.248.172.55,12121,https,403 Forbidden,,JP,Tokyo,https://155.248.172.55:12121,ORACLE-BMC-31898
 https://153.216.52.158:12112,153.216.52.158,12112,https,403 Forbidden,,JP,Yokohama,https://153.216.52.158:12112,NTT Communications Corporation
 https://64.176.37.187:10001,64.176.37.187,10001,https,403 Forbidden,,JP,Osaka,https://64.176.37.187:10001,AS-CHOOPA
 https://153.161.182.166:12106,153.161.182.166,12106,https,403 Forbidden,,JP,Sendai,https://153.161.182.166:12106,NTT Communications Corporation
-https://212.50.246.47:8003,212.50.246.47,8003,https,403 Forbidden,,JP,Osaka,https://212.50.246.47:8003,IT7NET
 https://27.143.72.180:12000,27.143.72.180,12000,https,403 Forbidden,,JP,Saitama,https://27.143.72.180:12000,"JCOM Co., Ltd."
 https://5.226.51.108:12345,5.226.51.108,12345,https,403 Forbidden,,JP,Tokyo,https://5.226.51.108:12345,
 https://153.208.172.14:11480,153.208.172.14,11480,https,403 Forbidden,,JP,Tsukuba,https://153.208.172.14:11480,NTT Communications Corporation
-https://150.230.102.96:11443,150.230.102.96,11443,https,403 Forbidden,,JP,Tokyo,https://150.230.102.96:11443,ORACLE-BMC-31898
 https://58.3.87.101:11184,58.3.87.101,11184,https,403 Forbidden,,JP,Nagasaki,https://58.3.87.101:11184,"QTnet,Inc."
-https://18.181.118.139:60001,18.181.118.139,60001,https,403 Forbidden,,JP,Tokyo,https://18.181.118.139:60001,AMAZON-02
 https://153.209.49.186:10943,153.209.49.186,10943,https,403 Forbidden,,JP,Kitakata,https://153.209.49.186:10943,NTT Communications Corporation
 https://147.78.245.209:10934,147.78.245.209,10934,https,403 Forbidden,,JP,Tokyo,https://147.78.245.209:10934,Owl Limited
 https://119.229.77.159:10933,119.229.77.159,10933,https,403 Forbidden,,JP,Nara,https://119.229.77.159:10933,OPTAGE Inc.
@@ -53,7 +60,6 @@ https://110.131.206.103:10101,110.131.206.103,10101,https,403 Forbidden,,JP,Toky
 https://153.216.52.158:10084,153.216.52.158,10084,https,403 Forbidden,,JP,Yokohama,https://153.216.52.158:10084,NTT Communications Corporation
 https://167.88.185.49:10080,167.88.185.49,10080,https,403 Forbidden,,JP,Osaka,https://167.88.185.49:10080,xTom
 https://58.3.87.101:11310,58.3.87.101,11310,https,403 Forbidden,,JP,Nagasaki,https://58.3.87.101:11310,"QTnet,Inc."
-https://15.168.189.76:9001,15.168.189.76,9001,https,403 Forbidden,,JP,Osaka,https://15.168.189.76:9001,AMAZON-02
 https://27.113.228.191:10047,27.113.228.191,10047,https,403 Forbidden,,JP,Chita,https://27.113.228.191:10047,Community Network Center Inc.
 https://153.216.52.158:10031,153.216.52.158,10031,https,403 Forbidden,,JP,Yokohama,https://153.216.52.158:10031,NTT Communications Corporation
 https://58.3.87.101:10029,58.3.87.101,10029,https,403 Forbidden,,JP,Nagasaki,https://58.3.87.101:10029,"QTnet,Inc."
@@ -62,17 +68,12 @@ https://101.128.174.250:10021,101.128.174.250,10021,https,403 Forbidden,,JP,Saka
 https://108.61.181.164:10019,108.61.181.164,10019,https,403 Forbidden,,JP,Tokyo,https://108.61.181.164:10019,Singapore Telecommunications Ltd
 https://202.177.66.204:10017,202.177.66.204,10017,https,403 Forbidden,,JP,Iruma,https://202.177.66.204:10017,Iruma CATV co.
 https://108.61.181.164:10014,108.61.181.164,10014,https,403 Forbidden,,JP,Tokyo,https://108.61.181.164:10014,Singapore Telecommunications Ltd
-https://47.245.9.125:10011,47.245.9.125,10011,https,403 Forbidden,,JP,Tokyo,https://47.245.9.125:10011,"Alibaba US Technology Co., Ltd."
 https://27.113.228.191:10011,27.113.228.191,10011,https,403 Forbidden,,JP,Chita,https://27.113.228.191:10011,Community Network Center Inc.
 https://149.28.31.107:10010,149.28.31.107,10010,https,403 Forbidden,,JP,Tokyo,https://149.28.31.107:10010,AS-CHOOPA
 https://59.106.191.216:500,59.106.191.216,500,https,403 Forbidden,,JP,Tokyo,https://59.106.191.216:500,SAKURA Internet Inc.
 116.94.100.173:10009,116.94.100.173,10009,http,,,JP,Fukuoka,http://116.94.100.173:10009,"QTnet,Inc."
-https://140.238.51.18:10004,140.238.51.18,10004,https,403 Forbidden,,JP,Tokyo,https://140.238.51.18:10004,ORACLE-BMC-31898
-https://158.101.132.240:10004,158.101.132.240,10004,https,403 Forbidden,,JP,Tokyo,https://158.101.132.240:10004,ORACLE-BMC-31898
-https://23.106.130.20:1443,23.106.130.20,1443,https,403 Forbidden,,JP,Osaka,https://23.106.130.20:1443,IT7NET
 172.104.66.59:60000,172.104.66.59,60000,http,,,JP,Tokyo,http://172.104.66.59:60000,Akamai Connected Cloud
 https://45.143.233.192:999,45.143.233.192,999,https,403 Forbidden,,JP,Tokyo,https://45.143.233.192:999,Owl Limited
-https://150.230.206.237:9710,150.230.206.237,9710,https,403 Forbidden,,JP,Tokyo,https://150.230.206.237:9710,ORACLE-BMC-31898
 https://172.104.80.218:18443,172.104.80.218,18443,https,403 Forbidden,,JP,Tokyo,https://172.104.80.218:18443,Akamai Connected Cloud
 172.104.80.61:40000,172.104.80.61,40000,http,,,JP,Tokyo,http://172.104.80.61:40000,Akamai Connected Cloud
 172.104.80.59:40000,172.104.80.59,40000,http,,,JP,Tokyo,http://172.104.80.59:40000,Akamai Connected Cloud
@@ -81,23 +82,12 @@ https://172.104.80.218:18443,172.104.80.218,18443,https,403 Forbidden,,JP,Tokyo,
 139.162.114.10:40000,139.162.114.10,40000,http,,,JP,Tokyo,http://139.162.114.10:40000,Akamai Connected Cloud
 172.104.80.21:40000,172.104.80.21,40000,http,,,JP,Tokyo,http://172.104.80.21:40000,Akamai Connected Cloud
 172.104.80.40:40000,172.104.80.40,40000,http,,,JP,Tokyo,http://172.104.80.40:40000,Akamai Connected Cloud
-https://47.79.33.133:9527,47.79.33.133,9527,https,403 Forbidden,,JP,Tokyo,https://47.79.33.133:9527,
-https://158.101.132.240:10000,158.101.132.240,10000,https,403 Forbidden,,JP,Tokyo,https://158.101.132.240:10000,ORACLE-BMC-31898
-https://140.238.51.18:10001,140.238.51.18,10001,https,403 Forbidden,,JP,Tokyo,https://140.238.51.18:10001,ORACLE-BMC-31898
-https://158.101.132.240:10002,158.101.132.240,10002,https,403 Forbidden,,JP,Tokyo,https://158.101.132.240:10002,ORACLE-BMC-31898
-https://158.101.132.240:10001,158.101.132.240,10001,https,403 Forbidden,,JP,Tokyo,https://158.101.132.240:10001,ORACLE-BMC-31898
-https://206.190.232.192:10086,206.190.232.192,10086,https,403 Forbidden,,JP,Osaka,https://206.190.232.192:10086,IT7NET
-https://141.147.177.180:1024,141.147.177.180,1024,https,403 Forbidden,,JP,Tokyo,https://141.147.177.180:1024,ORACLE-BMC-31898
 https://5.8.71.96:445,5.8.71.96,445,https,403 Forbidden,,JP,Tokyo,https://5.8.71.96:445,G-Core Labs S.A.
 https://119.229.77.159:10002,119.229.77.159,10002,https,403 Forbidden,,JP,Nara,https://119.229.77.159:10002,OPTAGE Inc.
-https://47.74.20.213:8081,47.74.20.213,8081,https,403 Forbidden,,JP,Tokyo,https://47.74.20.213:8081,"Alibaba US Technology Co., Ltd."
 https://43.239.249.177:10255,43.239.249.177,10255,https,403 Forbidden,,JP,Tokyo,https://43.239.249.177:10255,Owl Limited
 https://124.103.78.165:37777,124.103.78.165,37777,https,403 Forbidden,,JP,Kitakyushu,https://124.103.78.165:37777,NTT Communications Corporation
-https://168.138.209.170:12345,168.138.209.170,12345,https,403 Forbidden,,JP,Tokyo,https://168.138.209.170:12345,ORACLE-BMC-31898
-https://132.226.11.209:9443,132.226.11.209,9443,https,403 Forbidden,,JP,Tokyo,https://132.226.11.209:9443,ORACLE-BMC-31898
 https://20.210.240.25:2222,20.210.240.25,2222,https,403 Forbidden,,JP,Tokyo,https://20.210.240.25:2222,MICROSOFT-CORP-MSN-AS-BLOCK
 126.84.236.56:16922,126.84.236.56,16922,http,,,JP,Naha,http://126.84.236.56:16922,Softbank BB Corp.
-https://168.138.192.236:9443,168.138.192.236,9443,https,403 Forbidden,,JP,Tokyo,https://168.138.192.236:9443,ORACLE-BMC-31898
 https://47.79.37.119:6666,47.79.37.119,6666,https,403 Forbidden,,JP,Tokyo,https://47.79.37.119:6666,
 https://172.104.80.50:18443,172.104.80.50,18443,https,403 Forbidden,,JP,Tokyo,https://172.104.80.50:18443,Akamai Connected Cloud
 https://172.104.80.58:18443,172.104.80.58,18443,https,403 Forbidden,,JP,Tokyo,https://172.104.80.58:18443,Akamai Connected Cloud
@@ -107,16 +97,10 @@ https://112.71.109.77:32773,112.71.109.77,32773,https,403 Forbidden,,JP,Shikatac
 https://116.118.211.165:20002,116.118.211.165,20002,https,403 Forbidden,,JP,Utsunomiya,https://116.118.211.165:20002,Utsunomiya Cable TV Corporation
 https://112.71.109.27:10250,112.71.109.27,10250,https,403 Forbidden,,JP,Shikatacho-shikata,https://112.71.109.27:10250,OPTAGE Inc.
 https://34.97.177.229:54321,34.97.177.229,54321,https,403 Forbidden,,JP,Osaka,https://34.97.177.229:54321,GOOGLE-CLOUD-PLATFORM
-https://212.50.246.31:6060,212.50.246.31,6060,https,403 Forbidden,,JP,Osaka,https://212.50.246.31:6060,IT7NET
 https://119.47.201.254:18000,119.47.201.254,18000,https,403 Forbidden,,JP,Kagoshima,https://119.47.201.254:18000,"QTnet,Inc."
-https://188.253.22.45:9443,188.253.22.45,9443,https,403 Forbidden,,JP,Tokyo,https://188.253.22.45:9443,AMAZON-02
-https://8.209.201.255:27015,8.209.201.255,27015,https,403 Forbidden,,JP,Tokyo,https://8.209.201.255:27015,"Alibaba US Technology Co., Ltd."
 https://4.189.251.113:10255,4.189.251.113,10255,https,403 Forbidden,,JP,Tokyo,https://4.189.251.113:10255,MICROSOFT-CORP-MSN-AS-BLOCK
 https://172.104.80.40:18443,172.104.80.40,18443,https,403 Forbidden,,JP,Tokyo,https://172.104.80.40:18443,Akamai Connected Cloud
 https://172.104.80.21:18443,172.104.80.21,18443,https,403 Forbidden,,JP,Tokyo,https://172.104.80.21:18443,Akamai Connected Cloud
-https://8.209.212.180:8878,8.209.212.180,8878,https,403 Forbidden,,JP,Tokyo,https://8.209.212.180:8878,"Alibaba US Technology Co., Ltd."
-https://8.209.212.180:8868,8.209.212.180,8868,https,403 Forbidden,,JP,Tokyo,https://8.209.212.180:8868,"Alibaba US Technology Co., Ltd."
-https://8.209.243.110:8850,8.209.243.110,8850,https,403 Forbidden,,JP,Tokyo,https://8.209.243.110:8850,"Alibaba US Technology Co., Ltd."
 https://58.88.198.44:10000,58.88.198.44,10000,https,403 Forbidden,,JP,Nagoya,https://58.88.198.44:10000,NTT Communications Corporation
 https://125.31.109.216:12999,125.31.109.216,12999,https,403 Forbidden,,JP,Fukuoka,https://125.31.109.216:12999,"QTnet,Inc."
 https://60.239.7.247:22335,60.239.7.247,22335,https,403 Forbidden,,JP,Yokohama,https://60.239.7.247:22335,BIGLOBE Inc.
@@ -124,7 +108,6 @@ https://156.231.112.25:4433,156.231.112.25,4433,https,403 Forbidden,,JP,Tokyo,ht
 https://147.78.242.182:8503,147.78.242.182,8503,https,403 Forbidden,,JP,Tokyo,https://147.78.242.182:8503,Owl Limited
 https://78.142.229.169:8503,78.142.229.169,8503,https,403 Forbidden,,JP,Tokyo,https://78.142.229.169:8503,xTom GmbH
 https://103.35.189.61:8448,103.35.189.61,8448,https,403 Forbidden,,JP,Tokyo,https://103.35.189.61:8448,ARTERIA Networks Corporation
-https://188.253.19.126:7777,188.253.19.126,7777,https,403 Forbidden,,JP,Tokyo,https://188.253.19.126:7777,AMAZON-02
 https://110.54.69.49:20005,110.54.69.49,20005,https,403 Forbidden,,JP,Fukuoka,https://110.54.69.49:20005,"QTnet,Inc."
 139.162.114.10:40001,139.162.114.10,40001,http,Attention Required! | Cloudflare,,JP,Tokyo,http://139.162.114.10:40001,Akamai Connected Cloud
 https://61.245.10.127:49154,61.245.10.127,49154,https,403 Forbidden,,JP,Tokyo,https://61.245.10.127:49154,
@@ -136,50 +119,22 @@ https://58.3.69.220:10443,58.3.69.220,10443,https,403 Forbidden,,JP,Kitakyushu,h
 https://153.226.117.50:10001,153.226.117.50,10001,https,403 Forbidden,,JP,Tokyo,https://153.226.117.50:10001,NTT Communications Corporation
 https://47.79.38.77:9527,47.79.38.77,9527,https,403 Forbidden,,JP,Tokyo,https://47.79.38.77:9527,
 https://47.79.38.200:60001,47.79.38.200,60001,https,403 Forbidden,,JP,Tokyo,https://47.79.38.200:60001,
-https://140.238.51.18:10000,140.238.51.18,10000,https,403 Forbidden,,JP,Tokyo,https://140.238.51.18:10000,ORACLE-BMC-31898
-https://52.199.66.82:10001,52.199.66.82,10001,https,403 Forbidden,,JP,Tokyo,https://52.199.66.82:10001,AMAZON-02
 https://101.128.174.250:22335,101.128.174.250,22335,https,403 Forbidden,,JP,Sakata,https://101.128.174.250:22335,Internet Initiative Japan Inc.
-https://185.184.223.18:445,185.184.223.18,445,https,403 Forbidden,,JP,Osaka,https://185.184.223.18:445,Owl Limited
-https://140.238.51.18:10002,140.238.51.18,10002,https,403 Forbidden,,JP,Tokyo,https://140.238.51.18:10002,ORACLE-BMC-31898
 https://47.79.38.106:10001,47.79.38.106,10001,https,403 Forbidden,,JP,Tokyo,https://47.79.38.106:10001,
-https://168.138.42.138:444,168.138.42.138,444,https,403 Forbidden,,JP,Osaka,https://168.138.42.138:444,ORACLE-BMC-31898
 https://43.133.10.100:445,43.133.10.100,445,https,403 Forbidden,,JP,Tokyo,https://43.133.10.100:445,"Tencent Building, Kejizhongyi Avenue"
 https://5.104.75.28:587,5.104.75.28,587,https,403 Forbidden,,JP,Tokyo,https://5.104.75.28:587,SIA Singularity Telecom
 https://jp2.wibo.pub:8001,47.79.35.195,8001,https,Attention Required! | Cloudflare,wibo.pub,JP,Tokyo,https://jp2.wibo.pub:8001,
-https://3.113.3.67:1433,3.113.3.67,1433,https,403 Forbidden,,JP,Tokyo,https://3.113.3.67:1433,AMAZON-02
-https://85.208.109.102:2080,85.208.109.102,2080,https,403 Forbidden,,JP,Tokyo,https://85.208.109.102:2080,ENZUINC
 https://47.79.35.195:8001,47.79.35.195,8001,https,403 Forbidden,,JP,Tokyo,https://47.79.35.195:8001,
-https://152.70.102.222:5443,152.70.102.222,5443,https,403 Forbidden,,JP,Tokyo,https://152.70.102.222:5443,ORACLE-BMC-31898
-https://18.178.82.213:10332,18.178.82.213,10332,https,403 Forbidden,,JP,Tokyo,https://18.178.82.213:10332,AMAZON-02
 https://113.156.223.217:10049,113.156.223.217,10049,https,403 Forbidden,,JP,Tokyo,https://113.156.223.217:10049,KDDI CORPORATION
-https://43.207.156.183:7777,43.207.156.183,7777,https,403 Forbidden,,JP,Tokyo,https://43.207.156.183:7777,AMAZON-02
 https://180.145.207.222:10909,180.145.207.222,10909,https,403 Forbidden,,JP,Maizuru,https://180.145.207.222:10909,OPTAGE Inc.
-https://188.253.24.161:7443,188.253.24.161,7443,https,403 Forbidden,,JP,Tokyo,https://188.253.24.161:7443,AMAZON-02
-https://43.133.211.105:5443,43.133.211.105,5443,https,403 Forbidden,,JP,Tokyo,https://43.133.211.105:5443,"Tencent Building, Kejizhongyi Avenue"
-https://47.74.46.240:8165,47.74.46.240,8165,https,403 Forbidden,,JP,Tokyo,https://47.74.46.240:8165,"Alibaba US Technology Co., Ltd."
-https://47.79.39.72:3306,47.79.39.72,3306,https,403 Forbidden,,JP,Tokyo,https://47.79.39.72:3306,
-https://168.138.52.243:9003,168.138.52.243,9003,https,403 Forbidden,,JP,Osaka,https://168.138.52.243:9003,ORACLE-BMC-31898
-https://158.101.153.138:8890,158.101.153.138,8890,https,403 Forbidden,,JP,Tokyo,https://158.101.153.138:8890,ORACLE-BMC-31898
 https://20.243.125.64:10000,20.243.125.64,10000,https,403 Forbidden,,JP,Tokyo,https://20.243.125.64:10000,MICROSOFT-CORP-MSN-AS-BLOCK
 https://61.195.129.225:20000,61.195.129.225,20000,https,403 Forbidden,,JP,Nabari,https://61.195.129.225:20000,"IGAUENO CABLE TELEVISION CO.,LTD"
-https://152.70.82.45:8029,152.70.82.45,8029,https,403 Forbidden,,JP,Osaka,https://152.70.82.45:8029,ORACLE-BMC-31898
 https://64.176.55.41:1024,64.176.55.41,1024,https,403 Forbidden,,JP,Osaka,https://64.176.55.41:1024,AS-CHOOPA
 https://34.146.68.185:8013,34.146.68.185,8013,https,403 Forbidden,,JP,Tokyo,https://34.146.68.185:8013,GOOGLE-CLOUD-PLATFORM
-https://64.176.53.19:8002,64.176.53.19,8002,https,403 Forbidden,,JP,Osaka,https://64.176.53.19:8002,AS-CHOOPA
 https://114.167.170.189:14265,114.167.170.189,14265,https,403 Forbidden,,JP,Saitama,https://114.167.170.189:14265,NTT Communications Corporation
-https://168.138.215.137:6513,168.138.215.137,6513,https,403 Forbidden,,JP,Tokyo,https://168.138.215.137:6513,ORACLE-BMC-31898
-https://212.50.251.230:25000,212.50.251.230,25000,https,403 Forbidden,,JP,Osaka,https://212.50.251.230:25000,IT7NET
-https://168.138.203.197:30003,168.138.203.197,30003,https,403 Forbidden,,JP,Tokyo,https://168.138.203.197:30003,ORACLE-BMC-31898
 https://154.19.186.187:12345,154.19.186.187,12345,https,403 Forbidden,,JP,Tokyo,https://154.19.186.187:12345,Silicon Cloud Global US
-https://150.230.203.210:8099,150.230.203.210,8099,https,403 Forbidden,,JP,Tokyo,https://150.230.203.210:8099,ORACLE-BMC-31898
 https://58.3.91.64:27017,58.3.91.64,27017,https,403 Forbidden,,JP,Nagasaki,https://58.3.91.64:27017,"QTnet,Inc."
-https://139.162.65.242:110,139.162.65.242,110,https,403 Forbidden,,JP,Tokyo,https://139.162.65.242:110,Akamai Connected Cloud
-https://47.74.46.37:5224,47.74.46.37,5224,https,403 Forbidden,,JP,Tokyo,https://47.74.46.37:5224,"Alibaba US Technology Co., Ltd."
-https://168.138.46.24:4434,168.138.46.24,4434,https,403 Forbidden,,JP,Osaka,https://168.138.46.24:4434,ORACLE-BMC-31898
-https://131.186.59.5:4431,131.186.59.5,4431,https,403 Forbidden,,JP,Tokyo,https://131.186.59.5:4431,ORACLE-BMC-31898
-https://206.190.235.113:12345,206.190.235.113,12345,https,403 Forbidden,,JP,Osaka,https://206.190.235.113:12345,IT7NET
 https://103.20.199.166:6666,103.20.199.166,6666,https,403 Forbidden,,JP,Tokyo,https://103.20.199.166:6666,Nearoute Limited.
-https://35.73.121.196:4433,35.73.121.196,4433,https,403 Forbidden,,JP,Tokyo,https://35.73.121.196:4433,AMAZON-02
 172.104.80.50:40000,172.104.80.50,40000,http,Attention Required! | Cloudflare,,JP,Tokyo,http://172.104.80.50:40000,Akamai Connected Cloud
 172.104.94.128:40000,172.104.94.128,40000,http,,,JP,Tokyo,http://172.104.94.128:40000,Akamai Connected Cloud
 139.162.74.106:40000,139.162.74.106,40000,http,,,JP,Tokyo,http://139.162.74.106:40000,Akamai Connected Cloud
@@ -188,9 +143,7 @@ https://172.105.235.207:3953,172.105.235.207,3953,https,403 Forbidden,,JP,Tokyo,
 https://112.68.13.151:26257,112.68.13.151,26257,https,403 Forbidden,,JP,Himeji,https://112.68.13.151:26257,OPTAGE Inc.
 https://124.103.7.247:29015,124.103.7.247,29015,https,403 Forbidden,,JP,Fukuoka,https://124.103.7.247:29015,NTT Communications Corporation
 https://108.61.180.175:3124,108.61.180.175,3124,https,403 Forbidden,,JP,Tokyo,https://108.61.180.175:3124,Singapore Telecommunications Ltd
-52.195.180.98:9001,52.195.180.98,9001,http,,,JP,Tokyo,http://52.195.180.98:9001,AMAZON-02
 https://172.105.209.164:8888,172.105.209.164,8888,https,403 Forbidden,,JP,Tokyo,https://172.105.209.164:8888,Akamai Connected Cloud
-https://52.195.226.66:5432,52.195.226.66,5432,https,403 Forbidden,,JP,Tokyo,https://52.195.226.66:5432,AMAZON-02
 https://61.195.129.225:20547,61.195.129.225,20547,https,403 Forbidden,,JP,Nabari,https://61.195.129.225:20547,"IGAUENO CABLE TELEVISION CO.,LTD"
 172.233.90.137:40000,172.233.90.137,40000,http,,,JP,Osaka,http://172.233.90.137:40000,Akamai International B.V.
 172.233.79.116:40000,172.233.79.116,40000,http,,,JP,Osaka,http://172.233.79.116:40000,Akamai International B.V.
@@ -199,10 +152,7 @@ https://5.104.75.29:2069,5.104.75.29,2069,https,403 Forbidden,,JP,Tokyo,https://
 172.233.81.150:40000,172.233.81.150,40000,http,,,JP,Osaka,http://172.233.81.150:40000,Akamai International B.V.
 172.233.79.238:40000,172.233.79.238,40000,http,,,JP,Osaka,http://172.233.79.238:40000,Akamai International B.V.
 https://45.32.33.0:4000,45.32.33.0,4000,https,403 Forbidden,,JP,Tokyo,https://45.32.33.0:4000,AS-CHOOPA
-https://8.209.251.68:1500,8.209.251.68,1500,https,403 Forbidden,,JP,Tokyo,https://8.209.251.68:1500,"Alibaba US Technology Co., Ltd."
 https://34.146.148.176:10001,34.146.148.176,10001,https,403 Forbidden,,JP,Tokyo,https://34.146.148.176:10001,GOOGLE-CLOUD-PLATFORM
-https://188.253.19.126:1111,188.253.19.126,1111,https,403 Forbidden,,JP,Tokyo,https://188.253.19.126:1111,AMAZON-02
-https://138.2.2.82:1111,138.2.2.82,1111,https,403 Forbidden,,JP,Tokyo,https://138.2.2.82:1111,ORACLE-BMC-31898
 https://209.146.103.65:1002,209.146.103.65,1002,https,403 Forbidden,,JP,Tokyo,https://209.146.103.65:1002,COGENT-174
 https://35.200.6.239:54321,35.200.6.239,54321,https,403 Forbidden,,JP,Tokyo,https://35.200.6.239:54321,GOOGLE-CLOUD-PLATFORM
 https://172.233.90.137:18443,172.233.90.137,18443,https,403 Forbidden,,JP,Osaka,https://172.233.90.137:18443,Akamai International B.V.
@@ -210,27 +160,18 @@ https://60.34.57.120:27017,60.34.57.120,27017,https,403 Forbidden,,JP,Saitama,ht
 https://121.92.201.3:10443,121.92.201.3,10443,https,403 Forbidden,,JP,Toyama,https://121.92.201.3:10443,Cable Television TOYAMA Inc.
 https://5.180.45.21:700,5.180.45.21,700,https,403 Forbidden,,JP,Tokyo,https://5.180.45.21:700,ENZUINC
 https://124.102.177.81:10000,124.102.177.81,10000,https,403 Forbidden,,JP,Fukuoka,https://124.102.177.81:10000,NTT Communications Corporation
-https://8.216.89.203:234,8.216.89.203,234,https,403 Forbidden,,JP,Tokyo,https://8.216.89.203:234,"Alibaba US Technology Co., Ltd."
-https://158.101.150.73:6666,158.101.150.73,6666,https,403 Forbidden,,JP,Tokyo,https://158.101.150.73:6666,ORACLE-BMC-31898
 https://45.143.233.192:777,45.143.233.192,777,https,403 Forbidden,,JP,Tokyo,https://45.143.233.192:777,Owl Limited
-https://212.50.255.114:19888,212.50.255.114,19888,https,403 Forbidden,,JP,Osaka,https://212.50.255.114:19888,IT7NET
 https://64.176.54.251:8013,64.176.54.251,8013,https,403 Forbidden,,JP,Osaka,https://64.176.54.251:8013,AS-CHOOPA
-https://168.138.202.49:5443,168.138.202.49,5443,https,403 Forbidden,,JP,Tokyo,https://168.138.202.49:5443,ORACLE-BMC-31898
 https://104.238.149.122:28443,104.238.149.122,28443,https,403 Forbidden,,JP,Tokyo,https://104.238.149.122:28443,AS-CHOOPA
 https://112.68.13.151:27017,112.68.13.151,27017,https,403 Forbidden,,JP,Himeji,https://112.68.13.151:27017,OPTAGE Inc.
 https://172.104.80.235:8888,172.104.80.235,8888,https,403 Forbidden,,JP,Tokyo,https://172.104.80.235:8888,Akamai Connected Cloud
 https://172.233.79.116:18443,172.233.79.116,18443,https,403 Forbidden,,JP,Osaka,https://172.233.79.116:18443,Akamai International B.V.
 https://126.74.140.62:31337,126.74.140.62,31337,https,403 Forbidden,,JP,Marunouchi,https://126.74.140.62:31337,Softbank BB Corp.
-https://140.238.33.220:58443,140.238.33.220,58443,https,403 Forbidden,,JP,Tokyo,https://140.238.33.220:58443,ORACLE-BMC-31898
-https://158.101.89.113:58443,158.101.89.113,58443,https,403 Forbidden,,JP,Tokyo,https://158.101.89.113:58443,ORACLE-BMC-31898
-https://103.117.103.163:51002,103.117.103.163,51002,https,403 Forbidden,,JP,Tokyo,https://103.117.103.163:51002,DMIT
 20.89.112.64:40000,20.89.112.64,40000,http,,,JP,Tokyo,http://20.89.112.64:40000,MICROSOFT-CORP-MSN-AS-BLOCK
 20.89.112.66:40000,20.89.112.66,40000,http,,,JP,Tokyo,http://20.89.112.66:40000,MICROSOFT-CORP-MSN-AS-BLOCK
 20.89.112.65:40000,20.89.112.65,40000,http,,,JP,Tokyo,http://20.89.112.65:40000,MICROSOFT-CORP-MSN-AS-BLOCK
-52.197.14.142:40000,52.197.14.142,40000,http,Attention Required! | Cloudflare,,JP,Tokyo,http://52.197.14.142:40000,AMAZON-02
 https://182.165.212.121:19999,182.165.212.121,19999,https,403 Forbidden,,JP,Osaka,https://182.165.212.121:19999,OPTAGE Inc.
 https://125.48.190.137:20202,125.48.190.137,20202,https,403 Forbidden,,JP,Tokyo,https://125.48.190.137:20202,KDDI CORPORATION
-https://138.2.21.196:44333,138.2.21.196,44333,https,403 Forbidden,,JP,Tokyo,https://138.2.21.196:44333,ORACLE-BMC-31898
 https://123.221.74.129:16923,123.221.74.129,16923,https,403 Forbidden,,JP,Tokyo,https://123.221.74.129:16923,NTT Communications Corporation
 https://153.195.129.94:25007,153.195.129.94,25007,https,403 Forbidden,,JP,Osaka,https://153.195.129.94:25007,NTT Communications Corporation
 https://112.70.70.230:27017,112.70.70.230,27017,https,403 Forbidden,,JP,Toyooka,https://112.70.70.230:27017,OPTAGE Inc.
@@ -238,37 +179,27 @@ https://101.142.149.63:11110,101.142.149.63,11110,https,403 Forbidden,,JP,Shikat
 https://27.137.158.60:18001,27.137.158.60,18001,https,403 Forbidden,,JP,Fukaya,https://27.137.158.60:18001,"JCOM Co., Ltd."
 https://219.75.178.40:10243,219.75.178.40,10243,https,403 Forbidden,,JP,Kyoto,https://219.75.178.40:10243,OPTAGE Inc.
 https://180.17.144.27:10333,180.17.144.27,10333,https,403 Forbidden,,JP,Tokyo,https://180.17.144.27:10333,NTT Communications Corporation
-https://168.138.208.208:6666,168.138.208.208,6666,https,403 Forbidden,,JP,Tokyo,https://168.138.208.208:6666,ORACLE-BMC-31898
 https://45.66.216.40:28443,45.66.216.40,28443,https,403 Forbidden,,JP,Tokyo,https://45.66.216.40:28443,Owl Limited
 https://101.142.185.42:10255,101.142.185.42,10255,https,403 Forbidden,,JP,Himeji,https://101.142.185.42:10255,OPTAGE Inc.
 103.20.199.88:30002,103.20.199.88,30002,http,,,JP,Tokyo,http://103.20.199.88:30002,Nearoute Limited.
-https://47.74.4.254:40001,47.74.4.254,40001,https,403 Forbidden,,JP,Tokyo,https://47.74.4.254:40001,"Alibaba US Technology Co., Ltd."
-https://8.209.212.180:8848,8.209.212.180,8848,https,403 Forbidden,,JP,Tokyo,https://8.209.212.180:8848,"Alibaba US Technology Co., Ltd."
 https://60.46.201.233:27017,60.46.201.233,27017,https,403 Forbidden,,JP,Osaka,https://60.46.201.233:27017,NTT Communications Corporation
-https://138.2.21.240:12345,138.2.21.240,12345,https,403 Forbidden,,JP,Tokyo,https://138.2.21.240:12345,ORACLE-BMC-31898
 https://119.47.42.98:10001,119.47.42.98,10001,https,403 Forbidden,,JP,Kagoshima,https://119.47.42.98:10001,"QTnet,Inc."
-https://47.245.56.156:2248,47.245.56.156,2248,https,403 Forbidden,,JP,Tokyo,https://47.245.56.156:2248,"Alibaba US Technology Co., Ltd."
-https://158.101.147.106:10443,158.101.147.106,10443,https,403 Forbidden,,JP,Tokyo,https://158.101.147.106:10443,ORACLE-BMC-31898
 https://211.131.61.143:20332,211.131.61.143,20332,https,403 Forbidden,,JP,Tokyo,https://211.131.61.143:20332,SoftBank Corp.
 https://101.142.149.63:20202,101.142.149.63,20202,https,403 Forbidden,,JP,Shikatacho-shikata,https://101.142.149.63:20202,OPTAGE Inc.
 https://34.146.120.109:3051,34.146.120.109,3051,https,403 Forbidden,,JP,Tokyo,https://34.146.120.109:3051,GOOGLE-CLOUD-PLATFORM
 https://78.142.230.86:8503,78.142.230.86,8503,https,403 Forbidden,,JP,Tokyo,https://78.142.230.86:8503,xTom GmbH
 https://27.143.72.180:10002,27.143.72.180,10002,https,403 Forbidden,,JP,Saitama,https://27.143.72.180:10002,"JCOM Co., Ltd."
 https://172.105.203.231:10002,172.105.203.231,10002,https,403 Forbidden,,JP,Tokyo,https://172.105.203.231:10002,Akamai Connected Cloud
-https://54.64.149.169:50112,54.64.149.169,50112,https,403 Forbidden,,JP,Tokyo,https://54.64.149.169:50112,AMAZON-02
 https://112.69.4.50:20332,112.69.4.50,20332,https,403 Forbidden,,JP,Wakayama,https://112.69.4.50:20332,OPTAGE Inc.
 119.47.156.179:20002,119.47.156.179,20002,http,,,JP,Nagasaki,http://119.47.156.179:20002,"QTnet,Inc."
 https://103.201.131.122:50085,103.201.131.122,50085,https,403 Forbidden,,JP,Tokyo,https://103.201.131.122:50085,Owl Limited
 https://43.163.234.75:8088,43.163.234.75,8088,https,403 Forbidden,,JP,Tokyo,https://43.163.234.75:8088,"Tencent Building, Kejizhongyi Avenue"
 https://38.54.50.69:9443,38.54.50.69,9443,https,403 Forbidden,,JP,Tokyo,https://38.54.50.69:9443,Kaopu Cloud HK Limited
 172.233.79.32:40001,172.233.79.32,40001,http,Attention Required! | Cloudflare,,JP,Osaka,http://172.233.79.32:40001,Akamai International B.V.
-https://47.74.39.158:5000,47.74.39.158,5000,https,403 Forbidden,,JP,Tokyo,https://47.74.39.158:5000,"Alibaba US Technology Co., Ltd."
 https://103.35.190.202:9443,103.35.190.202,9443,https,403 Forbidden,,JP,Tokyo,https://103.35.190.202:9443,ARTERIA Networks Corporation
 https://61.205.125.62:13579,61.205.125.62,13579,https,403 Forbidden,,JP,Osaka,https://61.205.125.62:13579,OPTAGE Inc.
 https://180.12.242.24:10073,180.12.242.24,10073,https,403 Forbidden,,JP,Saitama,https://180.12.242.24:10073,NTT Communications Corporation
 https://58.3.223.168:13579,58.3.223.168,13579,https,403 Forbidden,,JP,Kumamoto,https://58.3.223.168:13579,"QTnet,Inc."
-https://23.106.130.48:49158,23.106.130.48,49158,https,403 Forbidden,,JP,Osaka,https://23.106.130.48:49158,IT7NET
-18.183.30.245:40000,18.183.30.245,40000,http,Attention Required! | Cloudflare,,JP,Tokyo,http://18.183.30.245:40000,AMAZON-02
 https://61.205.125.62:30005,61.205.125.62,30005,https,403 Forbidden,,JP,Osaka,https://61.205.125.62:30005,OPTAGE Inc.
 https://119.230.217.109:30005,119.230.217.109,30005,https,403 Forbidden,,JP,Toyooka,https://119.230.217.109:30005,OPTAGE Inc.
 https://64.176.46.107:7998,64.176.46.107,7998,https,403 Forbidden,,JP,Osaka,https://64.176.46.107:7998,AS-CHOOPA
@@ -291,7 +222,6 @@ https://119.228.213.50:32412,119.228.213.50,32412,https,403 Forbidden,,JP,Nara,h
 https://27.143.72.180:21267,27.143.72.180,21267,https,403 Forbidden,,JP,Saitama,https://27.143.72.180:21267,"JCOM Co., Ltd."
 https://119.228.213.50:10243,119.228.213.50,10243,https,403 Forbidden,,JP,Nara,https://119.228.213.50:10243,OPTAGE Inc.
 https://193.111.31.83:21240,193.111.31.83,21240,https,403 Forbidden,,JP,Tokyo,https://193.111.31.83:21240,Owl Limited
-https://192.243.120.18:7443,192.243.120.18,7443,https,403 Forbidden,,JP,Osaka,https://192.243.120.18:7443,IT7NET
 https://122.25.52.131:29876,122.25.52.131,29876,https,403 Forbidden,,JP,Tokyo,https://122.25.52.131:29876,NTT Communications Corporation
 https://27.143.72.180:16066,27.143.72.180,16066,https,403 Forbidden,,JP,Saitama,https://27.143.72.180:16066,"JCOM Co., Ltd."
 172.104.66.51:60000,172.104.66.51,60000,http,,,JP,Tokyo,http://172.104.66.51:60000,Akamai Connected Cloud
@@ -303,38 +233,29 @@ https://59.190.202.155:16064,59.190.202.155,16064,https,403 Forbidden,,JP,Kyoto,
 https://115.124.134.169:16042,115.124.134.169,16042,https,403 Forbidden,,JP,Fukuoka,https://115.124.134.169:16042,"QTnet,Inc."
 https://106.183.74.98:27017,106.183.74.98,27017,https,403 Forbidden,,JP,Tokyo,https://106.183.74.98:27017,KDDI CORPORATION
 https://153.163.151.249:16031,153.163.151.249,16031,https,403 Forbidden,,JP,Marunouchi,https://153.163.151.249:16031,NTT Communications Corporation
-18.181.107.179:40000,18.181.107.179,40000,http,,,JP,Tokyo,http://18.181.107.179:40000,AMAZON-02
 https://220.148.162.28:30005,220.148.162.28,30005,https,403 Forbidden,,JP,Tokyo,https://220.148.162.28:30005,TOKAI Communications Corporation
 185.216.118.70:39001,185.216.118.70,39001,http,,,JP,Tokyo,http://185.216.118.70:39001,Cloudie Limited
 https://119.231.73.113:28017,119.231.73.113,28017,https,403 Forbidden,,JP,Osaka,https://119.231.73.113:28017,OPTAGE Inc.
 https://172.105.203.231:10001,172.105.203.231,10001,https,403 Forbidden,,JP,Tokyo,https://172.105.203.231:10001,Akamai Connected Cloud
-https://8.209.220.50:21273,8.209.220.50,21273,https,403 Forbidden,,JP,Tokyo,https://8.209.220.50:21273,"Alibaba US Technology Co., Ltd."
 https://45.143.234.25:30002,45.143.234.25,30002,https,403 Forbidden,,JP,Tokyo,https://45.143.234.25:30002,Owl Limited
 https://202.86.127.22:12156,202.86.127.22,12156,https,403 Forbidden,,JP,Miyoshi,https://202.86.127.22:12156,"Energia Communications, Inc."
 https://45.66.129.168:12231,45.66.129.168,12231,https,403 Forbidden,,JP,Tokyo,https://45.66.129.168:12231,Owl Limited
 https://182.165.222.151:12432,182.165.222.151,12432,https,403 Forbidden,,JP,Amagasaki,https://182.165.222.151:12432,OPTAGE Inc.
-https://23.106.130.200:3389,23.106.130.200,3389,https,403 Forbidden,,JP,Osaka,https://23.106.130.200:3389,IT7NET
-https://212.50.232.142:50002,212.50.232.142,50002,https,403 Forbidden,,JP,Osaka,https://212.50.232.142:50002,IT7NET
 https://43.130.231.167:3306,43.130.231.167,3306,https,403 Forbidden,,JP,Tokyo,https://43.130.231.167:3306,"Tencent Building, Kejizhongyi Avenue"
-https://140.83.80.109:4430,140.83.80.109,4430,https,403 Forbidden,,JP,Osaka,https://140.83.80.109:4430,ORACLE-BMC-31898
 https://38.54.50.69:8444,38.54.50.69,8444,https,403 Forbidden,,JP,Tokyo,https://38.54.50.69:8444,Kaopu Cloud HK Limited
-https://141.147.176.144:8013,141.147.176.144,8013,https,403 Forbidden,,JP,Tokyo,https://141.147.176.144:8013,ORACLE-BMC-31898
 https://58.3.59.196:10003,58.3.59.196,10003,https,403 Forbidden,,JP,Kumamoto,https://58.3.59.196:10003,"QTnet,Inc."
 172.233.79.32:40000,172.233.79.32,40000,http,,,JP,Osaka,http://172.233.79.32:40000,Akamai International B.V.
 139.162.103.46:40000,139.162.103.46,40000,http,,,JP,Tokyo,http://139.162.103.46:40000,Akamai Connected Cloud
 https://172.105.203.231:10003,172.105.203.231,10003,https,403 Forbidden,,JP,Tokyo,https://172.105.203.231:10003,Akamai Connected Cloud
 https://167.179.111.69:8333,167.179.111.69,8333,https,403 Forbidden,,JP,Tokyo,https://167.179.111.69:8333,AS-CHOOPA
 https://36.10.99.165:10002,36.10.99.165,10002,https,403 Forbidden,,JP,Tokyo,https://36.10.99.165:10002,KDDI CORPORATION
-https://140.238.43.174:9999,140.238.43.174,9999,https,403 Forbidden,,JP,Tokyo,https://140.238.43.174:9999,ORACLE-BMC-31898
 https://125.197.244.135:10005,125.197.244.135,10005,https,403 Forbidden,,JP,Niigata,https://125.197.244.135:10005,BIGLOBE Inc.
-https://212.50.234.164:10005,212.50.234.164,10005,https,403 Forbidden,,JP,Osaka,https://212.50.234.164:10005,IT7NET
 https://34.85.85.44:89,34.85.85.44,89,https,403 Forbidden,,JP,Tokyo,https://34.85.85.44:89,GOOGLE-CLOUD-PLATFORM
 https://58.3.207.70:27017,58.3.207.70,27017,https,403 Forbidden,,JP,Kumamoto,https://58.3.207.70:27017,"QTnet,Inc."
 https://195.245.242.136:30006,195.245.242.136,30006,https,403 Forbidden,,JP,Tokyo,https://195.245.242.136:30006,Owl Limited
 221.242.28.159:11300,221.242.28.159,11300,http,,,JP,Tokyo,http://221.242.28.159:11300,ARTERIA Networks Corporation
 https://45.77.131.170:12345,45.77.131.170,12345,https,403 Forbidden,,JP,Tokyo,https://45.77.131.170:12345,AS-CHOOPA
 https://5.180.45.54:50001,5.180.45.54,50001,https,403 Forbidden,,JP,Tokyo,https://5.180.45.54:50001,ENZUINC
-https://158.101.68.196:9527,158.101.68.196,9527,https,403 Forbidden,,JP,Tokyo,https://158.101.68.196:9527,ORACLE-BMC-31898
 183.176.133.203:26257,183.176.133.203,26257,http,,,JP,Takamatsu,http://183.176.133.203:26257,"STNet, Incorporated"
 180.58.193.11:12237,180.58.193.11,12237,http,,,JP,Tokyo,http://180.58.193.11:12237,NTT Communications Corporation
 https://207.148.100.162:12541,207.148.100.162,12541,https,403 Forbidden,,JP,Tokyo,https://207.148.100.162:12541,AS-CHOOPA
@@ -344,42 +265,30 @@ https://175.28.202.94:12280,175.28.202.94,12280,https,403 Forbidden,,JP,Nagasaki
 https://27.143.72.180:37020,27.143.72.180,37020,https,403 Forbidden,,JP,Saitama,https://27.143.72.180:37020,"JCOM Co., Ltd."
 https://137.220.150.2:12319,137.220.150.2,12319,https,403 Forbidden,,JP,Tokyo,https://137.220.150.2:12319,BGPNET Global ASN
 https://45.159.48.177:20002,45.159.48.177,20002,https,403 Forbidden,,JP,Tokyo,https://45.159.48.177:20002,Owl Limited
-https://212.50.234.164:10002,212.50.234.164,10002,https,403 Forbidden,,JP,Osaka,https://212.50.234.164:10002,IT7NET
-https://158.101.142.227:12344,158.101.142.227,12344,https,403 Forbidden,,JP,Tokyo,https://158.101.142.227:12344,ORACLE-BMC-31898
 121.83.144.76:21329,121.83.144.76,21329,http,,,JP,Yabu,http://121.83.144.76:21329,OPTAGE Inc.
 https://103.20.199.118:12999,103.20.199.118,12999,https,403 Forbidden,,JP,Tokyo,https://103.20.199.118:12999,Nearoute Limited.
 https://14.3.152.72:12453,14.3.152.72,12453,https,403 Forbidden,,JP,Tokyo,https://14.3.152.72:12453,Asahi Net
 https://213.232.113.187:4443,213.232.113.187,4443,https,403 Forbidden,,JP,Tokyo,https://213.232.113.187:4443,xTom GmbH
 https://119.231.143.90:12357,119.231.143.90,12357,https,403 Forbidden,,JP,Himeji,https://119.231.143.90:12357,OPTAGE Inc.
 https://180.145.105.106:12153,180.145.105.106,12153,https,403 Forbidden,,JP,Amagasaki,https://180.145.105.106:12153,OPTAGE Inc.
-https://212.50.234.164:30012,212.50.234.164,30012,https,403 Forbidden,,JP,Osaka,https://212.50.234.164:30012,IT7NET
-https://47.91.21.86:6000,47.91.21.86,6000,https,403 Forbidden,,JP,Tokyo,https://47.91.21.86:6000,"Alibaba US Technology Co., Ltd."
 https://218.40.123.69:12317,218.40.123.69,12317,https,403 Forbidden,,JP,Takamatsu,https://218.40.123.69:12317,"STNet, Incorporated"
 https://110.54.5.59:12000,110.54.5.59,12000,https,403 Forbidden,,JP,Fukuoka,https://110.54.5.59:12000,"QTnet,Inc."
 https://180.145.105.106:12507,180.145.105.106,12507,https,403 Forbidden,,JP,Amagasaki,https://180.145.105.106:12507,OPTAGE Inc.
 https://125.31.112.243:12507,125.31.112.243,12507,https,403 Forbidden,,JP,Matsuura,https://125.31.112.243:12507,"QTnet,Inc."
-https://212.50.234.164:30002,212.50.234.164,30002,https,403 Forbidden,,JP,Osaka,https://212.50.234.164:30002,IT7NET
 https://119.63.185.16:12512,119.63.185.16,12512,https,403 Forbidden,,JP,Osaka,https://119.63.185.16:12512,"ITEC HANKYU HANSHIN CO.,LTD."
 https://121.86.228.186:12124,121.86.228.186,12124,https,403 Forbidden,,JP,Osaka,https://121.86.228.186:12124,OPTAGE Inc.
 https://119.231.45.178:12379,119.231.45.178,12379,https,403 Forbidden,,JP,Osaka,https://119.231.45.178:12379,OPTAGE Inc.
 https://121.80.233.178:12136,121.80.233.178,12136,https,403 Forbidden,,JP,Osaka,https://121.80.233.178:12136,OPTAGE Inc.
-https://212.50.234.164:30005,212.50.234.164,30005,https,403 Forbidden,,JP,Osaka,https://212.50.234.164:30005,IT7NET
 https://153.220.205.122:12518,153.220.205.122,12518,https,403 Forbidden,,JP,Yokohama,https://153.220.205.122:12518,NTT Communications Corporation
 https://121.80.233.178:12290,121.80.233.178,12290,https,403 Forbidden,,JP,Osaka,https://121.80.233.178:12290,OPTAGE Inc.
 121.85.247.192:10244,121.85.247.192,10244,http,,,JP,Kyoto,http://121.85.247.192:10244,OPTAGE Inc.
-https://155.248.181.132:57699,155.248.181.132,57699,https,403 Forbidden,,JP,Tokyo,https://155.248.181.132:57699,ORACLE-BMC-31898
-https://212.50.232.142:50001,212.50.232.142,50001,https,403 Forbidden,,JP,Osaka,https://212.50.232.142:50001,IT7NET
 116.94.81.48:12122,116.94.81.48,12122,http,,,JP,Nagasaki,http://116.94.81.48:12122,"QTnet,Inc."
 https://64.176.36.10:12202,64.176.36.10,12202,https,403 Forbidden,,JP,Osaka,https://64.176.36.10:12202,AS-CHOOPA
 https://139.162.124.39:1443,139.162.124.39,1443,https,403 Forbidden,,JP,Tokyo,https://139.162.124.39:1443,Akamai Connected Cloud
 https://27.137.109.231:17780,27.137.109.231,17780,https,403 Forbidden,,JP,Tokyo,https://27.137.109.231:17780,"JCOM Co., Ltd."
 https://34.146.31.202:54321,34.146.31.202,54321,https,403 Forbidden,,JP,Tokyo,https://34.146.31.202:54321,GOOGLE-CLOUD-PLATFORM
 124.143.134.179:30327,124.143.134.179,30327,http,,,JP,Toyama,http://124.143.134.179:30327,"JCOM Co., Ltd."
-https://132.145.124.43:12509,132.145.124.43,12509,https,403 Forbidden,,JP,Tokyo,https://132.145.124.43:12509,ORACLE-BMC-31898
-https://150.230.97.136:12508,150.230.97.136,12508,https,403 Forbidden,,JP,Tokyo,https://150.230.97.136:12508,ORACLE-BMC-31898
-https://132.226.8.189:18104,132.226.8.189,18104,https,403 Forbidden,,JP,Tokyo,https://132.226.8.189:18104,ORACLE-BMC-31898
 https://103.35.189.61:8442,103.35.189.61,8442,https,403 Forbidden,,JP,Tokyo,https://103.35.189.61:8442,ARTERIA Networks Corporation
-https://152.69.193.32:12301,152.69.193.32,12301,https,403 Forbidden,,JP,Osaka,https://152.69.193.32:12301,ORACLE-BMC-31898
 14.3.188.152:12301,14.3.188.152,12301,http,,,JP,Chiba,http://14.3.188.152:12301,Asahi Net
 https://193.116.44.175:11434,193.116.44.175,11434,https,403 Forbidden,,JP,Akita,https://193.116.44.175:11434,"Cable Networks Akita Co.,ltd."
 https://172.104.117.172:10081,172.104.117.172,10081,https,403 Forbidden,,JP,Tokyo,https://172.104.117.172:10081,Akamai Connected Cloud
@@ -480,7 +389,6 @@ https://139.162.114.209:18443,139.162.114.209,18443,https,403 Forbidden,,JP,Toky
 https://139.162.114.104:18443,139.162.114.104,18443,https,403 Forbidden,,JP,Tokyo,https://139.162.114.104:18443,Akamai Connected Cloud
 https://172.104.74.248:18443,172.104.74.248,18443,https,403 Forbidden,,JP,Tokyo,https://172.104.74.248:18443,Akamai Connected Cloud
 https://178.173.231.69:12345,178.173.231.69,12345,https,403 Forbidden,,JP,Tokyo,https://178.173.231.69:12345,Nerocloud Ltd
-https://140.238.41.244:16001,140.238.41.244,16001,https,403 Forbidden,,JP,Tokyo,https://140.238.41.244:16001,ORACLE-BMC-31898
 https://20.243.123.254:11111,20.243.123.254,11111,https,403 Forbidden,,JP,Tokyo,https://20.243.123.254:11111,MICROSOFT-CORP-MSN-AS-BLOCK
 https://172.104.117.195:10081,172.104.117.195,10081,https,403 Forbidden,,JP,Tokyo,https://172.104.117.195:10081,Akamai Connected Cloud
 https://172.104.117.235:10081,172.104.117.235,10081,https,403 Forbidden,,JP,Tokyo,https://172.104.117.235:10081,Akamai Connected Cloud
@@ -561,13 +469,9 @@ https://172.104.117.179:10081,172.104.117.179,10081,https,403 Forbidden,,JP,Toky
 https://172.104.117.186:10081,172.104.117.186,10081,https,403 Forbidden,,JP,Tokyo,https://172.104.117.186:10081,Akamai Connected Cloud
 https://172.104.117.244:10081,172.104.117.244,10081,https,403 Forbidden,,JP,Tokyo,https://172.104.117.244:10081,Akamai Connected Cloud
 https://172.104.117.159:10081,172.104.117.159,10081,https,403 Forbidden,,JP,Tokyo,https://172.104.117.159:10081,Akamai Connected Cloud
-https://212.50.255.91:4431,212.50.255.91,4431,https,403 Forbidden,,JP,Osaka,https://212.50.255.91:4431,IT7NET
 https://103.76.85.31:55555,103.76.85.31,55555,https,403 Forbidden,,JP,Tokyo,https://103.76.85.31:55555,rainbow network limited
 https://163.131.252.186:10102,163.131.252.186,10102,https,403 Forbidden,,JP,Naka,https://163.131.252.186:10102,SHONAN CABLE NETWORK
-https://35.77.87.34:20201,35.77.87.34,20201,https,403 Forbidden,,JP,Tokyo,https://35.77.87.34:20201,AMAZON-02
 https://45.66.130.116:10001,45.66.130.116,10001,https,403 Forbidden,,JP,Tokyo,https://45.66.130.116:10001,Owl Limited
-https://8.209.197.175:3000,8.209.197.175,3000,https,403 Forbidden,,JP,Tokyo,https://8.209.197.175:3000,"Alibaba US Technology Co., Ltd."
-https://212.50.251.20:54321,212.50.251.20,54321,https,403 Forbidden,,JP,Osaka,https://212.50.251.20:54321,IT7NET
 https://36.10.234.180:12300,36.10.234.180,12300,https,403 Forbidden,,JP,Tokyo,https://36.10.234.180:12300,KDDI CORPORATION
 https://64.176.52.122:11371,64.176.52.122,11371,https,403 Forbidden,,JP,Osaka,https://64.176.52.122:11371,AS-CHOOPA
 202.157.224.245:10058,202.157.224.245,10058,http,,,JP,Chita,http://202.157.224.245:10058,Community Network Center Inc.
@@ -580,14 +484,11 @@ https://137.220.234.17:55555,137.220.234.17,55555,https,403 Forbidden,,JP,Tokyo,
 https://222.150.204.20:13666,222.150.204.20,13666,https,403 Forbidden,,JP,Shibetsu,https://222.150.204.20:13666,NTT Communications Corporation
 https://213.232.115.234:444,213.232.115.234,444,https,403 Forbidden,,JP,Tokyo,https://213.232.115.234:444,xTom GmbH
 https://167.88.184.187:1010,167.88.184.187,1010,https,403 Forbidden,,JP,Osaka,https://167.88.184.187:1010,xTom
-https://8.211.132.64:445,8.211.132.64,445,https,403 Forbidden,,JP,Tokyo,https://8.211.132.64:445,"Alibaba US Technology Co., Ltd."
 172.233.81.242:40000,172.233.81.242,40000,http,,,JP,Osaka,http://172.233.81.242:40000,Akamai International B.V.
 172.233.81.94:40000,172.233.81.94,40000,http,,,JP,Osaka,http://172.233.81.94:40000,Akamai International B.V.
 https://195.245.241.30:20000,195.245.241.30,20000,https,403 Forbidden,,JP,Tokyo,https://195.245.241.30:20000,Owl Limited
-https://206.190.238.88:43,206.190.238.88,43,https,403 Forbidden,,JP,Osaka,https://206.190.238.88:43,IT7NET
 121.82.241.93:10001,121.82.241.93,10001,http,,,JP,Osaka,http://121.82.241.93:10001,OPTAGE Inc.
 https://119.83.218.201:11310,119.83.218.201,11310,https,403 Forbidden,,JP,Tokyo,https://119.83.218.201:11310,TOKAI Communications Corporation
-https://47.74.43.158:3001,47.74.43.158,3001,https,403 Forbidden,,JP,Tokyo,https://47.74.43.158:3001,"Alibaba US Technology Co., Ltd."
 https://38.54.50.242:8848,38.54.50.242,8848,https,403 Forbidden,,JP,Tokyo,https://38.54.50.242:8848,Kaopu Cloud HK Limited
 https://35.221.107.138:53556,35.221.107.138,53556,https,403 Forbidden,,JP,Tokyo,https://35.221.107.138:53556,GOOGLE-CLOUD-PLATFORM
 https://34.97.229.88:10230,34.97.229.88,10230,https,403 Forbidden,,JP,Osaka,https://34.97.229.88:10230,GOOGLE-CLOUD-PLATFORM
@@ -596,7 +497,6 @@ https://103.231.75.130:50007,103.231.75.130,50007,https,403 Forbidden,,JP,Tokyo,
 https://103.231.75.134:50003,103.231.75.134,50003,https,403 Forbidden,,JP,Tokyo,https://103.231.75.134:50003,ARTERIA Networks Corporation
 https://38.47.96.148:47000,38.47.96.148,47000,https,403 Forbidden,,JP,Osaka,https://38.47.96.148:47000,xTom
 172.233.75.81:40000,172.233.75.81,40000,http,,,JP,Osaka,http://172.233.75.81:40000,Akamai International B.V.
-https://52.68.164.64:44333,52.68.164.64,44333,https,403 Forbidden,,JP,Tokyo,https://52.68.164.64:44333,AMAZON-02
 https://167.88.186.90:40099,167.88.186.90,40099,https,403 Forbidden,,JP,Osaka,https://167.88.186.90:40099,xTom
 172.233.75.81:40005,172.233.75.81,40005,http,,,JP,Osaka,http://172.233.75.81:40005,Akamai International B.V.
 172.233.91.146:40005,172.233.91.146,40005,http,,,JP,Osaka,http://172.233.91.146:40005,Akamai International B.V.
@@ -608,18 +508,11 @@ https://167.88.186.90:40099,167.88.186.90,40099,https,403 Forbidden,,JP,Osaka,ht
 172.233.81.114:40000,172.233.81.114,40000,http,,,JP,Osaka,http://172.233.81.114:40000,Akamai International B.V.
 172.233.81.44:40000,172.233.81.44,40000,http,,,JP,Osaka,http://172.233.81.44:40000,Akamai International B.V.
 172.233.91.146:40000,172.233.91.146,40000,http,,,JP,Osaka,http://172.233.91.146:40000,Akamai International B.V.
-172.233.91.45:40000,172.233.91.45,40000,http,,,JP,Osaka,http://172.233.91.45:40000,Akamai International B.V.
 https://121.84.84.80:10002,121.84.84.80,10002,https,403 Forbidden,,JP,Himeji,https://121.84.84.80:10002,OPTAGE Inc.
-https://13.231.181.194:10002,13.231.181.194,10002,https,403 Forbidden,,JP,Tokyo,https://13.231.181.194:10002,AMAZON-02
-https://54.178.110.17:4443,54.178.110.17,4443,https,403 Forbidden,,JP,Tokyo,https://54.178.110.17:4443,AMAZON-02
 https://45.14.106.186:22609,45.14.106.186,22609,https,403 Forbidden,,JP,Osaka,https://45.14.106.186:22609,xTom
 https://43.153.172.128:4321,43.153.172.128,4321,https,403 Forbidden,,JP,Tokyo,https://43.153.172.128:4321,"Tencent Building, Kejizhongyi Avenue"
 https://172.93.221.36:7788,172.93.221.36,7788,https,403 Forbidden,,JP,Tokyo,https://172.93.221.36:7788,Owl Limited
-https://138.3.217.41:8890,138.3.217.41,8890,https,403 Forbidden,,JP,Tokyo,https://138.3.217.41:8890,ORACLE-BMC-31898
-https://150.230.195.214:12345,150.230.195.214,12345,https,403 Forbidden,,JP,Tokyo,https://150.230.195.214:12345,ORACLE-BMC-31898
 https://91.200.242.204:19090,91.200.242.204,19090,https,403 Forbidden,,JP,Tokyo,https://91.200.242.204:19090,Owl Limited
-https://155.248.167.37:8052,155.248.167.37,8052,https,403 Forbidden,,JP,Tokyo,https://155.248.167.37:8052,ORACLE-BMC-31898
-https://168.138.221.151:10088,168.138.221.151,10088,https,403 Forbidden,,JP,Tokyo,https://168.138.221.151:10088,ORACLE-BMC-31898
 https://119.230.19.67:21320,119.230.19.67,21320,https,403 Forbidden,,JP,Himeji,https://119.230.19.67:21320,OPTAGE Inc.
 202.59.190.146:21271,202.59.190.146,21271,http,,,JP,Ise,http://202.59.190.146:21271,"ZTV CO.,LTD"
 https://103.35.191.248:8444,103.35.191.248,8444,https,403 Forbidden,,JP,Tokyo,https://103.35.191.248:8444,ARTERIA Networks Corporation
@@ -633,20 +526,10 @@ https://115.179.24.106:18097,115.179.24.106,18097,https,403 Forbidden,,JP,Tokyo,
 172.104.117.229:10003,172.104.117.229,10003,http,,,JP,Tokyo,http://172.104.117.229:10003,Akamai Connected Cloud
 https://103.20.199.99:40000,103.20.199.99,40000,https,403 Forbidden,,JP,Tokyo,https://103.20.199.99:40000,Nearoute Limited.
 https://156.236.73.127:49152,156.236.73.127,49152,https,403 Forbidden,,JP,Tokyo,https://156.236.73.127:49152,YISU CLOUD LTD
-https://43.207.3.64:18059,43.207.3.64,18059,https,403 Forbidden,,JP,Tokyo,https://43.207.3.64:18059,AMAZON-02
 https://209.146.102.246:18443,209.146.102.246,18443,https,403 Forbidden,,JP,Tokyo,https://209.146.102.246:18443,COGENT-174
-https://3.113.25.197:3052,3.113.25.197,3052,https,403 Forbidden,,JP,Tokyo,https://3.113.25.197:3052,AMAZON-02
-https://54.199.107.149:5432,54.199.107.149,5432,https,403 Forbidden,,JP,Tokyo,https://54.199.107.149:5432,AMAZON-02
 180.149.162.200:27017,180.149.162.200,27017,http,,,JP,Tokyo,http://180.149.162.200:27017,"JCOM Co., Ltd."
-https://54.65.20.212:10332,54.65.20.212,10332,https,403 Forbidden,,JP,Tokyo,https://54.65.20.212:10332,AMAZON-02
-https://13.231.167.132:16888,13.231.167.132,16888,https,403 Forbidden,,JP,Tokyo,https://13.231.167.132:16888,AMAZON-02
-https://132.145.125.153:16443,132.145.125.153,16443,https,403 Forbidden,,JP,Tokyo,https://132.145.125.153:16443,ORACLE-BMC-31898
 https://176.119.150.109:16057,176.119.150.109,16057,https,403 Forbidden,,JP,Tokyo,https://176.119.150.109:16057,Owl Limited
 https://157.65.121.179:16008,157.65.121.179,16008,https,403 Forbidden,,JP,Yokohama,https://157.65.121.179:16008,"NTT PC Communications, Inc."
-https://mcsk22bx.mamoruio.com:2443,52.199.13.112,2443,https,,mamoruio.com,JP,Tokyo,https://mcsk22bx.mamoruio.com:2443,AMAZON-02
-https://52.199.13.112:2443,52.199.13.112,2443,https,,,JP,Tokyo,https://52.199.13.112:2443,AMAZON-02
-https://15.168.12.177:10058,15.168.12.177,10058,https,403 Forbidden,,JP,Osaka,https://15.168.12.177:10058,AMAZON-02
-https://13.208.84.64:30003,13.208.84.64,30003,https,403 Forbidden,,JP,Osaka,https://13.208.84.64:30003,AMAZON-02
 172.233.66.235:40000,172.233.66.235,40000,http,,,JP,Osaka,http://172.233.66.235:40000,Akamai International B.V.
 172.105.193.251:40000,172.105.193.251,40000,http,,,JP,Tokyo,http://172.105.193.251:40000,Akamai Connected Cloud
 172.233.65.245:40000,172.233.65.245,40000,http,,,JP,Osaka,http://172.233.65.245:40000,Akamai International B.V.
@@ -679,11 +562,8 @@ https://124.40.98.39:12491,124.40.98.39,12491,https,403 Forbidden,,JP,Nagahama,h
 180.149.162.200:12474,180.149.162.200,12474,http,,,JP,Tokyo,http://180.149.162.200:12474,"JCOM Co., Ltd."
 45.32.51.176:7777,45.32.51.176,7777,http,,,JP,Tokyo,http://45.32.51.176:7777,AS-CHOOPA
 https://34.84.193.17:12452,34.84.193.17,12452,https,403 Forbidden,,JP,Tokyo,https://34.84.193.17:12452,GOOGLE-CLOUD-PLATFORM
-https://212.50.247.151:28443,212.50.247.151,28443,https,403 Forbidden,,JP,Osaka,https://212.50.247.151:28443,IT7NET
 https://121.84.29.106:12437,121.84.29.106,12437,https,403 Forbidden,,JP,Maizuru,https://121.84.29.106:12437,OPTAGE Inc.
 https://209.146.100.126:12435,209.146.100.126,12435,https,403 Forbidden,,JP,Tokyo,https://209.146.100.126:12435,COGENT-174
-https://15.168.120.131:9443,15.168.120.131,9443,https,403 Forbidden,,JP,Osaka,https://15.168.120.131:9443,AMAZON-02
-https://3.113.7.218:9443,3.113.7.218,9443,https,403 Forbidden,,JP,Tokyo,https://3.113.7.218:9443,AMAZON-02
 https://128.22.122.150:12383,128.22.122.150,12383,https,403 Forbidden,,JP,Kyoto,https://128.22.122.150:12383,OPTAGE Inc.
 https://183.177.197.176:12380,183.177.197.176,12380,https,403 Forbidden,,JP,Tokyo,https://183.177.197.176:12380,ARTERIA Networks Corporation
 172.104.117.252:10003,172.104.117.252,10003,http,,,JP,Tokyo,http://172.104.117.252:10003,Akamai Connected Cloud
@@ -692,7 +572,6 @@ https://183.177.197.176:12380,183.177.197.176,12380,https,403 Forbidden,,JP,Toky
 139.162.91.148:40000,139.162.91.148,40000,http,,,JP,Tokyo,http://139.162.91.148:40000,Akamai Connected Cloud
 https://121.84.29.106:10000,121.84.29.106,10000,https,403 Forbidden,,JP,Maizuru,https://121.84.29.106:10000,OPTAGE Inc.
 https://121.84.29.106:12365,121.84.29.106,12365,https,403 Forbidden,,JP,Maizuru,https://121.84.29.106:12365,OPTAGE Inc.
-https://3.113.25.197:10002,3.113.25.197,10002,https,403 Forbidden,,JP,Tokyo,https://3.113.25.197:10002,AMAZON-02
 172.104.117.51:10003,172.104.117.51,10003,http,,,JP,Tokyo,http://172.104.117.51:10003,Akamai Connected Cloud
 172.104.117.197:10003,172.104.117.197,10003,http,,,JP,Tokyo,http://172.104.117.197:10003,Akamai Connected Cloud
 172.104.117.26:10003,172.104.117.26,10003,http,,,JP,Tokyo,http://172.104.117.26:10003,Akamai Connected Cloud
@@ -718,10 +597,7 @@ https://103.122.178.80:12241,103.122.178.80,12241,https,403 Forbidden,,JP,Tokyo,
 https://172.104.115.193:12232,172.104.115.193,12232,https,403 Forbidden,,JP,Tokyo,https://172.104.115.193:12232,Akamai Connected Cloud
 https://60.80.156.163:30048,60.80.156.163,30048,https,403 Forbidden,,JP,Sapporo,https://60.80.156.163:30048,Softbank BB Corp.
 https://175.28.134.134:12216,175.28.134.134,12216,https,403 Forbidden,,JP,Nagasaki,https://175.28.134.134:12216,"QTnet,Inc."
-https://13.231.45.6:5432,13.231.45.6,5432,https,403 Forbidden,,JP,Tokyo,https://13.231.45.6:5432,AMAZON-02
-https://168.138.42.237:9443,168.138.42.237,9443,https,403 Forbidden,,JP,Osaka,https://168.138.42.237:9443,ORACLE-BMC-31898
 https://123.221.236.155:12152,123.221.236.155,12152,https,403 Forbidden,,JP,Tokyo,https://123.221.236.155:12152,NTT Communications Corporation
-https://131.186.36.178:12121,131.186.36.178,12121,https,403 Forbidden,,JP,Tokyo,https://131.186.36.178:12121,ORACLE-BMC-31898
 https://112.69.4.50:12109,112.69.4.50,12109,https,403 Forbidden,,JP,Wakayama,https://112.69.4.50:12109,OPTAGE Inc.
 172.233.90.169:40000,172.233.90.169,40000,http,,,JP,Osaka,http://172.233.90.169:40000,Akamai International B.V.
 139.162.72.101:40000,139.162.72.101,40000,http,,,JP,Tokyo,http://139.162.72.101:40000,Akamai Connected Cloud
@@ -746,7 +622,6 @@ https://175.28.134.134:10445,175.28.134.134,10445,https,403 Forbidden,,JP,Nagasa
 172.233.66.77:40000,172.233.66.77,40000,http,,,JP,Osaka,http://172.233.66.77:40000,Akamai International B.V.
 139.162.75.125:40000,139.162.75.125,40000,http,,,JP,Tokyo,http://139.162.75.125:40000,Akamai Connected Cloud
 172.233.81.95:40000,172.233.81.95,40000,http,,,JP,Osaka,http://172.233.81.95:40000,Akamai International B.V.
-https://35.72.1.229:10084,35.72.1.229,10084,https,403 Forbidden,,JP,Tokyo,https://35.72.1.229:10084,AMAZON-02
 172.104.117.136:10048,172.104.117.136,10048,http,,,JP,Tokyo,http://172.104.117.136:10048,Akamai Connected Cloud
 https://160.248.20.27:10046,160.248.20.27,10046,https,403 Forbidden,,JP,Chiba,https://160.248.20.27:10046,"NTT PC Communications, Inc."
 125.56.69.234:20202,125.56.69.234,20202,http,,,JP,Fukuoka,http://125.56.69.234:20202,"QTnet,Inc."
@@ -813,10 +688,7 @@ https://110.74.85.78:10021,110.74.85.78,10021,https,403 Forbidden,,JP,Naka,https
 172.104.116.179:10006,172.104.116.179,10006,http,,,JP,Tokyo,http://172.104.116.179:10006,Akamai Connected Cloud
 https://34.146.127.156:9993,34.146.127.156,9993,https,403 Forbidden,,JP,Tokyo,https://34.146.127.156:9993,GOOGLE-CLOUD-PLATFORM
 https://5.180.45.27:10443,5.180.45.27,10443,https,403 Forbidden,,JP,Tokyo,https://5.180.45.27:10443,ENZUINC
-https://13.114.38.20:10005,13.114.38.20,10005,https,403 Forbidden,,JP,Tokyo,https://13.114.38.20:10005,AMAZON-02
-https://52.68.164.64:11434,52.68.164.64,11434,https,403 Forbidden,,JP,Tokyo,https://52.68.164.64:11434,AMAZON-02
 https://149.54.144.69:35440,149.54.144.69,35440,https,403 Forbidden,,JP,Osaka,https://149.54.144.69:35440,"ITEC HANKYU HANSHIN CO.,LTD."
-https://47.245.40.89:5003,47.245.40.89,5003,https,403 Forbidden,,JP,Tokyo,https://47.245.40.89:5003,"Alibaba US Technology Co., Ltd."
 https://38.54.50.242:8878,38.54.50.242,8878,https,403 Forbidden,,JP,Tokyo,https://38.54.50.242:8878,Kaopu Cloud HK Limited
 https://43.163.196.112:8808,43.163.196.112,8808,https,403 Forbidden,,JP,Tokyo,https://43.163.196.112:8808,"Tencent Building, Kejizhongyi Avenue"
 https://45.149.156.121:20002,45.149.156.121,20002,https,403 Forbidden,,JP,Tokyo,https://45.149.156.121:20002,Owl Limited
@@ -824,7 +696,6 @@ https://156.227.234.70:444,156.227.234.70,444,https,403 Forbidden,,JP,Osaka,http
 https://195.245.229.10:8467,195.245.229.10,8467,https,403 Forbidden,,JP,Osaka,https://195.245.229.10:8467,
 https://59.168.154.27:27015,59.168.154.27,27015,https,403 Forbidden,,JP,Tokyo,https://59.168.154.27:27015,"JCOM Co., Ltd."
 https://88.214.21.77:8446,88.214.21.77,8446,https,403 Forbidden,,JP,Tokyo,https://88.214.21.77:8446,xTom GmbH
-https://132.145.124.251:8442,132.145.124.251,8442,https,403 Forbidden,,JP,Tokyo,https://132.145.124.251:8442,ORACLE-BMC-31898
 https://156.231.11.245:20202,156.231.11.245,20202,https,403 Forbidden,,JP,Tokyo,https://156.231.11.245:20202,MULTA-ASN1
 https://156.231.11.191:20202,156.231.11.191,20202,https,403 Forbidden,,JP,Tokyo,https://156.231.11.191:20202,MULTA-ASN1
 https://156.231.11.244:20202,156.231.11.244,20202,https,403 Forbidden,,JP,Tokyo,https://156.231.11.244:20202,MULTA-ASN1
@@ -862,7 +733,6 @@ https://156.231.11.213:20202,156.231.11.213,20202,https,403 Forbidden,,JP,Tokyo,
 https://156.231.11.172:20202,156.231.11.172,20202,https,403 Forbidden,,JP,Tokyo,https://156.231.11.172:20202,MULTA-ASN1
 https://156.231.11.189:20202,156.231.11.189,20202,https,403 Forbidden,,JP,Tokyo,https://156.231.11.189:20202,MULTA-ASN1
 https://156.231.11.165:20202,156.231.11.165,20202,https,403 Forbidden,,JP,Tokyo,https://156.231.11.165:20202,MULTA-ASN1
-https://54.199.55.186:12345,54.199.55.186,12345,https,403 Forbidden,,JP,Tokyo,https://54.199.55.186:12345,AMAZON-02
 https://156.231.11.20:20202,156.231.11.20,20202,https,403 Forbidden,,JP,Tokyo,https://156.231.11.20:20202,MULTA-ASN1
 https://156.231.11.40:20202,156.231.11.40,20202,https,403 Forbidden,,JP,Tokyo,https://156.231.11.40:20202,MULTA-ASN1
 https://156.231.11.49:20202,156.231.11.49,20202,https,403 Forbidden,,JP,Tokyo,https://156.231.11.49:20202,MULTA-ASN1
@@ -885,7 +755,6 @@ https://156.231.11.118:20202,156.231.11.118,20202,https,403 Forbidden,,JP,Tokyo,
 https://156.231.11.87:20202,156.231.11.87,20202,https,403 Forbidden,,JP,Tokyo,https://156.231.11.87:20202,MULTA-ASN1
 https://156.231.11.43:20202,156.231.11.43,20202,https,403 Forbidden,,JP,Tokyo,https://156.231.11.43:20202,MULTA-ASN1
 https://156.231.11.82:20202,156.231.11.82,20202,https,403 Forbidden,,JP,Tokyo,https://156.231.11.82:20202,MULTA-ASN1
-https://54.199.220.132:10001,54.199.220.132,10001,https,403 Forbidden,,JP,Tokyo,https://54.199.220.132:10001,AMAZON-02
 https://156.231.11.141:20202,156.231.11.141,20202,https,403 Forbidden,,JP,Tokyo,https://156.231.11.141:20202,MULTA-ASN1
 https://156.231.11.98:20202,156.231.11.98,20202,https,403 Forbidden,,JP,Tokyo,https://156.231.11.98:20202,MULTA-ASN1
 https://156.231.11.124:20202,156.231.11.124,20202,https,403 Forbidden,,JP,Tokyo,https://156.231.11.124:20202,MULTA-ASN1
@@ -925,18 +794,13 @@ https://156.231.11.41:20202,156.231.11.41,20202,https,403 Forbidden,,JP,Tokyo,ht
 https://156.231.11.114:20202,156.231.11.114,20202,https,403 Forbidden,,JP,Tokyo,https://156.231.11.114:20202,MULTA-ASN1
 https://156.231.11.133:20202,156.231.11.133,20202,https,403 Forbidden,,JP,Tokyo,https://156.231.11.133:20202,MULTA-ASN1
 208.91.107.231:6667,208.91.107.231,6667,http,,,JP,Tokyo,http://208.91.107.231:6667,TERASWITCH
-https://35.78.181.200:789,35.78.181.200,789,https,403 Forbidden,,JP,Tokyo,https://35.78.181.200:789,AMAZON-02
 https://52.185.188.46:54321,52.185.188.46,54321,https,403 Forbidden,,JP,Tokyo,https://52.185.188.46:54321,MICROSOFT-CORP-MSN-AS-BLOCK
 https://126.129.216.205:25000,126.129.216.205,25000,https,403 Forbidden,,JP,Fukushima,https://126.129.216.205:25000,Softbank BB Corp.
 https://5.180.45.15:6969,5.180.45.15,6969,https,403 Forbidden,,JP,Tokyo,https://5.180.45.15:6969,ENZUINC
-https://18.178.254.102:8889,18.178.254.102,8889,https,403 Forbidden,,JP,Tokyo,https://18.178.254.102:8889,AMAZON-02
 https://27.139.224.192:27017,27.139.224.192,27017,https,403 Forbidden,,JP,Tokyo,https://27.139.224.192:27017,"JCOM Co., Ltd."
 https://103.231.75.191:8082,103.231.75.191,8082,https,403 Forbidden,,JP,Tokyo,https://103.231.75.191:8082,ARTERIA Networks Corporation
 https://www.197545.xyz:7443,103.118.244.251,7443,https,,197545.xyz,JP,Tokyo,https://www.197545.xyz:7443,Cloudie Limited
 https://197545.xyz:7443,103.118.244.251,7443,https,,197545.xyz,JP,Tokyo,https://197545.xyz:7443,Cloudie Limited
-https://13.112.114.17:88,13.112.114.17,88,https,403 Forbidden,,JP,Tokyo,https://13.112.114.17:88,AMAZON-02
-https://23.106.130.6:666,23.106.130.6,666,https,403 Forbidden,,JP,Osaka,https://23.106.130.6:666,IT7NET
-https://8.209.222.201:8889,8.209.222.201,8889,https,403 Forbidden,,JP,Tokyo,https://8.209.222.201:8889,"Alibaba US Technology Co., Ltd."
 https://112.69.224.221:20005,112.69.224.221,20005,https,403 Forbidden,,JP,Nara,https://112.69.224.221:20005,OPTAGE Inc.
 https://34.146.217.19:8001,34.146.217.19,8001,https,403 Forbidden,,JP,Tokyo,https://34.146.217.19:8001,GOOGLE-CLOUD-PLATFORM
 https://34.85.103.19:8090,34.85.103.19,8090,https,403 Forbidden,,JP,Tokyo,https://34.85.103.19:8090,GOOGLE-CLOUD-PLATFORM
@@ -953,7 +817,6 @@ https://5.180.45.210:7070,5.180.45.210,7070,https,403 Forbidden,,JP,Tokyo,https:
 https://38.47.111.165:4086,38.47.111.165,4086,https,403 Forbidden,,JP,Osaka,https://38.47.111.165:4086,xTom
 https://58.156.141.158:29999,58.156.141.158,29999,https,403 Forbidden,,JP,Tokyo,https://58.156.141.158:29999,ARTERIA Networks Corporation
 https://20.222.137.217:12345,20.222.137.217,12345,https,403 Forbidden,,JP,Tokyo,https://20.222.137.217:12345,MICROSOFT-CORP-MSN-AS-BLOCK
-https://52.196.65.128:9998,52.196.65.128,9998,https,403 Forbidden,,JP,Tokyo,https://52.196.65.128:9998,AMAZON-02
 https://156.231.0.223:30005,156.231.0.223,30005,https,403 Forbidden,,JP,Tokyo,https://156.231.0.223:30005,MULTA-ASN1
 https://156.231.0.138:30005,156.231.0.138,30005,https,403 Forbidden,,JP,Tokyo,https://156.231.0.138:30005,MULTA-ASN1
 https://156.231.0.17:30005,156.231.0.17,30005,https,403 Forbidden,,JP,Tokyo,https://156.231.0.17:30005,MULTA-ASN1
@@ -976,25 +839,18 @@ https://45.117.102.251:7777,45.117.102.251,7777,https,403 Forbidden,,JP,Osaka,ht
 https://156.231.0.21:10001,156.231.0.21,10001,https,403 Forbidden,,JP,Tokyo,https://156.231.0.21:10001,MULTA-ASN1
 https://156.231.0.246:30006,156.231.0.246,30006,https,403 Forbidden,,JP,Tokyo,https://156.231.0.246:30006,MULTA-ASN1
 https://156.231.0.223:30006,156.231.0.223,30006,https,403 Forbidden,,JP,Tokyo,https://156.231.0.223:30006,MULTA-ASN1
-https://206.190.235.118:29999,206.190.235.118,29999,https,403 Forbidden,,JP,Osaka,https://206.190.235.118:29999,IT7NET
 154.83.31.208:88,154.83.31.208,88,http,,,JP,Tokyo,http://154.83.31.208:88,Dream Cloud Innovation Limited
 154.83.31.206:88,154.83.31.206,88,http,,,JP,Tokyo,http://154.83.31.206:88,Dream Cloud Innovation Limited
 154.83.31.205:88,154.83.31.205,88,http,,,JP,Tokyo,http://154.83.31.205:88,Dream Cloud Innovation Limited
 https://126.37.88.62:10005,126.37.88.62,10005,https,403 Forbidden,,JP,Tokyo,https://126.37.88.62:10005,Softbank BB Corp.
 43.153.185.204:9443,43.153.185.204,9443,http,,,JP,Tokyo,http://43.153.185.204:9443,"Tencent Building, Kejizhongyi Avenue"
 https://108.160.135.15:2000,108.160.135.15,2000,https,403 Forbidden,,JP,Tokyo,https://108.160.135.15:2000,AS-CHOOPA
-https://18.181.171.241:1433,18.181.171.241,1433,https,403 Forbidden,,JP,Tokyo,https://18.181.171.241:1433,AMAZON-02
-https://178.157.63.249:54321,178.157.63.249,54321,https,403 Forbidden,,JP,Osaka,https://178.157.63.249:54321,IT7NET
 https://45.76.102.23:2000,45.76.102.23,2000,https,403 Forbidden,,JP,Tokyo,https://45.76.102.23:2000,AS-CHOOPA
 https://156.231.0.216:30006,156.231.0.216,30006,https,403 Forbidden,,JP,Tokyo,https://156.231.0.216:30006,MULTA-ASN1
-https://35.75.164.96:4433,35.75.164.96,4433,https,403 Forbidden,,JP,Tokyo,https://35.75.164.96:4433,AMAZON-02
 https://156.231.0.192:30005,156.231.0.192,30005,https,403 Forbidden,,JP,Tokyo,https://156.231.0.192:30005,MULTA-ASN1
 https://58.158.250.219:14402,58.158.250.219,14402,https,403 Forbidden,,JP,Tokyo,https://58.158.250.219:14402,ARTERIA Networks Corporation
-168.138.213.1:50014,168.138.213.1,50014,http,,,JP,Tokyo,http://168.138.213.1:50014,ORACLE-BMC-31898
-https://138.3.219.172:9999,138.3.219.172,9999,https,403 Forbidden,,JP,Tokyo,https://138.3.219.172:9999,ORACLE-BMC-31898
 https://156.231.0.105:10001,156.231.0.105,10001,https,403 Forbidden,,JP,Tokyo,https://156.231.0.105:10001,MULTA-ASN1
 https://126.115.123.232:10035,126.115.123.232,10035,https,403 Forbidden,,JP,Sapporo,https://126.115.123.232:10035,Softbank BB Corp.
-https://54.150.147.154:14000,54.150.147.154,14000,https,403 Forbidden,,JP,Tokyo,https://54.150.147.154:14000,AMAZON-02
 https://180.63.19.125:33389,180.63.19.125,33389,https,403 Forbidden,,JP,Gifu,https://180.63.19.125:33389,NTT Communications Corporation
 https://45.143.234.98:45786,45.143.234.98,45786,https,403 Forbidden,,JP,Tokyo,https://45.143.234.98:45786,Owl Limited
 https://156.231.0.21:10003,156.231.0.21,10003,https,403 Forbidden,,JP,Tokyo,https://156.231.0.21:10003,MULTA-ASN1
@@ -1008,9 +864,6 @@ https://156.231.0.223:10003,156.231.0.223,10003,https,403 Forbidden,,JP,Tokyo,ht
 https://156.231.0.138:10003,156.231.0.138,10003,https,403 Forbidden,,JP,Tokyo,https://156.231.0.138:10003,MULTA-ASN1
 https://156.231.0.95:10003,156.231.0.95,10003,https,403 Forbidden,,JP,Tokyo,https://156.231.0.95:10003,MULTA-ASN1
 https://38.47.110.97:44334,38.47.110.97,44334,https,403 Forbidden,,JP,Osaka,https://38.47.110.97:44334,xTom
-https://178.157.60.94:16992,178.157.60.94,16992,https,403 Forbidden,,JP,Osaka,https://178.157.60.94:16992,IT7NET
-https://54.150.147.154:20000,54.150.147.154,20000,https,403 Forbidden,,JP,Tokyo,https://54.150.147.154:20000,AMAZON-02
-https://54.238.230.142:10332,54.238.230.142,10332,https,403 Forbidden,,JP,Tokyo,https://54.238.230.142:10332,AMAZON-02
 https://218.41.111.157:35004,218.41.111.157,35004,https,403 Forbidden,,JP,Tokyo,https://218.41.111.157:35004,Sony Network Communications Inc.
 https://220.148.148.82:20151,220.148.148.82,20151,https,403 Forbidden,,JP,Saitama,https://220.148.148.82:20151,TOKAI Communications Corporation
 https://88.214.20.226:20880,88.214.20.226,20880,https,403 Forbidden,,JP,Tokyo,https://88.214.20.226:20880,xTom GmbH
@@ -1026,19 +879,16 @@ https://114.162.24.128:38241,114.162.24.128,38241,https,403 Forbidden,,JP,Saitam
 https://167.88.184.254:1010,167.88.184.254,1010,https,403 Forbidden,,JP,Osaka,https://167.88.184.254:1010,xTom
 https://125.199.184.19:20000,125.199.184.19,20000,https,403 Forbidden,,JP,Tokamachi,https://125.199.184.19:20000,BIGLOBE Inc.
 https://124.44.61.35:10003,124.44.61.35,10003,https,403 Forbidden,,JP,Mito,https://124.44.61.35:10003,NTT-ME Corporation
-https://18.177.137.160:2121,18.177.137.160,2121,https,403 Forbidden,,JP,Tokyo,https://18.177.137.160:2121,AMAZON-02
 https://194.223.239.101:32677,194.223.239.101,32677,https,403 Forbidden,,JP,Nara,https://194.223.239.101:32677,"Kintetsu Cable Network Co., Ltd."
 36.15.33.140:20880,36.15.33.140,20880,http,,,JP,Tokyo,http://36.15.33.140:20880,KDDI CORPORATION
 https://156.231.0.246:30005,156.231.0.246,30005,https,403 Forbidden,,JP,Tokyo,https://156.231.0.246:30005,MULTA-ASN1
 https://112.68.74.224:10911,112.68.74.224,10911,https,403 Forbidden,,JP,Amagasaki,https://112.68.74.224:10911,OPTAGE Inc.
 https://114.191.85.208:30005,114.191.85.208,30005,https,403 Forbidden,,JP,Gifu,https://114.191.85.208:30005,NTT Communications Corporation
 https://180.47.227.252:10443,180.47.227.252,10443,https,403 Forbidden,,JP,Tokyo,https://180.47.227.252:10443,NTT Communications Corporation
-https://54.150.147.154:18000,54.150.147.154,18000,https,403 Forbidden,,JP,Tokyo,https://54.150.147.154:18000,AMAZON-02
 https://103.179.45.80:22103,103.179.45.80,22103,https,403 Forbidden,,JP,Tokyo,https://103.179.45.80:22103,WebHorizon Internet Services
 139.162.69.213:10001,139.162.69.213,10001,http,,,JP,Tokyo,http://139.162.69.213:10001,Akamai Connected Cloud
 https://176.97.73.99:8420,176.97.73.99,8420,https,403 Forbidden,,JP,Marunouchi,https://176.97.73.99:8420,M247 Europe SRL
 https://58.94.61.85:10088,58.94.61.85,10088,https,403 Forbidden,,JP,Kyoto,https://58.94.61.85:10088,NTT Communications Corporation
-https://45.78.48.106:22222,45.78.48.106,22222,https,403 Forbidden,,JP,Osaka,https://45.78.48.106:22222,IT7NET
 139.162.109.133:10001,139.162.109.133,10001,http,,,JP,Tokyo,http://139.162.109.133:10001,Akamai Connected Cloud
 139.162.96.131:10001,139.162.96.131,10001,http,,,JP,Tokyo,http://139.162.96.131:10001,Akamai Connected Cloud
 https://118.243.47.234:11965,118.243.47.234,11965,https,403 Forbidden,,JP,Kanazawa,https://118.243.47.234:11965,Asahi Net
@@ -1046,7 +896,6 @@ https://118.18.58.243:33890,118.18.58.243,33890,https,403 Forbidden,,JP,Osaka,ht
 https://156.231.0.108:10001,156.231.0.108,10001,https,403 Forbidden,,JP,Tokyo,https://156.231.0.108:10001,MULTA-ASN1
 https://43.130.237.209:6666,43.130.237.209,6666,https,403 Forbidden,,JP,Tokyo,https://43.130.237.209:6666,"Tencent Building, Kejizhongyi Avenue"
 139.162.89.245:10134,139.162.89.245,10134,http,,,JP,Tokyo,http://139.162.89.245:10134,Akamai Connected Cloud
-https://3.112.196.228:8888,3.112.196.228,8888,https,403 Forbidden,,JP,Tokyo,https://3.112.196.228:8888,AMAZON-02
 https://172.93.221.83:7443,172.93.221.83,7443,https,,,JP,Tokyo,https://172.93.221.83:7443,Owl Limited
 https://153.224.58.123:11211,153.224.58.123,11211,https,403 Forbidden,,JP,Sukagawa,https://153.224.58.123:11211,NTT Communications Corporation
 https://180.149.230.141:32303,180.149.230.141,32303,https,403 Forbidden,,JP,Tokyo,https://180.149.230.141:32303,Host Universal Pty Ltd
@@ -1054,7 +903,6 @@ https://180.149.230.141:32303,180.149.230.141,32303,https,403 Forbidden,,JP,Toky
 139.162.122.31:10001,139.162.122.31,10001,http,,,JP,Tokyo,http://139.162.122.31:10001,Akamai Connected Cloud
 https://222.147.22.7:14101,222.147.22.7,14101,https,403 Forbidden,,JP,Tokyo,https://222.147.22.7:14101,NTT Communications Corporation
 https://45.77.12.244:20000,45.77.12.244,20000,https,403 Forbidden,,JP,Tokyo,https://45.77.12.244:20000,AS-CHOOPA
-https://43.207.68.136:10010,43.207.68.136,10010,https,403 Forbidden,,JP,Tokyo,https://43.207.68.136:10010,AMAZON-02
 https://104.238.150.80:20000,104.238.150.80,20000,https,403 Forbidden,,JP,Tokyo,https://104.238.150.80:20000,AS-CHOOPA
 https://156.231.0.229:50111,156.231.0.229,50111,https,403 Forbidden,,JP,Tokyo,https://156.231.0.229:50111,MULTA-ASN1
 https://156.231.0.216:50111,156.231.0.216,50111,https,403 Forbidden,,JP,Tokyo,https://156.231.0.216:50111,MULTA-ASN1
@@ -1067,37 +915,29 @@ https://156.231.0.228:50111,156.231.0.228,50111,https,403 Forbidden,,JP,Tokyo,ht
 https://156.231.0.246:50111,156.231.0.246,50111,https,403 Forbidden,,JP,Tokyo,https://156.231.0.246:50111,MULTA-ASN1
 https://38.47.97.89:9196,38.47.97.89,9196,https,403 Forbidden,,JP,Osaka,https://38.47.97.89:9196,xTom
 139.162.78.122:10096,139.162.78.122,10096,http,,,JP,Tokyo,http://139.162.78.122:10096,Akamai Connected Cloud
-https://35.72.2.82:8888,35.72.2.82,8888,https,403 Forbidden,,JP,Tokyo,https://35.72.2.82:8888,AMAZON-02
 https://85.113.70.161:8417,85.113.70.161,8417,https,403 Forbidden,,JP,Tokyo,https://85.113.70.161:8417,Owl Limited
 139.162.78.122:10001,139.162.78.122,10001,http,,,JP,Tokyo,http://139.162.78.122:10001,Akamai Connected Cloud
 https://118.18.58.243:10443,118.18.58.243,10443,https,403 Forbidden,,JP,Osaka,https://118.18.58.243:10443,NTT Communications Corporation
 https://38.47.111.156:8839,38.47.111.156,8839,https,403 Forbidden,,JP,Osaka,https://38.47.111.156:8839,xTom
 https://119.229.202.55:10443,119.229.202.55,10443,https,403 Forbidden,,JP,Osaka,https://119.229.202.55:10443,OPTAGE Inc.
 139.162.89.245:10001,139.162.89.245,10001,http,,,JP,Tokyo,http://139.162.89.245:10001,Akamai Connected Cloud
-https://158.101.154.245:47001,158.101.154.245,47001,https,403 Forbidden,,JP,Tokyo,https://158.101.154.245:47001,ORACLE-BMC-31898
 153.195.154.154:10892,153.195.154.154,10892,http,,,JP,Osaka,http://153.195.154.154:10892,NTT Communications Corporation
 https://147.78.244.154:15000,147.78.244.154,15000,https,403 Forbidden,,JP,Tokyo,https://147.78.244.154:15000,Owl Limited
-https://43.207.171.81:15000,43.207.171.81,15000,https,403 Forbidden,,JP,Tokyo,https://43.207.171.81:15000,AMAZON-02
 https://175.177.120.154:30121,175.177.120.154,30121,https,403 Forbidden,,JP,Yokohama,https://175.177.120.154:30121,its communications Inc.
 https://64.176.49.86:8189,64.176.49.86,8189,https,403 Forbidden,,JP,Osaka,https://64.176.49.86:8189,AS-CHOOPA
 https://175.28.233.52:11371,175.28.233.52,11371,https,403 Forbidden,,JP,Fukuoka,https://175.28.233.52:11371,"QTnet,Inc."
 https://119.230.141.207:27017,119.230.141.207,27017,https,403 Forbidden,,JP,Nagahama,https://119.230.141.207:27017,OPTAGE Inc.
 https://121.80.181.40:35101,121.80.181.40,35101,https,403 Forbidden,,JP,Kyoto,https://121.80.181.40:35101,OPTAGE Inc.
-https://13.230.225.89:22403,13.230.225.89,22403,https,403 Forbidden,,JP,Tokyo,https://13.230.225.89:22403,AMAZON-02
 https://38.47.111.34:30001,38.47.111.34,30001,https,403 Forbidden,,JP,Osaka,https://38.47.111.34:30001,xTom
 https://119.228.28.120:11680,119.228.28.120,11680,https,403 Forbidden,,JP,Himeji,https://119.228.28.120:11680,OPTAGE Inc.
 https://59.191.137.228:32414,59.191.137.228,32414,https,403 Forbidden,,JP,Kofu,https://59.191.137.228:32414,"Nihon Network Service Co, .Ltd."
-https://158.101.142.236:9443,158.101.142.236,9443,https,403 Forbidden,,JP,Tokyo,https://158.101.142.236:9443,ORACLE-BMC-31898
 https://121.87.125.64:16009,121.87.125.64,16009,https,403 Forbidden,,JP,Amagasaki,https://121.87.125.64:16009,OPTAGE Inc.
 https://180.94.193.118:32771,180.94.193.118,32771,https,403 Forbidden,,JP,Komatsu,https://180.94.193.118:32771,"Ishikawa Computer Center Co.,LTD."
-https://13.114.142.214:9527,13.114.142.214,9527,https,403 Forbidden,,JP,Tokyo,https://13.114.142.214:9527,AMAZON-02
-https://43.207.171.81:20000,43.207.171.81,20000,https,403 Forbidden,,JP,Tokyo,https://43.207.171.81:20000,AMAZON-02
 https://110.74.89.254:16065,110.74.89.254,16065,https,403 Forbidden,,JP,Naka,https://110.74.89.254:16065,SHONAN CABLE NETWORK
 https://110.74.89.254:10250,110.74.89.254,10250,https,403 Forbidden,,JP,Naka,https://110.74.89.254:10250,SHONAN CABLE NETWORK
 https://150.147.149.33:10000,150.147.149.33,10000,https,403 Forbidden,,JP,Numazu,https://150.147.149.33:10000,Sony Network Communications Inc.
 https://125.204.209.89:11965,125.204.209.89,11965,https,403 Forbidden,,JP,Gifu,https://125.204.209.89:11965,NTT Communications Corporation
 https://45.76.203.184:10018,45.76.203.184,10018,https,403 Forbidden,,JP,Tokyo,https://45.76.203.184:10018,AS-CHOOPA
-https://43.207.171.81:16000,43.207.171.81,16000,https,403 Forbidden,,JP,Tokyo,https://43.207.171.81:16000,AMAZON-02
 https://112.68.44.168:39001,112.68.44.168,39001,https,403 Forbidden,,JP,Osaka,https://112.68.44.168:39001,OPTAGE Inc.
 139.162.87.134:10005,139.162.87.134,10005,http,,,JP,Tokyo,http://139.162.87.134:10005,Akamai Connected Cloud
 https://112.68.44.168:19150,112.68.44.168,19150,https,403 Forbidden,,JP,Osaka,https://112.68.44.168:19150,OPTAGE Inc.
@@ -1111,7 +951,6 @@ https://193.32.149.133:10001,193.32.149.133,10001,https,403 Forbidden,,JP,Tokyo,
 https://193.32.149.133:10002,193.32.149.133,10002,https,403 Forbidden,,JP,Tokyo,https://193.32.149.133:10002,Owl Limited
 https://198.13.47.28:22222,198.13.47.28,22222,https,403 Forbidden,,JP,Tokyo,https://198.13.47.28:22222,AS-CHOOPA
 https://14.193.58.35:15000,14.193.58.35,15000,https,403 Forbidden,,JP,Tokyo,https://14.193.58.35:15000,"JCOM Co., Ltd."
-150.230.193.41:38880,150.230.193.41,38880,http,,,JP,Tokyo,http://150.230.193.41:38880,ORACLE-BMC-31898
 https://180.0.32.104:17082,180.0.32.104,17082,https,403 Forbidden,,JP,Saitama,https://180.0.32.104:17082,NTT Communications Corporation
 https://20.194.223.137:60000,20.194.223.137,60000,https,403 Forbidden,,JP,Tokyo,https://20.194.223.137:60000,MICROSOFT-CORP-MSN-AS-BLOCK
 https://180.0.32.104:16052,180.0.32.104,16052,https,403 Forbidden,,JP,Saitama,https://180.0.32.104:16052,NTT Communications Corporation
@@ -1120,7 +959,6 @@ https://180.0.32.104:21239,180.0.32.104,21239,https,403 Forbidden,,JP,Saitama,ht
 https://14.193.58.35:21303,14.193.58.35,21303,https,403 Forbidden,,JP,Tokyo,https://14.193.58.35:21303,"JCOM Co., Ltd."
 https://118.4.33.139:16057,118.4.33.139,16057,https,403 Forbidden,,JP,Amagasaki,https://118.4.33.139:16057,NTT Communications Corporation
 https://118.2.41.104:16009,118.2.41.104,16009,https,403 Forbidden,,JP,Hiroshima,https://118.2.41.104:16009,NTT Communications Corporation
-https://185.212.58.166:8000,185.212.58.166,8000,https,403 Forbidden,,JP,Osaka,https://185.212.58.166:8000,IT7NET
 https://153.221.30.139:21296,153.221.30.139,21296,https,403 Forbidden,,JP,Mito,https://153.221.30.139:21296,NTT Communications Corporation
 139.162.66.101:10001,139.162.66.101,10001,http,,,JP,Tokyo,http://139.162.66.101:10001,Akamai Connected Cloud
 139.162.87.134:10001,139.162.87.134,10001,http,,,JP,Tokyo,http://139.162.87.134:10001,Akamai Connected Cloud
@@ -1134,19 +972,16 @@ https://103.179.45.80:22107,103.179.45.80,22107,https,403 Forbidden,,JP,Tokyo,ht
 https://58.70.10.92:21270,58.70.10.92,21270,https,403 Forbidden,,JP,Kyoto,https://58.70.10.92:21270,OPTAGE Inc.
 https://153.135.212.79:34567,153.135.212.79,34567,https,403 Forbidden,,JP,Katsuura,https://153.135.212.79:34567,NTT Communications Corporation
 139.162.69.213:10030,139.162.69.213,10030,http,,,JP,Tokyo,http://139.162.69.213:10030,Akamai Connected Cloud
-13.231.222.149:12345,13.231.222.149,12345,http,,,JP,Tokyo,http://13.231.222.149:12345,AMAZON-02
 https://153.201.199.139:37215,153.201.199.139,37215,https,403 Forbidden,,JP,Tokyo,https://153.201.199.139:37215,NTT Communications Corporation
 139.162.122.31:10005,139.162.122.31,10005,http,,,JP,Tokyo,http://139.162.122.31:10005,Akamai Connected Cloud
 https://153.177.221.99:10134,153.177.221.99,10134,https,403 Forbidden,,JP,Tokyo,https://153.177.221.99:10134,NTT Communications Corporation
 https://124.159.202.137:12231,124.159.202.137,12231,https,403 Forbidden,,JP,Fukuoka,https://124.159.202.137:12231,"QTnet,Inc."
-https://43.207.171.81:14000,43.207.171.81,14000,https,403 Forbidden,,JP,Tokyo,https://43.207.171.81:14000,AMAZON-02
 https://58.3.104.103:12543,58.3.104.103,12543,https,403 Forbidden,,JP,Kagoshima,https://58.3.104.103:12543,"QTnet,Inc."
 59.190.114.81:12407,59.190.114.81,12407,http,,,JP,Kyoto,http://59.190.114.81:12407,OPTAGE Inc.
 https://180.0.87.65:12435,180.0.87.65,12435,https,403 Forbidden,,JP,Tokyo,https://180.0.87.65:12435,NTT Communications Corporation
 https://45.143.234.98:12511,45.143.234.98,12511,https,403 Forbidden,,JP,Tokyo,https://45.143.234.98:12511,Owl Limited
 139.162.78.172:10001,139.162.78.172,10001,http,,,JP,Tokyo,http://139.162.78.172:10001,Akamai Connected Cloud
 https://61.195.129.225:12524,61.195.129.225,12524,https,403 Forbidden,,JP,Nabari,https://61.195.129.225:12524,"IGAUENO CABLE TELEVISION CO.,LTD"
-https://155.248.181.132:8444,155.248.181.132,8444,https,403 Forbidden,,JP,Tokyo,https://155.248.181.132:8444,ORACLE-BMC-31898
 https://221.187.2.117:12448,221.187.2.117,12448,https,403 Forbidden,,JP,Chofu,https://221.187.2.117:12448,NTT Communications Corporation
 https://58.3.104.103:10244,58.3.104.103,10244,https,403 Forbidden,,JP,Kagoshima,https://58.3.104.103:10244,"QTnet,Inc."
 https://61.195.129.225:12414,61.195.129.225,12414,https,403 Forbidden,,JP,Nabari,https://61.195.129.225:12414,"IGAUENO CABLE TELEVISION CO.,LTD"
@@ -1159,8 +994,6 @@ https://14.193.58.35:12386,14.193.58.35,12386,https,403 Forbidden,,JP,Tokyo,http
 139.162.66.101:10134,139.162.66.101,10134,http,,,JP,Tokyo,http://139.162.66.101:10134,Akamai Connected Cloud
 https://114.186.26.140:37215,114.186.26.140,37215,https,403 Forbidden,,JP,Fukushima,https://114.186.26.140:37215,NTT Communications Corporation
 https://61.195.129.225:12430,61.195.129.225,12430,https,403 Forbidden,,JP,Nabari,https://61.195.129.225:12430,"IGAUENO CABLE TELEVISION CO.,LTD"
-45.78.59.62:8005,45.78.59.62,8005,http,,,JP,Osaka,http://45.78.59.62:8005,IT7NET
-https://212.50.244.241:54321,212.50.244.241,54321,https,403 Forbidden,,JP,Osaka,https://212.50.244.241:54321,IT7NET
 139.162.122.31:10134,139.162.122.31,10134,http,,,JP,Tokyo,http://139.162.122.31:10134,Akamai Connected Cloud
 139.162.109.133:10088,139.162.109.133,10088,http,,,JP,Tokyo,http://139.162.109.133:10088,Akamai Connected Cloud
 https://147.78.243.64:8085,147.78.243.64,8085,https,403 Forbidden,,JP,Tokyo,https://147.78.243.64:8085,Owl Limited
@@ -1169,21 +1002,14 @@ https://149.62.44.50:10000,149.62.44.50,10000,https,403 Forbidden,,JP,Tokyo,http
 https://121.86.121.197:10002,121.86.121.197,10002,https,403 Forbidden,,JP,Osaka,https://121.86.121.197:10002,OPTAGE Inc.
 https://103.179.45.80:12219,103.179.45.80,12219,https,403 Forbidden,,JP,Tokyo,https://103.179.45.80:12219,WebHorizon Internet Services
 https://180.4.242.193:12436,180.4.242.193,12436,https,403 Forbidden,,JP,Amagasaki,https://180.4.242.193:12436,NTT Communications Corporation
-https://54.168.209.84:40000,54.168.209.84,40000,https,403 Forbidden,,JP,Tokyo,https://54.168.209.84:40000,AMAZON-02
 https://58.70.10.92:12422,58.70.10.92,12422,https,403 Forbidden,,JP,Kyoto,https://58.70.10.92:12422,OPTAGE Inc.
-https://18.183.139.184:40000,18.183.139.184,40000,https,403 Forbidden,,JP,Tokyo,https://18.183.139.184:40000,AMAZON-02
 58.3.126.133:12230,58.3.126.133,12230,http,,,JP,Fukuoka,http://58.3.126.133:12230,"QTnet,Inc."
-https://35.78.100.69:1433,35.78.100.69,1433,https,403 Forbidden,,JP,Tokyo,https://35.78.100.69:1433,AMAZON-02
 https://153.129.7.23:12307,153.129.7.23,12307,https,403 Forbidden,,JP,Utsunomiya,https://153.129.7.23:12307,NTT Communications Corporation
 139.162.87.134:10096,139.162.87.134,10096,http,,,JP,Tokyo,http://139.162.87.134:10096,Akamai Connected Cloud
-https://23.106.142.245:46324,23.106.142.245,46324,https,403 Forbidden,,JP,Osaka,https://23.106.142.245:46324,IT7NET
-https://13.114.101.107:40000,13.114.101.107,40000,https,403 Forbidden,,JP,Tokyo,https://13.114.101.107:40000,AMAZON-02
-https://13.114.100.158:40000,13.114.100.158,40000,https,403 Forbidden,,JP,Tokyo,https://13.114.100.158:40000,AMAZON-02
 https://114.170.10.228:12123,114.170.10.228,12123,https,403 Forbidden,,JP,Amagasaki,https://114.170.10.228:12123,NTT Communications Corporation
 https://125.31.103.4:18004,125.31.103.4,18004,https,403 Forbidden,,JP,Nagasaki,https://125.31.103.4:18004,"QTnet,Inc."
 https://58.70.10.92:13666,58.70.10.92,13666,https,403 Forbidden,,JP,Kyoto,https://58.70.10.92:13666,OPTAGE Inc.
 https://220.148.148.82:12369,220.148.148.82,12369,https,403 Forbidden,,JP,Saitama,https://220.148.148.82:12369,TOKAI Communications Corporation
-https://47.74.5.27:46000,47.74.5.27,46000,https,403 Forbidden,,JP,Tokyo,https://47.74.5.27:46000,"Alibaba US Technology Co., Ltd."
 secure.mcv.kr:10048,139.162.66.101,10048,http,,mcv.kr,JP,Tokyo,http://secure.mcv.kr:10048,Akamai Connected Cloud
 114.170.10.228:16404,114.170.10.228,16404,http,,,JP,Amagasaki,http://114.170.10.228:16404,NTT Communications Corporation
 https://124.40.84.223:12578,124.40.84.223,12578,https,403 Forbidden,,JP,Otsu,https://124.40.84.223:12578,"ZTV CO.,LTD"
@@ -1200,32 +1026,8 @@ https://14.193.58.35:10048,14.193.58.35,10048,https,403 Forbidden,,JP,Tokyo,http
 139.162.89.245:10048,139.162.89.245,10048,http,,,JP,Tokyo,http://139.162.89.245:10048,Akamai Connected Cloud
 https://27.113.229.218:18111,27.113.229.218,18111,https,403 Forbidden,,JP,Chita,https://27.113.229.218:18111,Community Network Center Inc.
 https://213.232.114.19:8446,213.232.114.19,8446,https,403 Forbidden,,JP,Tokyo,https://213.232.114.19:8446,xTom GmbH
-https://18.183.224.204:40000,18.183.224.204,40000,https,403 Forbidden,,JP,Tokyo,https://18.183.224.204:40000,AMAZON-02
-https://52.195.229.101:40000,52.195.229.101,40000,https,403 Forbidden,,JP,Tokyo,https://52.195.229.101:40000,AMAZON-02
-https://57.181.31.5:40000,57.181.31.5,40000,https,403 Forbidden,,JP,Tokyo,https://57.181.31.5:40000,AMAZON-02
-https://57.180.24.19:1433,57.180.24.19,1433,https,403 Forbidden,,JP,Tokyo,https://57.180.24.19:1433,AMAZON-02
 https://45.66.129.168:12222,45.66.129.168,12222,https,403 Forbidden,,JP,Tokyo,https://45.66.129.168:12222,Owl Limited
 https://182.165.172.101:12222,182.165.172.101,12222,https,403 Forbidden,,JP,Osaka,https://182.165.172.101:12222,OPTAGE Inc.
-https://mcsk22bx.mamoruio.com:1443,52.199.13.112,1443,https,,mamoruio.com,JP,Tokyo,https://mcsk22bx.mamoruio.com:1443,AMAZON-02
-https://52.199.13.112:1443,52.199.13.112,1443,https,,,JP,Tokyo,https://52.199.13.112:1443,AMAZON-02
 https://27.113.229.218:12509,27.113.229.218,12509,https,403 Forbidden,,JP,Chita,https://27.113.229.218:12509,Community Network Center Inc.
 https://49.156.222.209:20100,49.156.222.209,20100,https,403 Forbidden,,JP,Fukuoka,https://49.156.222.209:20100,"QTnet,Inc."
 https://114.170.10.228:23184,114.170.10.228,23184,https,403 Forbidden,,JP,Amagasaki,https://114.170.10.228:23184,NTT Communications Corporation
-https://45.14.64.92:8911,45.14.64.92,8911,https,403 Forbidden,,JP,Tokyo,https://45.14.64.92:8911,Owl Limited
-139.162.69.213:10005,139.162.69.213,10005,http,,,JP,Tokyo,http://139.162.69.213:10005,Akamai Connected Cloud
-139.162.66.101:10047,139.162.66.101,10047,http,,,JP,Tokyo,http://139.162.66.101:10047,Akamai Connected Cloud
-139.162.122.31:10047,139.162.122.31,10047,http,,,JP,Tokyo,http://139.162.122.31:10047,Akamai Connected Cloud
-139.162.87.134:10047,139.162.87.134,10047,http,,,JP,Tokyo,http://139.162.87.134:10047,Akamai Connected Cloud
-139.162.89.245:10047,139.162.89.245,10047,http,,,JP,Tokyo,http://139.162.89.245:10047,Akamai Connected Cloud
-139.162.78.122:10047,139.162.78.122,10047,http,,,JP,Tokyo,http://139.162.78.122:10047,Akamai Connected Cloud
-139.162.79.202:10047,139.162.79.202,10047,http,,,JP,Tokyo,http://139.162.79.202:10047,Akamai Connected Cloud
-139.162.109.133:10047,139.162.109.133,10047,http,,,JP,Tokyo,http://139.162.109.133:10047,Akamai Connected Cloud
-139.162.69.213:10047,139.162.69.213,10047,http,,,JP,Tokyo,http://139.162.69.213:10047,Akamai Connected Cloud
-139.162.78.172:10047,139.162.78.172,10047,http,,,JP,Tokyo,http://139.162.78.172:10047,Akamai Connected Cloud
-139.162.96.131:10047,139.162.96.131,10047,http,,,JP,Tokyo,http://139.162.96.131:10047,Akamai Connected Cloud
-https://114.170.10.228:20440,114.170.10.228,20440,https,403 Forbidden,,JP,Amagasaki,https://114.170.10.228:20440,NTT Communications Corporation
-mailtest.iges.jp:10001,139.162.66.101,10001,http,,iges.jp,JP,Tokyo,http://mailtest.iges.jp:10001,Akamai Connected Cloud
-hydrogen.iges.jp:10001,139.162.66.101,10001,http,,iges.jp,JP,Tokyo,http://hydrogen.iges.jp:10001,Akamai Connected Cloud
-https://195.245.241.30:10000,195.245.241.30,10000,https,403 Forbidden,,JP,Tokyo,https://195.245.241.30:10000,Owl Limited
-https://118.15.162.34:28017,118.15.162.34,28017,https,403 Forbidden,,JP,Chino,https://118.15.162.34:28017,NTT Communications Corporation
-https://195.245.241.30:10001,195.245.241.30,10001,https,403 Forbidden,,JP,Tokyo,https://195.245.241.30:10001,Owl Limited
