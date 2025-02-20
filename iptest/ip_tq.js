@@ -152,16 +152,14 @@ async function getDatacenterMap() {
 }
 
 async function extractData() {
-  console.log("开始提取政治实体和 ISO 代码数据...");
-
   try {
     // 读取 HTML 文件
-    const response = await fetch("https://www.aqwu.net/wp/?p=1231");
+    const response = await fetch("https://www.ssl.com/zh-CN/%E5%9B%BD%E5%AE%B6%E4%BB%A3%E7%A0%81/");
     const htmlContent = await response.text();
 
     console.log("HTML 内容获取成功，开始解析...");
 
-    // 解析 HTML
+    // 解析 HTML（浏览器环境）
     const dom = new JSDOM(htmlContent);
     const document = dom.window.document;
 
@@ -172,40 +170,39 @@ async function extractData() {
       return;
     }
 
-    const rows = Array.from(table.querySelectorAll("tr"));
-    // 删除表格最后一行
-    if (rows.length > 1) {
-      rows.pop();
-    }
+    // 获取表头
+    const headers = Array.from(table.querySelectorAll("tr th")).map(th => th.textContent.trim());
 
-    // 获取表头列索引
-    const headers = Array.from(rows[0].querySelectorAll("th")).map((th) =>
-      th.textContent.trim(),
-    );
-    const politicalIndex = headers.indexOf("政治实体");
-    const isoIndex = headers.indexOf("ISO 3166-1二位字母代码");
+    // 找到目标列索引
+    const nameIndex = headers.indexOf("姓名");
+    const isoIndex = headers.indexOf("ISO代码 CSR");
 
-    if (politicalIndex === -1 || isoIndex === -1) {
-      console.error("未找到正确的列索引");
+    if (nameIndex === -1 || isoIndex === -1) {
+      console.error("未找到指定的表头");
       return;
     }
 
-    console.log("表头列索引解析成功，开始提取数据...");
+    // 选择所有行（跳过表头）
+    const rows = table.querySelectorAll("tr");
 
-    // 提取数据
+    // 存储提取的数据
     const extractedData = {};
+
     rows.forEach((row, i) => {
       if (i === 0) return; // 跳过表头
+
       const columns = row.querySelectorAll("td");
-      if (columns.length > Math.max(politicalIndex, isoIndex)) {
-        const politicalEntity = columns[politicalIndex].textContent.trim();
+      if (columns.length > Math.max(nameIndex, isoIndex)) {
+        const name = columns[nameIndex].textContent.trim();
         const isoCode = columns[isoIndex].textContent.trim();
-        extractedData[isoCode] = politicalEntity; // 映射 ISO 代码到政治实体
+
+        // 跳过空的 ISO 代码
+        if (!isoCode) return;
+        extractedData[isoCode] = name;
       }
     });
-
-    console.log("政治实体和 ISO 代码数据提取完成。");
-    return extractedData;
+    console.log("提取的数据:", extractedData);
+    return extractedData
   } catch (error) {
     console.error("发生错误:", error);
   }
