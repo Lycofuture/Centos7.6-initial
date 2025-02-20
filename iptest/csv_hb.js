@@ -1,10 +1,12 @@
-import fs from 'fs';
-import path from 'path';
-import XLSX from 'xlsx';
+import fs from "fs";
+import path from "path";
+import XLSX from "xlsx";
 
 // 检查是否提供了必要的命令行参数
 if (process.argv.length < 4) {
-  console.error('用法: node convert.js <输出文件路径> <输入文件1> <输入文件2> [...]');
+  console.error(
+    "用法: node convert.js <输出文件路径> <输入文件1> <输入文件2> [...]",
+  );
   process.exit(1);
 }
 
@@ -32,7 +34,7 @@ const convertXlsxToCsv = (xlsxFilePath) => {
 
     // 自动生成与输入文件对应的 CSV 文件名
     const csvFileName = `${path.basename(xlsxFilePath, path.extname(xlsxFilePath))}.csv`;
-    fs.writeFileSync(csvFileName, csvData, 'utf8');
+    fs.writeFileSync(csvFileName, csvData, "utf8");
     console.log(`已转换: ${xlsxFilePath} -> ${csvFileName}`);
 
     return csvFileName; // 返回生成的 CSV 文件路径
@@ -45,29 +47,29 @@ const convertXlsxToCsv = (xlsxFilePath) => {
 // 合并多个 CSV 文件
 const mergeCsvFiles = (csvFiles, outputFile) => {
   try {
-    let mergedData = '';
+    let mergedData = "";
     csvFiles.forEach((file, index) => {
       if (!fs.existsSync(file)) {
         throw new Error(`找不到文件: ${file}`);
       }
 
-      const fileData = fs.readFileSync(file, 'utf8');
+      const fileData = fs.readFileSync(file, "utf8");
 
       // 去掉重复的标题行（保留第一个文件的标题）
       if (index > 0) {
-        const rows = fileData.split('\n');
+        const rows = fileData.split("\n");
         rows.shift(); // 移除标题行
-        mergedData += rows.join('\n');
+        mergedData += rows.join("\n");
       } else {
         mergedData += fileData;
       }
 
-      if (!mergedData.endsWith('\n')) {
-        mergedData += '\n';
+      if (!mergedData.endsWith("\n")) {
+        mergedData += "\n";
       }
     });
 
-    fs.writeFileSync(outputFile, mergedData, 'utf8');
+    fs.writeFileSync(outputFile, mergedData, "utf8");
     console.log(`已成功合并到: ${outputFile}`);
   } catch (error) {
     console.error(`合并 CSV 文件时出错: ${error.message}`);
@@ -79,8 +81,11 @@ const mergeCsvFiles = (csvFiles, outputFile) => {
 const findFilesInDirectory = (directoryPath) => {
   try {
     const files = fs.readdirSync(directoryPath);
-    return files.filter(file => ['.csv', '.xlsx'].includes(path.extname(file).toLowerCase()))
-                .map(file => path.join(directoryPath, file));
+    return files
+      .filter((file) =>
+        [".csv", ".xlsx"].includes(path.extname(file).toLowerCase()),
+      )
+      .map((file) => path.join(directoryPath, file));
   } catch (error) {
     console.error(`读取目录时出错: ${error.message}`);
     process.exit(1);
@@ -88,33 +93,37 @@ const findFilesInDirectory = (directoryPath) => {
 };
 
 // 主逻辑：遍历输入文件并处理
-const csvFiles = inputPaths.flatMap((inputPath) => {
-  const ext = path.extname(inputPath).toLowerCase();
-  const isDirectory = fs.lstatSync(inputPath).isDirectory();
+const csvFiles = inputPaths
+  .flatMap((inputPath) => {
+    const ext = path.extname(inputPath).toLowerCase();
+    const isDirectory = fs.lstatSync(inputPath).isDirectory();
 
-  if (isDirectory) {
-    // 查找目录中的所有 CSV 和 XLSX 文件
-    return findFilesInDirectory(inputPath).map(file => {
-      const fileExt = path.extname(file).toLowerCase();
-      if (fileExt === '.xlsx') {
-        return convertXlsxToCsv(file);
-      } else if (fileExt === '.csv') {
-        return file;
-      } else {
-        return null;
-      }
-    }).filter(Boolean);
-  } else if (ext === '.xlsx') {
-    // 转换 XLSX 为 CSV
-    return convertXlsxToCsv(inputPath);
-  } else if (ext === '.csv') {
-    // 直接使用 CSV 文件
-    return inputPath;
-  } else {
-    console.warn(`不支持的文件格式，跳过: ${inputPath}`);
-    return null;
-  }
-}).filter(Boolean); // 过滤掉不支持的文件
+    if (isDirectory) {
+      // 查找目录中的所有 CSV 和 XLSX 文件
+      return findFilesInDirectory(inputPath)
+        .map((file) => {
+          const fileExt = path.extname(file).toLowerCase();
+          if (fileExt === ".xlsx") {
+            return convertXlsxToCsv(file);
+          } else if (fileExt === ".csv") {
+            return file;
+          } else {
+            return null;
+          }
+        })
+        .filter(Boolean);
+    } else if (ext === ".xlsx") {
+      // 转换 XLSX 为 CSV
+      return convertXlsxToCsv(inputPath);
+    } else if (ext === ".csv") {
+      // 直接使用 CSV 文件
+      return inputPath;
+    } else {
+      console.warn(`不支持的文件格式，跳过: ${inputPath}`);
+      return null;
+    }
+  })
+  .filter(Boolean); // 过滤掉不支持的文件
 
 // 合并所有生成的 CSV 文件
 mergeCsvFiles(csvFiles, outputFilePath);
