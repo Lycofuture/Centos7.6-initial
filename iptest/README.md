@@ -55,3 +55,16 @@ node csv_hb.js init.csv 文件.csv 文件2.xlsx
 ```bash
 node csv_hb.js init.csv ./ipfofa
 ```
+
+## js格式化
+
+安装工具 
+```bash
+npm install --global prettier
+```
+
+格式化文件
+
+```bash
+prettier --write ip_init.js
+```
