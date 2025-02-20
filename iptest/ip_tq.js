@@ -306,7 +306,7 @@ async function extractIpAndPort() {
       if (!acc[country]) {
         acc[country] = [];
       }
-      if (acc[country].length < 5) {
+      if (acc[country].length < shu) {
         acc[country].push(entry);
       }
       return acc;
