@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import url from "url";
 import fetch from "node-fetch";
+import { JSDOM } from "jsdom";
 //每个国家提前数量
 const shu = 5;
 // 是否过滤下载速度
@@ -24,7 +25,9 @@ const datacenter = "数据中心";
 async function extractIpAndPort() {
   try {
     // 读取 CSV 文件内容
+    console.log("开始读取 CSV 文件...");
     const data = await fs.promises.readFile(csvFilePath, "utf8");
+    console.log("CSV 文件读取成功。");
 
     // 按行分割 CSV 内容
     const lines = data
@@ -34,6 +37,7 @@ async function extractIpAndPort() {
     if (lines.length < 2) {
       throw new Error("CSV 文件内容不足或格式不正确");
     }
+    console.log("CSV 文件内容处理完成。");
 
     // 获取表头
     const headers = lines[0].split(",");
@@ -45,233 +49,15 @@ async function extractIpAndPort() {
     if (ipIndex === -1 || portIndex === -1 || datacenterIndex === -1) {
       throw new Error(`CSV 文件缺少 ${ip}、${port} 或 ${datacenter} 列`);
     }
+    console.log("CSV 文件列索引检查通过。");
+
     // 数据中心代码与国家的映射
-    const datacenterMap = {
-      AL: ["TIA"],
-      DZ: ["ALG", "AAE", "ORN"],
-      AO: ["LAD"],
-      AR: ["EZE", "COR", "NQN"],
-      AM: ["EVN"],
-      AU: ["ADL", "BNE", "CBR", "HBA", "MEL", "PER", "SYD"],
-      AT: ["VIE"],
-      AZ: ["LLK", "GYD"],
-      BH: ["BAH"],
-      BD: ["CGP", "DAC", "JSR"],
-      BB: ["BGI"],
-      BY: ["MSQ"],
-      BE: ["BRU"],
-      BT: ["PBH"],
-      BO: ["LPB"],
-      BW: ["GBE"],
-      BR: [
-        "QWJ",
-        "ARU",
-        "BEL",
-        "CNF",
-        "BNU",
-        "BSB",
-        "CFC",
-        "VCP",
-        "CAW",
-        "XAP",
-        "CGB",
-        "CWB",
-        "FLN",
-        "FOR",
-        "GYN",
-        "ITJ",
-        "JOI",
-        "JDO",
-        "MAO",
-        "PMW",
-        "POA",
-        "REC",
-        "RAO",
-        "GIG",
-        "SSA",
-        "SJP",
-        "SJK",
-        "GRU",
-        "SOD",
-        "NVT",
-        "UDI",
-        "VIX",
-      ],
-      BN: ["BWN"],
-      BG: ["SOF"],
-      BF: ["OUA"],
-      KH: ["PNH"],
-      CA: ["YYC", "YVR", "YWG", "YHZ", "YOW", "YYZ", "YUL", "YXE"],
-      CL: ["ARI", "SCL"],
-      CO: ["BAQ", "BOG", "CLO", "MDE"],
-      CD: ["FIH"],
-      CR: ["SJO"],
-      CI: ["ABJ", "ASK"],
-      HR: ["ZAG"],
-      CY: ["LCA"],
-      CZ: ["PRG"],
-      DK: ["CPH"],
-      DJ: ["JIB"],
-      DO: ["STI", "SDQ"],
-      EC: ["GYE", "UIO"],
-      EG: ["CAI"],
-      EE: ["TLL"],
-      FJ: ["SUV"],
-      FI: ["HEL"],
-      法国: ["BOD", "LYS", "MRS", "CDG"],
-      PF: ["PPT"],
-      GE: ["TBS"],
-      德国: ["TXL", "DUS", "FRA", "HAM", "MUC", "STR"],
-      GH: ["ACC"],
-      GR: ["ATH", "SKG"],
-      GD: ["GND"],
-      GU: ["GUM"],
-      GT: ["GUA"],
-      GY: ["GEO"],
-      HN: ["TGU"],
-      香港: ["HKG"],
-      HU: ["BUD"],
-      IS: ["KEF"],
-      IN: [
-        "AMD",
-        "BLR",
-        "BBI",
-        "IXC",
-        "MAA",
-        "HYD",
-        "CNN",
-        "KNU",
-        "COK",
-        "CCU",
-        "BOM",
-        "NAG",
-        "DEL",
-        "PAT",
-      ],
-      ID: ["DPS", "CGK", "JOG"],
-      IQ: ["BGW", "BSR", "EBL", "NJF", "XNH", "ISU"],
-      IE: ["ORK", "DUB"],
-      IL: ["HFA", "TLV"],
-      IT: ["MXP", "PMO", "FCO"],
-      JM: ["KIN"],
-      日本: ["FUK", "OKA", "KIX", "NRT"],
-      JO: ["AMM"],
-      KZ: ["AKX", "ALA", "NQZ"],
-      KE: ["MBA", "NBO"],
-      韩国: ["ICN"],
-      KW: ["KWI"],
-      LA: ["VTE"],
-      LV: ["RIX"],
-      LB: ["BEY"],
-      LT: ["VNO"],
-      LU: ["LUX"],
-      MO: ["MFM"],
-      MG: ["TNR"],
-      MY: ["JHB", "KUL", "KCH"],
-      MV: ["MLE"],
-      MU: ["MRU"],
-      MX: ["GDL", "MEX", "QRO"],
-      MD: ["KIV"],
-      MN: ["ULN"],
-      MZ: ["MPM"],
-      NA: ["WDH"],
-      NP: ["KTM"],
-      NL: ["AMS"],
-      NC: ["NOU"],
-      NZ: ["AKL", "CHC"],
-      NG: ["LOS"],
-      MK: ["SKP"],
-      NO: ["OSL"],
-      OM: ["MCT"],
-      PK: ["ISB", "KHI", "LHE"],
-      PS: ["ZDM"],
-      PA: ["PTY"],
-      PY: ["ASU"],
-      PE: ["LIM"],
-      PH: ["CGY", "CEB", "MNL", "CRK"],
-      PL: ["WAW"],
-      PT: ["LIS"],
-      PR: ["SJU"],
-      QA: ["DOH"],
-      RE: ["RUN"],
-      RO: ["OTP"],
-      RU: ["KJA", "DME", "LED", "SVX"],
-      RW: ["KGL"],
-      SA: ["DMM", "JED", "RUH"],
-      SN: ["DKR"],
-      RS: ["BEG"],
-      新加坡: ["SIN"],
-      SK: ["BTS"],
-      ZA: ["CPT", "DUR", "JNB"],
-      ES: ["BCN", "MAD"],
-      LK: ["CMB"],
-      SR: ["PBM"],
-      瑞典: ["GOT", "ARN"],
-      CH: ["GVA", "ZRH"],
-      TW: ["KHH", "TPE"],
-      TZ: ["DAR"],
-      TH: ["BKK", "CNX", "URT"],
-      TT: ["POS"],
-      TN: ["TUN"],
-      TR: ["IST", "ADB"],
-      UG: ["EBB"],
-      UA: ["KBP"],
-      AE: ["DXB"],
-      英国: ["EDI", "LHR", "MAN"],
-      美国: [
-        "ANC",
-        "PHX",
-        "LAX",
-        "SMF",
-        "SAN",
-        "SFO",
-        "SJC",
-        "DEN",
-        "JAX",
-        "MIA",
-        "TLH",
-        "TPA",
-        "ATL",
-        "HNL",
-        "ORD",
-        "IND",
-        "BGR",
-        "BOS",
-        "DTW",
-        "MSP",
-        "MCI",
-        "STL",
-        "OMA",
-        "LAS",
-        "EWR",
-        "ABQ",
-        "BUF",
-        "CLT",
-        "RDU",
-        "CLE",
-        "CMH",
-        "OKC",
-        "PDX",
-        "PHL",
-        "PIT",
-        "FSD",
-        "MEM",
-        "BNA",
-        "AUS",
-        "DFW",
-        "IAH",
-        "MFE",
-        "SAT",
-        "SLC",
-        "IAD",
-        "ORF",
-        "RIC",
-        "SEA",
-      ],
-      VN: ["DAD", "HAN", "SGN"],
-      ZW: ["HRE"],
-    };
+    console.log("开始获取数据中心与国家的映射...");
+    const dataMap = await getDatacenterMap();
+    console.log("数据中心与国家的映射获取成功。");
+
     // 提取 IP 和端口
+    console.log("开始提取 IP 和端口...");
     const ipEntries = lines
       .slice(1) // 去掉表头
       .map((line) => line.split(",")) // 按逗号分割每一行
@@ -295,12 +81,14 @@ async function extractIpAndPort() {
         const port = fields[portIndex];
         const dc = fields[datacenterIndex];
         const country =
-          Object.keys(datacenterMap).find((country) =>
-            datacenterMap[country].includes(dc),
+          Object.keys(dataMap).find((country) =>
+            dataMap[country].includes(dc),
           ) || "其他";
         console.log(`提取：${ip}:${port}#${country}`);
         return { entry: `${ip}:${port}#${country}`, country };
       });
+
+    console.log("IP 和端口提取完成。");
 
     const grouped = ipEntries.reduce((acc, { entry, country }) => {
       if (!acc[country]) {
@@ -311,6 +99,7 @@ async function extractIpAndPort() {
       }
       return acc;
     }, {});
+    console.log("IP 和端口根据国家分组完成。");
 
     // 可选：对国家进行排序后拼接所有分组
     const result = Object.keys(grouped)
@@ -319,6 +108,7 @@ async function extractIpAndPort() {
       .join("\n");
 
     // 写入到 TXT 文件
+    console.log("开始写入 TXT 文件...");
     await fs.promises.writeFile(txtFilegeo, result, "utf8");
     console.log(`已成功提取到 ${txtFilegeo}`);
   } catch (error) {
@@ -326,4 +116,114 @@ async function extractIpAndPort() {
   }
 }
 
-extractIpAndPort();
+async function getDatacenterMap() {
+  console.log("开始获取 Cloudflare 数据中心位置...");
+
+  try {
+    const response = await fetch("https://speed.cloudflare.com/locations");
+    const data = await response.json();
+
+    console.log("成功获取 Cloudflare 数据中心数据，开始处理数据...");
+
+    const datacenterMap = {};
+
+    data.forEach(({ iata, cca2 }) => {
+      if (!datacenterMap[cca2]) {
+        datacenterMap[cca2] = [];
+      }
+      datacenterMap[cca2].push(iata);
+    });
+
+    console.log("数据中心映射创建成功。");
+
+    const extractedData = await extractData();
+
+    console.log("开始修改数据中心映射...");
+    const newDatacenterMap = await modifyDatacenterMap(
+      extractedData,
+      datacenterMap,
+    );
+
+    console.log("数据中心映射修改完成");
+    return newDatacenterMap;
+  } catch (error) {
+    console.error("获取数据中心映射失败:", error);
+  }
+}
+
+async function extractData() {
+  console.log("开始提取政治实体和 ISO 代码数据...");
+
+  try {
+    // 读取 HTML 文件
+    const response = await fetch("https://www.aqwu.net/wp/?p=1231");
+    const htmlContent = await response.text();
+
+    console.log("HTML 内容获取成功，开始解析...");
+
+    // 解析 HTML
+    const dom = new JSDOM(htmlContent);
+    const document = dom.window.document;
+
+    // 获取表格
+    const table = document.querySelector("table");
+    if (!table) {
+      console.error("未找到表格");
+      return;
+    }
+
+    const rows = table.querySelectorAll("tr");
+
+    // 获取表头列索引
+    const headers = Array.from(rows[0].querySelectorAll("th")).map((th) =>
+      th.textContent.trim(),
+    );
+    const politicalIndex = headers.indexOf("政治实体");
+    const isoIndex = headers.indexOf("ISO 3166-1二位字母代码");
+
+    if (politicalIndex === -1 || isoIndex === -1) {
+      console.error("未找到正确的列索引");
+      return;
+    }
+
+    console.log("表头列索引解析成功，开始提取数据...");
+
+    // 提取数据
+    const extractedData = {};
+    rows.forEach((row, i) => {
+      if (i === 0) return; // 跳过表头
+      const columns = row.querySelectorAll("td");
+      if (columns.length > Math.max(politicalIndex, isoIndex)) {
+        const politicalEntity = columns[politicalIndex].textContent.trim();
+        const isoCode = columns[isoIndex].textContent.trim();
+        extractedData[isoCode] = politicalEntity; // 映射 ISO 代码到政治实体
+      }
+    });
+
+    console.log("政治实体和 ISO 代码数据提取完成。");
+    return extractedData;
+  } catch (error) {
+    console.error("发生错误:", error);
+  }
+}
+
+// 修改 datacenterMap 的键
+async function modifyDatacenterMap(extractedData, datacenterMap) {
+  console.log("开始修改数据中心映射的键...");
+
+  try {
+    // 生成新的 datacenterMap
+    let newDatacenterMap = {};
+
+    Object.entries(datacenterMap).forEach(([isoCode, values]) => {
+      const newKey = extractedData[isoCode] || isoCode; // 找到政治实体名称，找不到就用原键
+      newDatacenterMap[newKey] = values; // 保持值不变
+    });
+
+    console.log("数据中心映射键修改完成。");
+    return newDatacenterMap;
+  } catch (error) {
+    console.error("修改 datacenterMap 失败:", error);
+  }
+}
+await extractIpAndPort();
