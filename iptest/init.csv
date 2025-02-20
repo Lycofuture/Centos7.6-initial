@@ -425,7 +425,6 @@ https://68.183.32.189:449,68.183.32.189,449,https,403 Forbidden,,GB,London,https
 https://89.213.207.59:20332,89.213.207.59,20332,https,403 Forbidden,,GB,Lincoln,https://89.213.207.59:20332,GCI Network Solutions Limited
 https://89.213.207.128:20202,89.213.207.128,20202,https,403 Forbidden,,GB,Lincoln,https://89.213.207.128:20202,GCI Network Solutions Limited
 https://89.213.207.165:20202,89.213.207.165,20202,https,403 Forbidden,,GB,Lincoln,https://89.213.207.165:20202,GCI Network Solutions Limited
-https://209.97.129.162:123,209.97.129.162,123,https,403 Forbidden,,GB,London,https://209.97.129.162:123,DIGITALOCEAN-ASN
 https://89.213.207.153:20202,89.213.207.153,20202,https,403 Forbidden,,GB,Lincoln,https://89.213.207.153:20202,GCI Network Solutions Limited
 https://89.213.207.167:20202,89.213.207.167,20202,https,403 Forbidden,,GB,Lincoln,https://89.213.207.167:20202,GCI Network Solutions Limited
 https://38.59.226.158:9999,38.59.226.158,9999,https,403 Forbidden,,GB,London,https://38.59.226.158:9999,Hk Cedoc Limited
@@ -504,7 +503,6 @@ https://165.65.13.77:11211,165.65.13.77,11211,https,403 Forbidden,,GB,London,htt
 https://89.213.207.39:20332,89.213.207.39,20332,https,403 Forbidden,,GB,Lincoln,https://89.213.207.39:20332,GCI Network Solutions Limited
 https://89.213.207.229:20332,89.213.207.229,20332,https,403 Forbidden,,GB,Lincoln,https://89.213.207.229:20332,GCI Network Solutions Limited
 https://165.65.13.70:11211,165.65.13.70,11211,https,403 Forbidden,,GB,London,https://165.65.13.70:11211,Vorboss Limited
-https://159.223.245.94:123,159.223.245.94,123,https,403 Forbidden,,GB,London,https://159.223.245.94:123,DIGITALOCEAN-ASN
 https://89.213.207.19:20332,89.213.207.19,20332,https,403 Forbidden,,GB,Lincoln,https://89.213.207.19:20332,GCI Network Solutions Limited
 https://89.213.207.56:20332,89.213.207.56,20332,https,403 Forbidden,,GB,Lincoln,https://89.213.207.56:20332,GCI Network Solutions Limited
 https://89.213.207.198:20332,89.213.207.198,20332,https,403 Forbidden,,GB,Lincoln,https://89.213.207.198:20332,GCI Network Solutions Limited
@@ -6714,7 +6712,6 @@ https://129.226.206.70:12194,129.226.206.70,12194,https,403 Forbidden,,SG,Singap
 https://52.163.219.16:666,52.163.219.16,666,https,403 Forbidden,,SG,Singapore,https://52.163.219.16:666,MICROSOFT-CORP-MSN-AS-BLOCK
 43.159.113.44:111,43.159.113.44,111,http,,,SG,Singapore,http://43.159.113.44:111,ACE
 https://27.0.234.9:12112,27.0.234.9,12112,https,403 Forbidden,,SG,Singapore,https://27.0.234.9:12112,WebHorizon Internet Services
-https://128.199.128.28:123,128.199.128.28,123,https,403 Forbidden,,SG,Singapore,https://128.199.128.28:123,DIGITALOCEAN-ASN
 https://43.163.108.80:10086,43.163.108.80,10086,https,,,SG,Singapore,https://43.163.108.80:10086,
 https://27.106.109.221:12345,27.106.109.221,12345,https,403 Forbidden,,SG,Singapore,https://27.106.109.221:12345,
 https://103.167.150.57:10020,103.167.150.57,10020,https,403 Forbidden,,SG,Singapore,https://103.167.150.57:10020,HOSTHATCH
