@@ -14,9 +14,9 @@ const __filename = url.fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // 输入 CSV 文件路径
-const csvFilePath = path.resolve(__dirname, "欧洲20250221ip⁼¹.csv");
+const csvFilePath = path.resolve(__dirname, "ip_tq.csv");
 // 输出 TXT 文件路径
-const txtFilegeo = path.resolve(__dirname, "欧洲20250221ip⁼¹.txt");
+const txtFilegeo = path.resolve(__dirname, "ip.txt");
 // 提取列
 const ip = "IP地址";
 const port = "端口";
