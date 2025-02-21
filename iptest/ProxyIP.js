@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import url from "node:url";
+import fetch from "node-fetch";
 
 // 获取当前脚本路径
 const __filename = url.fileURLToPath(import.meta.url);
@@ -8,7 +9,8 @@ const __dirname = path.dirname(__filename);
 
 // 文件路径
 const csvFilePath = path.resolve(__dirname, "init.csv");
-const txtFilePath = path.resolve(__dirname, "proxyip.txt");
+const proxyFilePath = "proxy_ips.txt"; // Proxy IP 输出文件
+const reverseFilePath = "reverse_ips.txt"; // 反代 IP 输出文件
 
 // CSV列名
 const ipcom = "ip";
@@ -53,16 +55,28 @@ async function extractIpAndPort() {
     console.log(`提取到 ${resultSet.size} 个代理IP，开始验证...`);
 
     // 顺序验证 IP
-    const validList = [];
+    const proxyList = [];
+    const reverseList = [];
+
     for (const entry of resultSet) {
-      const valid = await validateProxy(entry);
-      if (valid) validList.push(valid);
+      const result = await validateProxy(entry);
+      if (result) {
+        if (result.type === "proxyip") {
+          proxyList.push(result.entry);
+        } else if (result.type === "reverse") {
+          reverseList.push(result.entry);
+        }
+      }
     }
 
-    // 写入文件
-    await fs.promises.writeFile(txtFilePath, validList.join("\n"), "utf8");
+    await fs.promises.writeFile(proxyFilePath, proxyList.join("\n"), "utf8");
+    await fs.promises.writeFile(reverseFilePath, reverseList.join("\n"), "utf8");
+
     console.log(
-      `已成功提取到 ${validList.length} 个有效代理，结果已写入 ${txtFilePath}`,
+      `已成功提取到 ${proxyList.length} 个有效 ProxyIP，结果已写入 ${proxyFilePath}`,
+    );
+    console.log(
+      `已成功提取到 ${reverseList.length} 个有效 反代IP，结果已写入 ${reverseFilePath}`,
     );
   } catch (error) {
     console.error("处理文件时发生错误:", error.message);
@@ -94,9 +108,14 @@ async function validateProxy(entry) {
       return null;
     }
 
+    if (resultData && resultData.proxyip) {
+      console.log(`发现有效 ProxyIP: ${ip}:${port}`);
+      return { type: "proxyip", entry: `${ip}:${port}` };
+    }
+
     if (resultData && resultData.reverse) {
-      console.log(`有效 ProxyIP: ${ip}:${port}`);
-      return `${ip}:${port}`;
+      console.log(`发现有效 反代IP: ${ip}:${port}`);
+      return { type: "reverse", entry: `${ip}:${port}` };
     }
   } catch (error) {
     console.error(`请求失败: ${ip}:${port} -> ${error.message}`);
