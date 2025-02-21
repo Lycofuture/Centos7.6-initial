@@ -70,7 +70,11 @@ async function extractIpAndPort() {
     }
 
     await fs.promises.writeFile(proxyFilePath, proxyList.join("\n"), "utf8");
-    await fs.promises.writeFile(reverseFilePath, reverseList.join("\n"), "utf8");
+    await fs.promises.writeFile(
+      reverseFilePath,
+      reverseList.join("\n"),
+      "utf8",
+    );
 
     console.log(
       `已成功提取到 ${proxyList.length} 个有效 ProxyIP，结果已写入 ${proxyFilePath}`,
