@@ -4,7 +4,7 @@ import url from "url";
 import fetch from "node-fetch";
 import { JSDOM } from "jsdom";
 //每个国家提前数量
-const shu = 9999999999999999999;
+const shu = 5;
 // 是否过滤下载速度
 const speed = true;
 // 过滤下载速度下限，单位kb/s
