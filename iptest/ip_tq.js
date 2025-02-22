@@ -4,7 +4,7 @@ import url from "url";
 import fetch from "node-fetch";
 import { JSDOM } from "jsdom";
 //每个国家提前数量
-const shu = 5;
+const shu = 9999999999999999999;
 // 是否过滤下载速度
 const speed = true;
 // 过滤下载速度下限，单位kb/s
@@ -13,10 +13,6 @@ const test = 100;
 const __filename = url.fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// 输入 CSV 文件路径
-const csvFilePath = path.resolve(__dirname, "ip_tq.csv");
-// 输出 TXT 文件路径
-const txtFilegeo = path.resolve(__dirname, "ip.txt");
 // 提取列
 const ip = "IP地址";
 const port = "端口";
@@ -285,10 +281,34 @@ const extractedData = {
   BQ: "博内尔岛，圣尤斯特歇斯和萨巴",
   SJ: "斯瓦尔巴特",
 };
-async function extractIpAndPort() {
+async function processCSVFiles() {
+  try {
+    // 获取所有 CSV 文件
+    const files = fs
+      .readdirSync(__dirname)
+      .filter((file) => file.endsWith(".csv"));
+    if (files.length === 0) {
+      console.log("未找到 CSV 文件。");
+      return;
+    }
+
+    console.log(`发现 ${files.length} 个 CSV 文件，开始处理...`);
+
+    for (const file of files) {
+      const csvFilePath = path.resolve(__dirname, file);
+      const txtFilePath = path.resolve(__dirname, file.replace(".csv", ".txt"));
+
+      console.log(`处理文件: ${file}`);
+      await extractIpAndPort(csvFilePath, txtFilePath);
+    }
+  } catch (error) {
+    console.error("处理文件时发生错误:", error.message);
+  }
+}
+async function extractIpAndPort(csvFilePath, txtFilePath) {
   try {
     // 读取 CSV 文件内容
-    console.log("开始读取 CSV 文件...");
+    console.log(`开始读取 CSV 文件...${csvFilePath}`);
     const data = await fs.promises.readFile(csvFilePath, "utf8");
     console.log("CSV 文件读取成功。");
 
@@ -321,6 +341,7 @@ async function extractIpAndPort() {
 
     // 提取 IP 和端口
     console.log("开始提取 IP 和端口...");
+
     const ipEntries = lines
       .slice(1) // 去掉表头
       .map((line) => line.split(",")) // 按逗号分割每一行
@@ -351,7 +372,7 @@ async function extractIpAndPort() {
         return { entry: `${ip}:${port}#${country}`, country };
       });
 
-    console.log("IP 和端口提取完成。");
+    console.log(`IP 和端口提取完成。${ipEntries.length}`);
 
     const grouped = ipEntries.reduce((acc, { entry, country }) => {
       if (!acc[country]) {
@@ -372,8 +393,8 @@ async function extractIpAndPort() {
 
     // 写入到 TXT 文件
     console.log("开始写入 TXT 文件...");
-    await fs.promises.writeFile(txtFilegeo, result, "utf8");
-    console.log(`已成功提取到 ${txtFilegeo}`);
+    await fs.promises.writeFile(txtFilePath, result, "utf8");
+    console.log(`已成功提取到 ${txtFilePath}`);
   } catch (error) {
     console.error("处理文件时发生错误:", error.message);
   }
@@ -427,4 +448,4 @@ async function modifyDatacenterMap(extractedData, datacenterMap) {
     console.error("修改 datacenterMap 失败:", error);
   }
 }
-await extractIpAndPort();
+await processCSVFiles();
