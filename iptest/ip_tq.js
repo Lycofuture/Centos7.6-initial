@@ -392,7 +392,7 @@ async function extractIpAndPort(csvFilePath, txtFilePath) {
         return grouped[country]
         .map((entry, index) => `${entry}${index + 1}`) // 添加序号
         .join("\n");
-      });
+      })
       .join("\n");
 
     // 写入到 TXT 文件
