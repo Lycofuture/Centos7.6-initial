@@ -388,7 +388,11 @@ async function extractIpAndPort(csvFilePath, txtFilePath) {
     // 可选：对国家进行排序后拼接所有分组
     const result = Object.keys(grouped)
       .sort() // 对国家名称进行排序
-      .map((country) => grouped[country].join("\n"))
+      .map((country, index) => {
+        return grouped[country]
+        .map((entry, index) => `${entry}${index + 1}`) // 添加序号
+        .join("\n");
+      });
       .join("\n");
 
     // 写入到 TXT 文件
