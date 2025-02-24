@@ -8,7 +8,7 @@ const __dirname = path.dirname(__filename);
 // 输入 CSV 文件路径
 const csvFilePath = path.resolve(__dirname, "init.csv");
 // 输出 TXT 文件路径
-const txtFilePath = path.resolve(__dirname, "ip_tq.txt");
+const txtFilePath = path.resolve(__dirname, "ip.txt");
 
 // 提取列
 const ipcom = "ip";
