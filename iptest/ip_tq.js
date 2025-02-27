@@ -378,7 +378,7 @@ async function extractIpAndPort(csvFilePath, txtFilePath) {
       if (!acc[country]) {
         acc[country] = [];
       }
-      if (acc[country].length < shu) {
+      if (shu === 0 || acc[country].length < shu) {
         acc[country].push(entry);
       }
       return acc;
