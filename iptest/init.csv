@@ -6698,16 +6698,28 @@ https://125.133.178.233:12122,125.133.178.233,12122,https,403 Forbidden,,KR,Seon
 https://124.199.137.67:10443,124.199.137.67,10443,https,403 Forbidden,,KR,Seoul,https://124.199.137.67:10443,SK Broadband Co Ltd
 https://112.186.112.40:12122,112.186.112.40,12122,https,403 Forbidden,,KR,Seongnam,https://112.186.112.40:12122,Korea Telecom
 https://121.146.30.118:12122,121.146.30.118,12122,https,403 Forbidden,,KR,Seongnam,https://121.146.30.118:12122,Korea Telecom
+https://168.138.169.46:10001,168.138.169.46,10001,https,403 Forbidden,,SG,Singapore,https://168.138.169.46:10001,ORACLE-BMC-31898
+https://8.223.49.85:9527,8.223.49.85,9527,https,403 Forbidden,,SG,Singapore,https://8.223.49.85:9527,
+https://129.150.46.130:9527,129.150.46.130,9527,https,403 Forbidden,,SG,Singapore,https://129.150.46.130:9527,ORACLE-BMC-31898
+https://129.150.32.171:6443,129.150.32.171,6443,https,403 Forbidden,,SG,Singapore,https://129.150.32.171:6443,ORACLE-BMC-31898
+128.199.92.96:3000,128.199.92.96,3000,http,Forbidden,,SG,Singapore,http://128.199.92.96:3000,DIGITALOCEAN-ASN
+https://43.159.33.39:3389,43.159.33.39,3389,https,403 Forbidden,,SG,Singapore,https://43.159.33.39:3389,"Tencent Building, Kejizhongyi Avenue"
+68.183.227.102:3000,68.183.227.102,3000,http,Forbidden,,SG,Singapore,http://68.183.227.102:3000,DIGITALOCEAN-ASN
+https://158.178.244.161:3443,158.178.244.161,3443,https,403 Forbidden,,SG,Singapore,https://158.178.244.161:3443,ORACLE-BMC-31898
+https://8.222.178.214:6666,8.222.178.214,6666,https,403 Forbidden,,SG,Singapore,https://8.222.178.214:6666,"Alibaba US Technology Co., Ltd."
 43.175.220.72:111,43.175.220.72,111,http,Attention Required! | Cloudflare,,SG,Singapore,http://43.175.220.72:111,
-https://128.199.128.28:123,128.199.128.28,123,https,403 Forbidden,,SG,Singapore,https://128.199.128.28:123,DIGITALOCEAN-ASN
 https://103.149.46.116:10001,103.149.46.116,10001,https,403 Forbidden,,SG,Singapore,https://103.149.46.116:10001,Datacamp Limited
 https://20.198.248.244:20000,20.198.248.244,20000,https,403 Forbidden,,SG,Singapore,https://20.198.248.244:20000,MICROSOFT-CORP-MSN-AS-BLOCK
+https://54.151.195.72:7443,54.151.195.72,7443,https,403 Forbidden,,SG,Singapore,https://54.151.195.72:7443,AMAZON-02
 https://43.156.229.49:7443,43.156.229.49,7443,https,403 Forbidden,,SG,Singapore,https://43.156.229.49:7443,"Tencent Building, Kejizhongyi Avenue"
 https://45.32.114.122:444,45.32.114.122,444,https,403 Forbidden,,SG,Singapore,https://45.32.114.122:444,AS-CHOOPA
 https://194.156.163.51:10443,194.156.163.51,10443,https,403 Forbidden,,SG,Singapore,https://194.156.163.51:10443,"Misaka Network, Inc."
+https://18.141.55.125:16030,18.141.55.125,16030,https,403 Forbidden,,SG,Singapore,https://18.141.55.125:16030,AMAZON-02
+8.214.93.3:1000,8.214.93.3,1000,http,Network Error,,SG,Singapore,http://8.214.93.3:1000,"Alibaba US Technology Co., Ltd."
 https://43.175.235.243:8888,43.175.235.243,8888,https,403 Forbidden,,SG,Singapore,https://43.175.235.243:8888,
-https://43.159.33.39:3389,43.159.33.39,3389,https,403 Forbidden,,SG,Singapore,https://43.159.33.39:3389,"Tencent Building, Kejizhongyi Avenue"
+https://47.236.71.183:1080,47.236.71.183,1080,https,403 Forbidden,,SG,Singapore,https://47.236.71.183:1080,"Alibaba US Technology Co., Ltd."
 https://43.134.181.60:12331,43.134.181.60,12331,https,403 Forbidden,,SG,Singapore,https://43.134.181.60:12331,"Tencent Building, Kejizhongyi Avenue"
+https://8.219.228.168:8888,8.219.228.168,8888,https,403 Forbidden,,SG,Singapore,https://8.219.228.168:8888,"Alibaba US Technology Co., Ltd."
 https://43.156.204.244:12304,43.156.204.244,12304,https,403 Forbidden,,SG,Singapore,https://43.156.204.244:12304,"Tencent Building, Kejizhongyi Avenue"
 https://45.88.42.15:12261,45.88.42.15,12261,https,403 Forbidden,,SG,Singapore,https://45.88.42.15:12261,Datacamp Limited
 https://103.248.228.189:12202,103.248.228.189,12202,https,403 Forbidden,,SG,Singapore,https://103.248.228.189:12202,
@@ -6715,22 +6727,31 @@ https://129.226.206.70:12194,129.226.206.70,12194,https,403 Forbidden,,SG,Singap
 https://52.163.219.16:666,52.163.219.16,666,https,403 Forbidden,,SG,Singapore,https://52.163.219.16:666,MICROSOFT-CORP-MSN-AS-BLOCK
 43.159.113.44:111,43.159.113.44,111,http,,,SG,Singapore,http://43.159.113.44:111,ACE
 https://27.0.234.9:12112,27.0.234.9,12112,https,403 Forbidden,,SG,Singapore,https://27.0.234.9:12112,WebHorizon Internet Services
+https://128.199.128.28:123,128.199.128.28,123,https,403 Forbidden,,SG,Singapore,https://128.199.128.28:123,DIGITALOCEAN-ASN
 https://43.163.108.80:10086,43.163.108.80,10086,https,,,SG,Singapore,https://43.163.108.80:10086,
 https://27.106.109.221:12345,27.106.109.221,12345,https,403 Forbidden,,SG,Singapore,https://27.106.109.221:12345,
+https://138.2.92.55:8888,138.2.92.55,8888,https,403 Forbidden,,SG,Singapore,https://138.2.92.55:8888,ORACLE-BMC-31898
+https://52.221.202.96:10002,52.221.202.96,10002,https,403 Forbidden,,SG,Singapore,https://52.221.202.96:10002,AMAZON-02
 https://103.167.150.57:10020,103.167.150.57,10020,https,403 Forbidden,,SG,Singapore,https://103.167.150.57:10020,HOSTHATCH
+https://47.245.91.197:9000,47.245.91.197,9000,https,403 Forbidden,,SG,Singapore,https://47.245.91.197:9000,"Alibaba US Technology Co., Ltd."
+https://8.219.248.105:10011,8.219.248.105,10011,https,403 Forbidden,,SG,Singapore,https://8.219.248.105:10011,"Alibaba US Technology Co., Ltd."
 https://43.159.34.4:10010,43.159.34.4,10010,https,403 Forbidden,,SG,Singapore,https://43.159.34.4:10010,"Tencent Building, Kejizhongyi Avenue"
 https://139.180.189.153:10006,139.180.189.153,10006,https,403 Forbidden,,SG,Singapore,https://139.180.189.153:10006,AS-CHOOPA
 https://203.55.176.46:10004,203.55.176.46,10004,https,403 Forbidden,,SG,Singapore,https://203.55.176.46:10004,Datacamp Limited
+https://138.2.90.127:55555,138.2.90.127,55555,https,403 Forbidden,,SG,Singapore,https://138.2.90.127:55555,ORACLE-BMC-31898
 https://213.35.99.101:9998,213.35.99.101,9998,https,403 Forbidden,,SG,Singapore,https://213.35.99.101:9998,
 43.175.212.72:111,43.175.212.72,111,http,,,SG,Singapore,http://43.175.212.72:111,
 https://5.34.176.119:81,5.34.176.119,81,https,403 Forbidden,,SG,Singapore,https://5.34.176.119:81,Green Floid LLC
 43.175.222.72:111,43.175.222.72,111,http,,,SG,Singapore,http://43.175.222.72:111,
 43.175.218.72:111,43.175.218.72,111,http,,,SG,Singapore,http://43.175.218.72:111,
 43.175.216.72:111,43.175.216.72,111,http,,,SG,Singapore,http://43.175.216.72:111,
+https://18.142.237.135:50001,18.142.237.135,50001,https,403 Forbidden,,SG,Singapore,https://18.142.237.135:50001,AMAZON-02
 43.159.112.44:111,43.159.112.44,111,http,,,SG,Singapore,http://43.159.112.44:111,ACE
-https://8.223.49.85:9527,8.223.49.85,9527,https,403 Forbidden,,SG,Singapore,https://8.223.49.85:9527,
+https://175.41.167.160:10101,175.41.167.160,10101,https,403 Forbidden,,SG,Singapore,https://175.41.167.160:10101,AMAZON-02
+https://18.142.237.135:50000,18.142.237.135,50000,https,403 Forbidden,,SG,Singapore,https://18.142.237.135:50000,AMAZON-02
 https://111.119.207.94:2001,111.119.207.94,2001,https,403 Forbidden,,SG,Singapore,https://111.119.207.94:2001,
 https://213.35.123.46:9999,213.35.123.46,9999,https,403 Forbidden,,SG,Singapore,https://213.35.123.46:9999,
+https://47.130.20.160:10000,47.130.20.160,10000,https,403 Forbidden,,SG,Singapore,https://47.130.20.160:10000,AMAZON-02
 https://103.25.203.60:10000,103.25.203.60,10000,https,403 Forbidden,,SG,Singapore,https://103.25.203.60:10000,SimplerCloud Pte Ltd
 https://20.6.104.245:10000,20.6.104.245,10000,https,403 Forbidden,,SG,Singapore,https://20.6.104.245:10000,MICROSOFT-CORP-MSN-AS-BLOCK
 https://43.133.44.39:10001,43.133.44.39,10001,https,403 Forbidden,,SG,Singapore,https://43.133.44.39:10001,"Tencent Building, Kejizhongyi Avenue"
@@ -6740,45 +6761,83 @@ https://43.156.110.226:10443,43.156.110.226,10443,https,403 Forbidden,,SG,Singap
 https://149.28.140.190:8088,149.28.140.190,8088,https,403 Forbidden,,SG,Singapore,https://149.28.140.190:8088,AS-CHOOPA
 https://45.77.41.197:8088,45.77.41.197,8088,https,403 Forbidden,,SG,Singapore,https://45.77.41.197:8088,AS-CHOOPA
 https://43.175.234.243:8888,43.175.234.243,8888,https,403 Forbidden,,SG,Singapore,https://43.175.234.243:8888,
+https://ss.biezhenlearn.sbs:446,54.179.128.218,446,https,,biezhenlearn.sbs,SG,Singapore,https://ss.biezhenlearn.sbs:446,AMAZON-02
+https://47.236.244.73:10003,47.236.244.73,10003,https,403 Forbidden,,SG,Singapore,https://47.236.244.73:10003,"Alibaba US Technology Co., Ltd."
+https://54.179.128.218:446,54.179.128.218,446,https,403 Forbidden,,SG,Singapore,https://54.179.128.218:446,AMAZON-02
+https://18.142.54.151:30003,18.142.54.151,30003,https,403 Forbidden,,SG,Singapore,https://18.142.54.151:30003,AMAZON-02
+https://47.245.91.197:8991,47.245.91.197,8991,https,403 Forbidden,,SG,Singapore,https://47.245.91.197:8991,"Alibaba US Technology Co., Ltd."
 https://www.wateringsci.top:20000,20.198.248.244,20000,https,Attention Required! | Cloudflare,wateringsci.top,SG,Singapore,https://www.wateringsci.top:20000,MICROSOFT-CORP-MSN-AS-BLOCK
 https://103.112.185.138:587,103.112.185.138,587,https,403 Forbidden,,SG,Singapore,https://103.112.185.138:587,sun-asn
 https://150.109.94.144:8900,150.109.94.144,8900,https,403 Forbidden,,SG,Singapore,https://150.109.94.144:8900,"Tencent Building, Kejizhongyi Avenue"
+https://168.138.176.115:6666,168.138.176.115,6666,https,403 Forbidden,,SG,Singapore,https://168.138.176.115:6666,ORACLE-BMC-31898
+https://158.178.234.208:8843,158.178.234.208,8843,https,403 Forbidden,,SG,Singapore,https://158.178.234.208:8843,ORACLE-BMC-31898
+https://54.151.195.72:7547,54.151.195.72,7547,https,403 Forbidden,,SG,Singapore,https://54.151.195.72:7547,AMAZON-02
 https://139.59.123.242:8585,139.59.123.242,8585,https,403 Forbidden,,SG,Singapore,https://139.59.123.242:8585,DIGITALOCEAN-ASN
-128.199.92.96:3000,128.199.92.96,3000,http,Forbidden,,SG,Singapore,http://128.199.92.96:3000,DIGITALOCEAN-ASN
+https://152.69.219.133:8520,152.69.219.133,8520,https,403 Forbidden,,SG,Singapore,https://152.69.219.133:8520,ORACLE-BMC-31898
+https://138.2.107.176:55555,138.2.107.176,55555,https,403 Forbidden,,SG,Singapore,https://138.2.107.176:55555,ORACLE-BMC-31898
 https://194.15.115.25:8442,194.15.115.25,8442,https,403 Forbidden,,SG,Singapore,https://194.15.115.25:8442,HURRICANE
-68.183.227.102:3000,68.183.227.102,3000,http,Forbidden,,SG,Singapore,http://68.183.227.102:3000,DIGITALOCEAN-ASN
+https://47.236.154.187:7777,47.236.154.187,7777,https,403 Forbidden,,SG,Singapore,https://47.236.154.187:7777,"Alibaba US Technology Co., Ltd."
 https://66.42.59.20:8008,66.42.59.20,8008,https,403 Forbidden,,SG,Singapore,https://66.42.59.20:8008,AS-CHOOPA
+https://168.138.174.145:3443,168.138.174.145,3443,https,403 Forbidden,,SG,Singapore,https://168.138.174.145:3443,ORACLE-BMC-31898
+https://13.250.2.113:5432,13.250.2.113,5432,https,403 Forbidden,,SG,Singapore,https://13.250.2.113:5432,AMAZON-02
+https://3.0.57.84:8282,3.0.57.84,8282,https,Forbidden,,SG,Singapore,https://3.0.57.84:8282,AMAZON-02
+https://54.255.217.120:8192,54.255.217.120,8192,https,403 Forbidden,,SG,Singapore,https://54.255.217.120:8192,AMAZON-02
+https://3.1.35.5:19999,3.1.35.5,19999,https,403 Forbidden,,SG,Singapore,https://3.1.35.5:19999,AMAZON-02
 https://wateringsci.top:20000,20.198.248.244,20000,https,,wateringsci.top,SG,Singapore,https://wateringsci.top:20000,MICROSOFT-CORP-MSN-AS-BLOCK
 https://213.35.99.65:9527,213.35.99.65,9527,https,403 Forbidden,,SG,Singapore,https://213.35.99.65:9527,
+https://18.141.140.120:30012,18.141.140.120,30012,https,403 Forbidden,,SG,Singapore,https://18.141.140.120:30012,AMAZON-02
+https://8.219.50.218:1000,8.219.50.218,1000,https,403 Forbidden,,SG,Singapore,https://8.219.50.218:1000,"Alibaba US Technology Co., Ltd."
 https://194.156.163.61:10443,194.156.163.61,10443,https,403 Forbidden,,SG,Singapore,https://194.156.163.61:10443,"Misaka Network, Inc."
+https://158.178.228.8:10010,158.178.228.8,10010,https,403 Forbidden,,SG,Singapore,https://158.178.228.8:10010,ORACLE-BMC-31898
 https://68.183.182.144:14141,68.183.182.144,14141,https,Just a moment...,,SG,Singapore,https://68.183.182.144:14141,DIGITALOCEAN-ASN
 206.189.154.68:3000,206.189.154.68,3000,http,Attention Required! | Cloudflare,,SG,Singapore,http://206.189.154.68:3000,DIGITALOCEAN-ASN
+https://18.139.181.88:10003,18.139.181.88,10003,https,403 Forbidden,,SG,Singapore,https://18.139.181.88:10003,AMAZON-02
 139.162.60.160:40001,139.162.60.160,40001,http,,,SG,Singapore,http://139.162.60.160:40001,Akamai Connected Cloud
+https://8.222.162.149:50001,8.222.162.149,50001,https,403 Forbidden,,SG,Singapore,https://8.222.162.149:50001,"Alibaba US Technology Co., Ltd."
 https://4.145.82.148:50001,4.145.82.148,50001,https,403 Forbidden,,SG,Singapore,https://4.145.82.148:50001,MICROSOFT-CORP-MSN-AS-BLOCK
 https://4.194.133.39:4435,4.194.133.39,4435,https,403 Forbidden,,SG,Singapore,https://4.194.133.39:4435,MICROSOFT-CORP-MSN-AS-BLOCK
+https://52.77.255.97:444,52.77.255.97,444,https,403 Forbidden,,SG,Singapore,https://52.77.255.97:444,AMAZON-02
 https://139.180.155.36:50000,139.180.155.36,50000,https,403 Forbidden,,SG,Singapore,https://139.180.155.36:50000,AS-CHOOPA
+https://3.0.55.50:10000,3.0.55.50,10000,https,403 Forbidden,,SG,Singapore,https://3.0.55.50:10000,AMAZON-02
+https://129.150.52.47:8899,129.150.52.47,8899,https,403 Forbidden,,SG,Singapore,https://129.150.52.47:8899,ORACLE-BMC-31898
+https://47.236.251.247:5555,47.236.251.247,5555,https,403 Forbidden,,SG,Singapore,https://47.236.251.247:5555,"Alibaba US Technology Co., Ltd."
+https://13.229.105.93:8888,13.229.105.93,8888,https,403 Forbidden,,SG,Singapore,https://13.229.105.93:8888,AMAZON-02
 https://101.32.170.155:60000,101.32.170.155,60000,https,403 Forbidden,,SG,Singapore,https://101.32.170.155:60000,"Tencent Building, Kejizhongyi Avenue"
 139.162.60.160:40000,139.162.60.160,40000,http,,,SG,Singapore,http://139.162.60.160:40000,Akamai Connected Cloud
+https://8.219.73.186:19888,8.219.73.186,19888,https,403 Forbidden,,SG,Singapore,https://8.219.73.186:19888,"Alibaba US Technology Co., Ltd."
 https://34.142.238.22:10002,34.142.238.22,10002,https,403 Forbidden,,SG,Singapore,https://34.142.238.22:10002,GOOGLE-CLOUD-PLATFORM
+https://8.219.72.13:3183,8.219.72.13,3183,https,403 Forbidden,,SG,Singapore,https://8.219.72.13:3183,"Alibaba US Technology Co., Ltd."
 129.227.68.11:8888,129.227.68.11,8888,http,,,SG,Singapore,http://129.227.68.11:8888,ZEN-ECN
 https://43.156.59.66:3138,43.156.59.66,3138,https,403 Forbidden,,SG,Singapore,https://43.156.59.66:3138,"Tencent Building, Kejizhongyi Avenue"
+https://47.241.189.75:3080,47.241.189.75,3080,https,403 Forbidden,,SG,Singapore,https://47.241.189.75:3080,"Alibaba US Technology Co., Ltd."
+https://8.219.160.181:3080,8.219.160.181,3080,https,403 Forbidden,,SG,Singapore,https://8.219.160.181:3080,"Alibaba US Technology Co., Ltd."
+https://54.179.116.1:999,54.179.116.1,999,https,Access Forbidden,,SG,Singapore,https://54.179.116.1:999,AMAZON-02
+https://54.179.153.240:999,54.179.153.240,999,https,Access Forbidden,,SG,Singapore,https://54.179.153.240:999,AMAZON-02
+https://47.236.246.218:2345,47.236.246.218,2345,https,403 Forbidden,,SG,Singapore,https://47.236.246.218:2345,"Alibaba US Technology Co., Ltd."
 192.46.230.180:40000,192.46.230.180,40000,http,,,SG,Singapore,http://192.46.230.180:40000,Akamai Connected Cloud
 172.104.160.157:40000,172.104.160.157,40000,http,,,SG,Singapore,http://172.104.160.157:40000,Akamai Connected Cloud
 https://103.160.100.88:10001,103.160.100.88,10001,https,403 Forbidden,,SG,Singapore,https://103.160.100.88:10001,
+https://8.222.212.110:1103,8.222.212.110,1103,https,403 Forbidden,,SG,Singapore,https://8.222.212.110:1103,"Alibaba US Technology Co., Ltd."
 https://129.226.158.125:8088,129.226.158.125,8088,https,403 Forbidden,,SG,Singapore,https://129.226.158.125:8088,"Tencent Building, Kejizhongyi Avenue"
 https://206.189.83.83:7443,206.189.83.83,7443,https,403 Forbidden,,SG,Singapore,https://206.189.83.83:7443,DIGITALOCEAN-ASN
+https://138.2.64.175:6443,138.2.64.175,6443,https,403 Forbidden,,SG,Singapore,https://138.2.64.175:6443,ORACLE-BMC-31898
 43.175.251.155:90,43.175.251.155,90,http,Attention Required! | Cloudflare,,SG,Singapore,http://43.175.251.155:90,
 https://103.192.178.245:53400,103.192.178.245,53400,https,403 Forbidden,,SG,Singapore,https://103.192.178.245:53400,HostUS
 https://194.156.163.223:10443,194.156.163.223,10443,https,403 Forbidden,,SG,Singapore,https://194.156.163.223:10443,"Misaka Network, Inc."
 https://94.237.77.100:1414,94.237.77.100,1414,https,Access Forbidden,,SG,Singapore,https://94.237.77.100:1414,UpCloud Ltd
 https://111.119.213.65:4433,111.119.213.65,4433,https,403 Forbidden,,SG,Singapore,https://111.119.213.65:4433,
 https://139.180.191.96:31001,139.180.191.96,31001,https,403 Forbidden,,SG,Singapore,https://139.180.191.96:31001,AS-CHOOPA
+https://18.143.182.218:55555,18.143.182.218,55555,https,403 Forbidden,,SG,Singapore,https://18.143.182.218:55555,AMAZON-02
 https://103.248.228.233:2069,103.248.228.233,2069,https,403 Forbidden,,SG,Singapore,https://103.248.228.233:2069,
 https://119.13.107.39:1188,119.13.107.39,1188,https,403 Forbidden,,SG,Singapore,https://119.13.107.39:1188,HUAWEI CLOUDS
 https://111.119.207.137:12345,111.119.207.137,12345,https,403 Forbidden,,SG,Singapore,https://111.119.207.137:12345,
 https://43.245.198.243:10443,43.245.198.243,10443,https,403 Forbidden,,SG,Singapore,https://43.245.198.243:10443,IPTELECOM Global
 https://52.163.250.94:10000,52.163.250.94,10000,https,403 Forbidden,,SG,Singapore,https://52.163.250.94:10000,MICROSOFT-CORP-MSN-AS-BLOCK
+https://18.138.189.188:20002,18.138.189.188,20002,https,403 Forbidden,,SG,Singapore,https://18.138.189.188:20002,AMAZON-02
 https://129.226.215.43:15443,129.226.215.43,15443,https,403 Forbidden,,SG,Singapore,https://129.226.215.43:15443,"Tencent Building, Kejizhongyi Avenue"
+https://47.245.125.68:7180,47.245.125.68,7180,https,403 Forbidden,,SG,Singapore,https://47.245.125.68:7180,"Alibaba US Technology Co., Ltd."
+https://47.236.20.219:10005,47.236.20.219,10005,https,403 Forbidden,,SG,Singapore,https://47.236.20.219:10005,"Alibaba US Technology Co., Ltd."
+https://8.219.102.24:55555,8.219.102.24,55555,https,403 Forbidden,,SG,Singapore,https://8.219.102.24:55555,"Alibaba US Technology Co., Ltd."
 https://192.124.176.126:7777,192.124.176.126,7777,https,403 Forbidden,,SG,Singapore,https://192.124.176.126:7777,LLC Baxet
 43.159.114.136:111,43.159.114.136,111,http,,,SG,Singapore,http://43.159.114.136:111,ACE
 https://129.226.215.43:28443,129.226.215.43,28443,https,403 Forbidden,,SG,Singapore,https://129.226.215.43:28443,"Tencent Building, Kejizhongyi Avenue"
@@ -6798,6 +6857,7 @@ https://124.156.203.197:8825,124.156.203.197,8825,https,403 Forbidden,,SG,Singap
 https://150.109.24.233:6666,150.109.24.233,6666,https,403 Forbidden,,SG,Singapore,https://150.109.24.233:6666,"Tencent Building, Kejizhongyi Avenue"
 43.175.214.72:111,43.175.214.72,111,http,,,SG,Singapore,http://43.175.214.72:111,
 43.159.115.135:111,43.159.115.135,111,http,,,SG,Singapore,http://43.159.115.135:111,ACE
+https://13.213.54.99:9010,13.213.54.99,9010,https,403 Forbidden,,SG,Singapore,https://13.213.54.99:9010,AMAZON-02
 150.109.132.74:800,150.109.132.74,800,http,,,SG,Singapore,http://150.109.132.74:800,"Tencent Building, Kejizhongyi Avenue"
 https://103.179.44.175:45677,103.179.44.175,45677,https,403 Forbidden,,SG,Singapore,https://103.179.44.175:45677,WebHorizon Internet Services
 https://27.0.234.9:16020,27.0.234.9,16020,https,403 Forbidden,,SG,Singapore,https://27.0.234.9:16020,WebHorizon Internet Services
@@ -6807,19 +6867,29 @@ https://175.156.128.188:8010,175.156.128.188,8010,https,403 Forbidden,,SG,Singap
 https://20.184.18.99:51005,20.184.18.99,51005,https,403 Forbidden,,SG,Singapore,https://20.184.18.99:51005,MICROSOFT-CORP-MSN-AS-BLOCK
 139.162.16.150:40000,139.162.16.150,40000,http,,,SG,Singapore,http://139.162.16.150:40000,Akamai Connected Cloud
 139.162.16.113:40000,139.162.16.113,40000,http,,,SG,Singapore,http://139.162.16.113:40000,Akamai Connected Cloud
+https://8.222.173.58:37777,8.222.173.58,37777,https,403 Forbidden,,SG,Singapore,https://8.222.173.58:37777,"Alibaba US Technology Co., Ltd."
 https://43.156.128.254:8090,43.156.128.254,8090,https,403 Forbidden,,SG,Singapore,https://43.156.128.254:8090,"Tencent Building, Kejizhongyi Avenue"
 https://45.76.160.124:444,45.76.160.124,444,https,403 Forbidden,,SG,Singapore,https://45.76.160.124:444,AS-CHOOPA
 https://101.44.160.69:10088,101.44.160.69,10088,https,403 Forbidden,,SG,Singapore,https://101.44.160.69:10088,HUAWEI CLOUDS
+https://13.212.220.206:2024,13.212.220.206,2024,https,403 Forbidden,,SG,Singapore,https://13.212.220.206:2024,AMAZON-02
 128.199.163.61:3000,128.199.163.61,3000,http,Forbidden,,SG,Singapore,http://128.199.163.61:3000,DIGITALOCEAN-ASN
 157.245.53.80:179,157.245.53.80,179,http,,,SG,Singapore,http://157.245.53.80:179,DIGITALOCEAN-ASN
 https://43.134.111.233:18067,43.134.111.233,18067,https,403 Forbidden,,SG,Singapore,https://43.134.111.233:18067,"Tencent Building, Kejizhongyi Avenue"
 https://8.223.71.219:8123,8.223.71.219,8123,https,403 Forbidden,,SG,Singapore,https://8.223.71.219:8123,
+https://8.219.170.57:8000,8.219.170.57,8000,https,403 Forbidden,,SG,Singapore,https://8.219.170.57:8000,"Alibaba US Technology Co., Ltd."
+https://8.222.159.134:12483,8.222.159.134,12483,https,403 Forbidden,,SG,Singapore,https://8.222.159.134:12483,"Alibaba US Technology Co., Ltd."
+https://8.222.159.134:12314,8.222.159.134,12314,https,403 Forbidden,,SG,Singapore,https://8.222.159.134:12314,"Alibaba US Technology Co., Ltd."
+https://47.236.146.58:6666,47.236.146.58,6666,https,403 Forbidden,,SG,Singapore,https://47.236.146.58:6666,"Alibaba US Technology Co., Ltd."
+https://8.219.158.195:5555,8.219.158.195,5555,https,403 Forbidden,,SG,Singapore,https://8.219.158.195:5555,"Alibaba US Technology Co., Ltd."
+https://168.138.189.245:4431,168.138.189.245,4431,https,403 Forbidden,,SG,Singapore,https://168.138.189.245:4431,ORACLE-BMC-31898
 43.159.113.128:111,43.159.113.128,111,http,,,SG,Singapore,http://43.159.113.128:111,ACE
 https://206.189.149.4:8113,206.189.149.4,8113,https,403 Forbidden,,SG,Singapore,https://206.189.149.4:8113,DIGITALOCEAN-ASN
+https://8.222.171.165:30015,8.222.171.165,30015,https,403 Forbidden,,SG,Singapore,https://8.222.171.165:30015,"Alibaba US Technology Co., Ltd."
 https://167.172.68.150:26,167.172.68.150,26,https,403 Forbidden,,SG,Singapore,https://167.172.68.150:26,DIGITALOCEAN-ASN
 https://159.223.32.39:26,159.223.32.39,26,https,403 Forbidden,,SG,Singapore,https://159.223.32.39:26,DIGITALOCEAN-ASN
 https://165.22.251.103:26,165.22.251.103,26,https,403 Forbidden,,SG,Singapore,https://165.22.251.103:26,DIGITALOCEAN-ASN
 https://68.183.233.215:26,68.183.233.215,26,https,403 Forbidden,,SG,Singapore,https://68.183.233.215:26,DIGITALOCEAN-ASN
+https://138.2.79.97:8843,138.2.79.97,8843,https,403 Forbidden,,SG,Singapore,https://138.2.79.97:8843,ORACLE-BMC-31898
 https://172.104.172.121:18443,172.104.172.121,18443,https,403 Forbidden,,SG,Singapore,https://172.104.172.121:18443,Akamai Connected Cloud
 https://103.3.61.43:18443,103.3.61.43,18443,https,403 Forbidden,,SG,Singapore,https://103.3.61.43:18443,Akamai Connected Cloud
 https://172.105.125.10:18443,172.105.125.10,18443,https,403 Forbidden,,SG,Singapore,https://172.105.125.10:18443,Akamai Connected Cloud
@@ -6839,16 +6909,22 @@ https://51.79.249.214:2001,51.79.249.214,2001,https,403 Forbidden,,SG,Singapore,
 https://139.99.27.53:2001,139.99.27.53,2001,https,403 Forbidden,,SG,Singapore,https://139.99.27.53:2001,OVH SAS
 https://139.99.27.55:2001,139.99.27.55,2001,https,403 Forbidden,,SG,Singapore,https://139.99.27.55:2001,OVH SAS
 https://139.99.27.65:2001,139.99.27.65,2001,https,403 Forbidden,,SG,Singapore,https://139.99.27.65:2001,OVH SAS
+https://8.219.124.135:2558,8.219.124.135,2558,https,403 Forbidden,,SG,Singapore,https://8.219.124.135:2558,"Alibaba US Technology Co., Ltd."
 https://43.153.224.111:1955,43.153.224.111,1955,https,403 Forbidden,,SG,Singapore,https://43.153.224.111:1955,"Tencent Building, Kejizhongyi Avenue"
 51.79.185.150:1291,51.79.185.150,1291,http,Attention Required! | Cloudflare,,SG,Singapore,http://51.79.185.150:1291,OVH SAS
 https://157.230.46.8:5432,157.230.46.8,5432,https,403 Forbidden,,SG,Singapore,https://157.230.46.8:5432,DIGITALOCEAN-ASN
+https://54.255.80.89:40000,54.255.80.89,40000,https,403 Forbidden,,SG,Singapore,https://54.255.80.89:40000,AMAZON-02
+https://168.138.171.250:12345,168.138.171.250,12345,https,403 Forbidden,,SG,Singapore,https://168.138.171.250:12345,ORACLE-BMC-31898
 43.175.253.57:90,43.175.253.57,90,http,,,SG,Singapore,http://43.175.253.57:90,
 43.175.252.57:90,43.175.252.57,90,http,,,SG,Singapore,http://43.175.252.57:90,
 139.162.15.144:40000,139.162.15.144,40000,http,,,SG,Singapore,http://139.162.15.144:40000,Akamai Connected Cloud
 192.46.229.150:40000,192.46.229.150,40000,http,,,SG,Singapore,http://192.46.229.150:40000,Akamai Connected Cloud
 https://139.180.191.96:51003,139.180.191.96,51003,https,403 Forbidden,,SG,Singapore,https://139.180.191.96:51003,AS-CHOOPA
 https://139.180.191.96:51001,139.180.191.96,51001,https,403 Forbidden,,SG,Singapore,https://139.180.191.96:51001,AS-CHOOPA
+https://138.2.67.121:44400,138.2.67.121,44400,https,403 Forbidden,,SG,Singapore,https://138.2.67.121:44400,ORACLE-BMC-31898
 139.162.59.217:40000,139.162.59.217,40000,http,,,SG,Singapore,http://139.162.59.217:40000,Akamai Connected Cloud
+https://18.139.136.71:44333,18.139.136.71,44333,https,403 Forbidden,,SG,Singapore,https://18.139.136.71:44333,AMAZON-02
+https://54.255.176.173:40000,54.255.176.173,40000,https,403 Forbidden,,SG,Singapore,https://54.255.176.173:40000,AMAZON-02
 139.162.59.191:40005,139.162.59.191,40005,http,,,SG,Singapore,http://139.162.59.191:40005,Akamai Connected Cloud
 139.162.59.166:40005,139.162.59.166,40005,http,,,SG,Singapore,http://139.162.59.166:40005,Akamai Connected Cloud
 139.162.59.217:40005,139.162.59.217,40005,http,,,SG,Singapore,http://139.162.59.217:40005,Akamai Connected Cloud
@@ -6858,17 +6934,27 @@ https://139.180.191.96:51001,139.180.191.96,51001,https,403 Forbidden,,SG,Singap
 139.162.15.144:40005,139.162.15.144,40005,http,,,SG,Singapore,http://139.162.15.144:40005,Akamai Connected Cloud
 139.162.59.234:40005,139.162.59.234,40005,http,,,SG,Singapore,http://139.162.59.234:40005,Akamai Connected Cloud
 139.162.59.233:40005,139.162.59.233,40005,http,,,SG,Singapore,http://139.162.59.233:40005,Akamai Connected Cloud
+https://54.179.63.119:40000,54.179.63.119,40000,https,403 Forbidden,,SG,Singapore,https://54.179.63.119:40000,AMAZON-02
+https://54.254.127.76:40000,54.254.127.76,40000,https,403 Forbidden,,SG,Singapore,https://54.254.127.76:40000,AMAZON-02
 167.172.5.201:38080,167.172.5.201,38080,http,,,SG,Singapore,http://167.172.5.201:38080,DIGITALOCEAN-ASN
 165.22.253.8:38080,165.22.253.8,38080,http,,,SG,Singapore,http://165.22.253.8:38080,DIGITALOCEAN-ASN
 139.162.28.18:40000,139.162.28.18,40000,http,,,SG,Singapore,http://139.162.28.18:40000,Akamai Connected Cloud
 45.118.133.209:40000,45.118.133.209,40000,http,,,SG,Singapore,http://45.118.133.209:40000,Akamai Connected Cloud
+https://46.51.220.22:22222,46.51.220.22,22222,https,403 Forbidden,,SG,Singapore,https://46.51.220.22:22222,AMAZON-02
 172.104.41.165:40000,172.104.41.165,40000,http,,,SG,Singapore,http://172.104.41.165:40000,Akamai Connected Cloud
 139.162.59.166:40000,139.162.59.166,40000,http,,,SG,Singapore,http://139.162.59.166:40000,Akamai Connected Cloud
 139.162.59.234:40000,139.162.59.234,40000,http,,,SG,Singapore,http://139.162.59.234:40000,Akamai Connected Cloud
 172.104.44.26:40000,172.104.44.26,40000,http,,,SG,Singapore,http://172.104.44.26:40000,Akamai Connected Cloud
 172.104.44.136:40000,172.104.44.136,40000,http,,,SG,Singapore,http://172.104.44.136:40000,Akamai Connected Cloud
 139.177.187.125:40000,139.177.187.125,40000,http,,,SG,Singapore,http://139.177.187.125:40000,Akamai Connected Cloud
+https://3.0.242.57:30106,3.0.242.57,30106,https,403 Forbidden,,SG,Singapore,https://3.0.242.57:30106,AMAZON-02
+https://18.141.140.120:30019,18.141.140.120,30019,https,403 Forbidden,,SG,Singapore,https://18.141.140.120:30019,AMAZON-02
 https://43.228.124.234:4433,43.228.124.234,4433,https,403 Forbidden,,SG,Singapore,https://43.228.124.234:4433,Layerstack Limited
+https://18.141.140.120:30011,18.141.140.120,30011,https,403 Forbidden,,SG,Singapore,https://18.141.140.120:30011,AMAZON-02
+https://18.138.58.109:5432,18.138.58.109,5432,https,403 Forbidden,,SG,Singapore,https://18.138.58.109:5432,AMAZON-02
+https://8.222.130.241:3523,8.222.130.241,3523,https,403 Forbidden,,SG,Singapore,https://8.222.130.241:3523,"Alibaba US Technology Co., Ltd."
+https://8.222.159.199:3523,8.222.159.199,3523,https,403 Forbidden,,SG,Singapore,https://8.222.159.199:3523,"Alibaba US Technology Co., Ltd."
+https://138.2.79.97:8883,138.2.79.97,8883,https,403 Forbidden,,SG,Singapore,https://138.2.79.97:8883,ORACLE-BMC-31898
 https://206.238.60.233:9443,206.238.60.233,9443,https,403 Forbidden,,SG,Singapore,https://206.238.60.233:9443,TERAEXCH
 https://206.238.60.194:9443,206.238.60.194,9443,https,403 Forbidden,,SG,Singapore,https://206.238.60.194:9443,TERAEXCH
 https://206.238.60.203:9443,206.238.60.203,9443,https,403 Forbidden,,SG,Singapore,https://206.238.60.203:9443,TERAEXCH
@@ -6934,9 +7020,16 @@ https://206.238.16.206:9443,206.238.16.206,9443,https,403 Forbidden,,SG,Singapor
 https://206.238.16.247:9443,206.238.16.247,9443,https,403 Forbidden,,SG,Singapore,https://206.238.16.247:9443,TERAEXCH
 https://206.238.16.218:9443,206.238.16.218,9443,https,403 Forbidden,,SG,Singapore,https://206.238.16.218:9443,TERAEXCH
 https://213.35.122.203:19017,213.35.122.203,19017,https,403 Forbidden,,SG,Singapore,https://213.35.122.203:19017,
+https://54.169.111.227:18098,54.169.111.227,18098,https,403 Forbidden,,SG,Singapore,https://54.169.111.227:18098,AMAZON-02
+https://54.251.164.81:40000,54.251.164.81,40000,https,403 Forbidden,,SG,Singapore,https://54.251.164.81:40000,AMAZON-02
+https://47.128.76.213:40000,47.128.76.213,40000,https,403 Forbidden,,SG,Singapore,https://47.128.76.213:40000,AMAZON-02
 https://116.88.95.83:18089,116.88.95.83,18089,https,403 Forbidden,,SG,Singapore,https://116.88.95.83:18089,Starhub Ltd
+https://52.221.226.160:40000,52.221.226.160,40000,https,403 Forbidden,,SG,Singapore,https://52.221.226.160:40000,AMAZON-02
+https://54.179.198.144:8649,54.179.198.144,8649,https,403 Forbidden,,SG,Singapore,https://54.179.198.144:8649,AMAZON-02
 https://103.25.202.18:18061,103.25.202.18,18061,https,403 Forbidden,,SG,Singapore,https://103.25.202.18:18061,SimplerCloud Pte Ltd
+https://8.222.222.68:8000,8.222.222.68,8000,https,403 Forbidden,,SG,Singapore,https://8.222.222.68:8000,"Alibaba US Technology Co., Ltd."
 27.0.234.9:17102,27.0.234.9,17102,http,,,SG,Singapore,http://27.0.234.9:17102,WebHorizon Internet Services
+https://168.138.179.11:16443,168.138.179.11,16443,https,403 Forbidden,,SG,Singapore,https://168.138.179.11:16443,ORACLE-BMC-31898
 https://34.124.137.142:16097,34.124.137.142,16097,https,403 Forbidden,,SG,Singapore,https://34.124.137.142:16097,GOOGLE-CLOUD-PLATFORM
 https://178.128.50.220:16016,178.128.50.220,16016,https,403 Forbidden,,SG,Singapore,https://178.128.50.220:16016,DIGITALOCEAN-ASN
 172.104.46.184:40000,172.104.46.184,40000,http,,,SG,Singapore,http://172.104.46.184:40000,Akamai Connected Cloud
@@ -6944,17 +7037,43 @@ https://103.179.44.7:14403,103.179.44.7,14403,https,403 Forbidden,,SG,Singapore,
 172.104.53.144:40000,172.104.53.144,40000,http,,,SG,Singapore,http://172.104.53.144:40000,Akamai Connected Cloud
 139.162.59.233:40000,139.162.59.233,40000,http,,,SG,Singapore,http://139.162.59.233:40000,Akamai Connected Cloud
 https://139.180.209.53:8649,139.180.209.53,8649,https,403 Forbidden,,SG,Singapore,https://139.180.209.53:8649,AS-CHOOPA
+https://52.77.209.175:40000,52.77.209.175,40000,https,403 Forbidden,,SG,Singapore,https://52.77.209.175:40000,AMAZON-02
+https://52.77.233.168:40000,52.77.233.168,40000,https,403 Forbidden,,SG,Singapore,https://52.77.233.168:40000,AMAZON-02
 https://128.199.230.202:13084,128.199.230.202,13084,https,403 Forbidden,,SG,Singapore,https://128.199.230.202:13084,DIGITALOCEAN-ASN
+https://54.254.57.9:40000,54.254.57.9,40000,https,403 Forbidden,,SG,Singapore,https://54.254.57.9:40000,AMAZON-02
 172.105.112.181:40000,172.105.112.181,40000,http,,,SG,Singapore,http://172.105.112.181:40000,Akamai Connected Cloud
 172.105.112.155:40000,172.105.112.155,40000,http,,,SG,Singapore,http://172.105.112.155:40000,Akamai Connected Cloud
 172.105.112.170:40000,172.105.112.170,40000,http,,,SG,Singapore,http://172.105.112.170:40000,Akamai Connected Cloud
 172.105.112.171:40000,172.105.112.171,40000,http,,,SG,Singapore,http://172.105.112.171:40000,Akamai Connected Cloud
+https://13.215.155.87:10002,13.215.155.87,10002,https,403 Forbidden,,SG,Singapore,https://13.215.155.87:10002,AMAZON-02
+https://18.141.140.120:30003,18.141.140.120,30003,https,403 Forbidden,,SG,Singapore,https://18.141.140.120:30003,AMAZON-02
+https://13.215.174.182:40000,13.215.174.182,40000,https,403 Forbidden,,SG,Singapore,https://13.215.174.182:40000,AMAZON-02
+https://54.254.146.151:40000,54.254.146.151,40000,https,403 Forbidden,,SG,Singapore,https://54.254.146.151:40000,AMAZON-02
 https://68.183.238.242:8000,68.183.238.242,8000,https,403 Forbidden,,SG,Singapore,https://68.183.238.242:8000,DIGITALOCEAN-ASN
+https://3.0.108.221:9443,3.0.108.221,9443,https,403 Forbidden,,SG,Singapore,https://3.0.108.221:9443,AMAZON-02
+https://47.129.232.249:40000,47.129.232.249,40000,https,403 Forbidden,,SG,Singapore,https://47.129.232.249:40000,AMAZON-02
+https://18.142.51.52:40000,18.142.51.52,40000,https,403 Forbidden,,SG,Singapore,https://18.142.51.52:40000,AMAZON-02
+https://13.215.46.44:40000,13.215.46.44,40000,https,403 Forbidden,,SG,Singapore,https://13.215.46.44:40000,AMAZON-02
+https://18.143.164.254:40000,18.143.164.254,40000,https,403 Forbidden,,SG,Singapore,https://18.143.164.254:40000,AMAZON-02
 https://146.190.93.76:12369,146.190.93.76,12369,https,403 Forbidden,,SG,Singapore,https://146.190.93.76:12369,DIGITALOCEAN-ASN
+https://18.142.186.153:40000,18.142.186.153,40000,https,403 Forbidden,,SG,Singapore,https://18.142.186.153:40000,AMAZON-02
+https://18.140.55.42:40000,18.140.55.42,40000,https,403 Forbidden,,SG,Singapore,https://18.140.55.42:40000,AMAZON-02
+https://54.179.70.166:40000,54.179.70.166,40000,https,403 Forbidden,,SG,Singapore,https://54.179.70.166:40000,AMAZON-02
+https://54.251.231.113:40000,54.251.231.113,40000,https,403 Forbidden,,SG,Singapore,https://54.251.231.113:40000,AMAZON-02
 https://159.223.50.250:5432,159.223.50.250,5432,https,403 Forbidden,,SG,Singapore,https://159.223.50.250:5432,DIGITALOCEAN-ASN
+https://3.1.213.29:40000,3.1.213.29,40000,https,403 Forbidden,,SG,Singapore,https://3.1.213.29:40000,AMAZON-02
+https://54.255.78.55:40000,54.255.78.55,40000,https,403 Forbidden,,SG,Singapore,https://54.255.78.55:40000,AMAZON-02
+https://13.213.31.120:40000,13.213.31.120,40000,https,403 Forbidden,,SG,Singapore,https://13.213.31.120:40000,AMAZON-02
 139.162.59.191:40000,139.162.59.191,40000,http,,,SG,Singapore,http://139.162.59.191:40000,Akamai Connected Cloud
+https://54.179.151.190:40000,54.179.151.190,40000,https,403 Forbidden,,SG,Singapore,https://54.179.151.190:40000,AMAZON-02
+https://54.179.175.132:40000,54.179.175.132,40000,https,403 Forbidden,,SG,Singapore,https://54.179.175.132:40000,AMAZON-02
+https://13.250.47.125:40000,13.250.47.125,40000,https,403 Forbidden,,SG,Singapore,https://13.250.47.125:40000,AMAZON-02
+https://18.142.238.244:40000,18.142.238.244,40000,https,403 Forbidden,,SG,Singapore,https://18.142.238.244:40000,AMAZON-02
+https://8.222.233.183:12321,8.222.233.183,12321,https,403 Forbidden,,SG,Singapore,https://8.222.233.183:12321,"Alibaba US Technology Co., Ltd."
+https://54.255.140.132:7777,54.255.140.132,7777,https,403 Forbidden,,SG,Singapore,https://54.255.140.132:7777,AMAZON-02
 https://52.163.116.40:9000,52.163.116.40,9000,https,403 Forbidden,,SG,Singapore,https://52.163.116.40:9000,MICROSOFT-CORP-MSN-AS-BLOCK
 139.162.57.59:40001,139.162.57.59,40001,http,,,SG,Singapore,http://139.162.57.59:40001,Akamai Connected Cloud
+https://52.77.90.207:8444,52.77.90.207,8444,https,403 Forbidden,,SG,Singapore,https://52.77.90.207:8444,AMAZON-02
 172.104.166.102:40001,172.104.166.102,40001,http,,,SG,Singapore,http://172.104.166.102:40001,Akamai Connected Cloud
 139.162.49.112:40000,139.162.49.112,40000,http,,,SG,Singapore,http://139.162.49.112:40000,Akamai Connected Cloud
 139.162.1.26:40000,139.162.1.26,40000,http,,,SG,Singapore,http://139.162.1.26:40000,Akamai Connected Cloud
@@ -6963,19 +7082,28 @@ https://52.163.116.40:9000,52.163.116.40,9000,https,403 Forbidden,,SG,Singapore,
 139.162.35.253:40000,139.162.35.253,40000,http,,,SG,Singapore,http://139.162.35.253:40000,Akamai Connected Cloud
 139.162.35.73:40000,139.162.35.73,40000,http,,,SG,Singapore,http://139.162.35.73:40000,Akamai Connected Cloud
 139.162.33.208:40000,139.162.33.208,40000,http,,,SG,Singapore,http://139.162.33.208:40000,Akamai Connected Cloud
+https://47.236.12.37:11443,47.236.12.37,11443,https,403 Forbidden,,SG,Singapore,https://47.236.12.37:11443,"Alibaba US Technology Co., Ltd."
 139.162.35.89:40000,139.162.35.89,40000,http,,,SG,Singapore,http://139.162.35.89:40000,Akamai Connected Cloud
 172.104.166.102:40000,172.104.166.102,40000,http,,,SG,Singapore,http://172.104.166.102:40000,Akamai Connected Cloud
 139.162.9.84:40000,139.162.9.84,40000,http,,,SG,Singapore,http://139.162.9.84:40000,Akamai Connected Cloud
 172.104.186.205:40000,172.104.186.205,40000,http,,,SG,Singapore,http://172.104.186.205:40000,Akamai Connected Cloud
 139.162.59.166:40001,139.162.59.166,40001,http,,,SG,Singapore,http://139.162.59.166:40001,Akamai Connected Cloud
+https://46.137.239.196:40000,46.137.239.196,40000,https,403 Forbidden,,SG,Singapore,https://46.137.239.196:40000,AMAZON-02
 139.162.61.45:40000,139.162.61.45,40000,http,,,SG,Singapore,http://139.162.61.45:40000,Akamai Connected Cloud
 139.162.1.139:40000,139.162.1.139,40000,http,,,SG,Singapore,http://139.162.1.139:40000,Akamai Connected Cloud
 https://103.248.228.192:10002,103.248.228.192,10002,https,403 Forbidden,,SG,Singapore,https://103.248.228.192:10002,
+https://8.219.95.43:10008,8.219.95.43,10008,https,403 Forbidden,,SG,Singapore,https://8.219.95.43:10008,"Alibaba US Technology Co., Ltd."
 https://45.76.147.187:9992,45.76.147.187,9992,https,403 Forbidden,,SG,Singapore,https://45.76.147.187:9992,AS-CHOOPA
+https://18.141.10.169:5432,18.141.10.169,5432,https,403 Forbidden,,SG,Singapore,https://18.141.10.169:5432,AMAZON-02
 https://188.166.221.70:5432,188.166.221.70,5432,https,403 Forbidden,,SG,Singapore,https://188.166.221.70:5432,DIGITALOCEAN-ASN
 https://128.199.91.43:9443,128.199.91.43,9443,https,Just a moment...,,SG,Singapore,https://128.199.91.43:9443,DIGITALOCEAN-ASN
+https://13.229.119.35:88,13.229.119.35,88,https,403 Forbidden,,SG,Singapore,https://13.229.119.35:88,AMAZON-02
 https://172.104.169.213:8888,172.104.169.213,8888,https,403 Forbidden,,SG,Singapore,https://172.104.169.213:8888,Akamai Connected Cloud
 https://43.134.187.193:8989,43.134.187.193,8989,https,403 Forbidden,,SG,Singapore,https://43.134.187.193:8989,"Tencent Building, Kejizhongyi Avenue"
+https://138.2.91.98:9711,138.2.91.98,9711,https,403 Forbidden,,SG,Singapore,https://138.2.91.98:9711,ORACLE-BMC-31898
+https://13.229.77.99:40000,13.229.77.99,40000,https,403 Forbidden,,SG,Singapore,https://13.229.77.99:40000,AMAZON-02
+https://52.221.180.1:40000,52.221.180.1,40000,https,403 Forbidden,,SG,Singapore,https://52.221.180.1:40000,AMAZON-02
+https://13.215.179.186:10002,13.215.179.186,10002,https,403 Forbidden,,SG,Singapore,https://13.215.179.186:10002,AMAZON-02
 174.138.21.225:5000,174.138.21.225,5000,http,403 Forbidden,,SG,Singapore,http://174.138.21.225:5000,DIGITALOCEAN-ASN
 35.240.184.147:8094,35.240.184.147,8094,http,,,SG,Singapore,http://35.240.184.147:8094,GOOGLE-CLOUD-PLATFORM
 https://4.193.168.162:8084,4.193.168.162,8084,https,403 Forbidden,,SG,Singapore,https://4.193.168.162:8084,MICROSOFT-CORP-MSN-AS-BLOCK
@@ -6985,26 +7113,53 @@ https://43.156.29.194:8817,43.156.29.194,8817,https,403 Forbidden,,SG,Singapore,
 https://43.134.66.62:8814,43.134.66.62,8814,https,403 Forbidden,,SG,Singapore,https://43.134.66.62:8814,"Tencent Building, Kejizhongyi Avenue"
 https://43.134.32.117:8807,43.134.32.117,8807,https,403 Forbidden,,SG,Singapore,https://43.134.32.117:8807,"Tencent Building, Kejizhongyi Avenue"
 https://43.134.177.75:8806,43.134.177.75,8806,https,403 Forbidden,,SG,Singapore,https://43.134.177.75:8806,"Tencent Building, Kejizhongyi Avenue"
+https://54.169.53.57:55555,54.169.53.57,55555,https,403 Forbidden,,SG,Singapore,https://54.169.53.57:55555,AMAZON-02
+https://18.141.160.4:8580,18.141.160.4,8580,https,403 Forbidden,,SG,Singapore,https://18.141.160.4:8580,AMAZON-02
+https://18.136.150.190:8548,18.136.150.190,8548,https,403 Forbidden,,SG,Singapore,https://18.136.150.190:8548,AMAZON-02
 https://43.156.119.123:58000,43.156.119.123,58000,https,403 Forbidden,,SG,Singapore,https://43.156.119.123:58000,"Tencent Building, Kejizhongyi Avenue"
 https://38.47.255.83:8085,38.47.255.83,8085,https,403 Forbidden,,SG,Singapore,https://38.47.255.83:8085,FD-298-8796
+https://13.229.243.175:40000,13.229.243.175,40000,https,403 Forbidden,,SG,Singapore,https://13.229.243.175:40000,AMAZON-02
+https://152.69.221.24:25565,152.69.221.24,25565,https,403 Forbidden,,SG,Singapore,https://152.69.221.24:25565,ORACLE-BMC-31898
 https://206.189.38.158:5432,206.189.38.158,5432,https,403 Forbidden,,SG,Singapore,https://206.189.38.158:5432,DIGITALOCEAN-ASN
 https://4.193.168.162:8083,4.193.168.162,8083,https,403 Forbidden,,SG,Singapore,https://4.193.168.162:8083,MICROSOFT-CORP-MSN-AS-BLOCK
+https://18.141.188.151:4444,18.141.188.151,4444,https,403 Forbidden,,SG,Singapore,https://18.141.188.151:4444,AMAZON-02
+https://54.255.150.245:88,54.255.150.245,88,https,403 Forbidden,,SG,Singapore,https://54.255.150.245:88,AMAZON-02
+https://18.142.252.115:40000,18.142.252.115,40000,https,403 Forbidden,,SG,Singapore,https://18.142.252.115:40000,AMAZON-02
+https://xjp.muyi666.uk:10443,158.178.246.55,10443,https,,muyi666.uk,SG,Singapore,https://xjp.muyi666.uk:10443,ORACLE-BMC-31898
 https://128.199.92.5:9443,128.199.92.5,9443,https,403 Forbidden,,SG,Singapore,https://128.199.92.5:9443,DIGITALOCEAN-ASN
 139.162.6.222:9092,139.162.6.222,9092,http,IRYO - Acceso denegado,,SG,Singapore,http://139.162.6.222:9092,Akamai Connected Cloud
 https://4.194.248.141:9443,4.194.248.141,9443,https,403 Forbidden,,SG,Singapore,https://4.194.248.141:9443,MICROSOFT-CORP-MSN-AS-BLOCK
+https://18.138.251.18:40000,18.138.251.18,40000,https,403 Forbidden,,SG,Singapore,https://18.138.251.18:40000,AMAZON-02
 https://20.184.33.198:40000,20.184.33.198,40000,https,403 Forbidden,,SG,Singapore,https://20.184.33.198:40000,MICROSOFT-CORP-MSN-AS-BLOCK
+https://47.129.45.70:40000,47.129.45.70,40000,https,403 Forbidden,,SG,Singapore,https://47.129.45.70:40000,AMAZON-02
 https://146.190.91.48:9443,146.190.91.48,9443,https,403 Forbidden,,SG,Singapore,https://146.190.91.48:9443,DIGITALOCEAN-ASN
+https://13.213.48.169:10001,13.213.48.169,10001,https,403 Forbidden,,SG,Singapore,https://13.213.48.169:10001,AMAZON-02
+https://8.219.88.41:6666,8.219.88.41,6666,https,403 Forbidden,,SG,Singapore,https://8.219.88.41:6666,"Alibaba US Technology Co., Ltd."
 https://194.127.193.65:12345,194.127.193.65,12345,https,403 Forbidden,,SG,Singapore,https://194.127.193.65:12345,Leaseweb Asia Pacific pte. ltd.
+https://152.69.210.254:4434,152.69.210.254,4434,https,403 Forbidden,,SG,Singapore,https://152.69.210.254:4434,ORACLE-BMC-31898
+https://47.241.218.205:445,47.241.218.205,445,https,403 Forbidden,,SG,Singapore,https://47.241.218.205:445,"Alibaba US Technology Co., Ltd."
 https://43.156.37.138:55555,43.156.37.138,55555,https,403 Forbidden,,SG,Singapore,https://43.156.37.138:55555,"Tencent Building, Kejizhongyi Avenue"
 https://35.240.234.18:12345,35.240.234.18,12345,https,403 Forbidden,,SG,Singapore,https://35.240.234.18:12345,GOOGLE-CLOUD-PLATFORM
+https://13.213.33.143:1080,13.213.33.143,1080,https,403 Forbidden,,SG,Singapore,https://13.213.33.143:1080,AMAZON-02
+https://13.250.104.19:40000,13.250.104.19,40000,https,403 Forbidden,,SG,Singapore,https://13.250.104.19:40000,AMAZON-02
 https://34.124.139.225:2107,34.124.139.225,2107,https,403 Forbidden,,SG,Singapore,https://34.124.139.225:2107,GOOGLE-CLOUD-PLATFORM
+https://13.213.54.99:9008,13.213.54.99,9008,https,403 Forbidden,,SG,Singapore,https://13.213.54.99:9008,AMAZON-02
+https://138.2.73.75:1443,138.2.73.75,1443,https,403 Forbidden,,SG,Singapore,https://138.2.73.75:1443,ORACLE-BMC-31898
+https://158.178.243.152:43333,158.178.243.152,43333,https,403 Forbidden,,SG,Singapore,https://158.178.243.152:43333,ORACLE-BMC-31898
+https://54.255.227.151:8000,54.255.227.151,8000,https,403 Forbidden,,SG,Singapore,https://54.255.227.151:8000,AMAZON-02
 https://207.148.73.95:8680,207.148.73.95,8680,https,403 Forbidden,,SG,Singapore,https://207.148.73.95:8680,AS-CHOOPA
 https://64.176.83.70:1688,64.176.83.70,1688,https,Access Forbidden,,SG,Singapore,https://64.176.83.70:1688,AS-CHOOPA
+https://54.254.254.89:488,54.254.254.89,488,https,403 Forbidden,,SG,Singapore,https://54.254.254.89:488,AMAZON-02
 35.240.184.147:8095,35.240.184.147,8095,http,,,SG,Singapore,http://35.240.184.147:8095,GOOGLE-CLOUD-PLATFORM
+https://54.151.227.201:4443,54.151.227.201,4443,https,403 Forbidden,,SG,Singapore,https://54.151.227.201:4443,AMAZON-02
+https://13.250.125.242:40000,13.250.125.242,40000,https,403 Forbidden,,SG,Singapore,https://13.250.125.242:40000,AMAZON-02
+https://129.150.58.149:10002,129.150.58.149,10002,https,403 Forbidden,,SG,Singapore,https://129.150.58.149:10002,ORACLE-BMC-31898
+https://52.221.183.50:10001,52.221.183.50,10001,https,403 Forbidden,,SG,Singapore,https://52.221.183.50:10001,AMAZON-02
 43.159.103.8:21,43.159.103.8,21,http,,,SG,Singapore,http://43.159.103.8:21,ACE
 43.159.102.7:21,43.159.102.7,21,http,,,SG,Singapore,http://43.159.102.7:21,ACE
 https://43.175.224.216:139,43.175.224.216,139,https,403 Forbidden,,SG,Singapore,https://43.175.224.216:139,
 https://43.175.224.216:3306,43.175.224.216,3306,https,403 Forbidden,,SG,Singapore,https://43.175.224.216:3306,
+8.222.242.151:8084,8.222.242.151,8084,http,,,SG,Singapore,http://8.222.242.151:8084,"Alibaba US Technology Co., Ltd."
 https://43.175.224.216:85,43.175.224.216,85,https,403 Forbidden,,SG,Singapore,https://43.175.224.216:85,
 https://43.175.224.216:88,43.175.224.216,88,https,403 Forbidden,,SG,Singapore,https://43.175.224.216:88,
 https://43.175.224.216:110,43.175.224.216,110,https,403 Forbidden,,SG,Singapore,https://43.175.224.216:110,
@@ -7017,10 +7172,19 @@ https://4.194.152.184:12345,4.194.152.184,12345,https,403 Forbidden,,SG,Singapor
 https://43.175.224.216:1024,43.175.224.216,1024,https,403 Forbidden,,SG,Singapore,https://43.175.224.216:1024,
 https://43.175.224.216:993,43.175.224.216,993,https,403 Forbidden,,SG,Singapore,https://43.175.224.216:993,
 https://43.175.224.216:888,43.175.224.216,888,https,403 Forbidden,,SG,Singapore,https://43.175.224.216:888,
+https://13.212.212.102:40000,13.212.212.102,40000,https,403 Forbidden,,SG,Singapore,https://13.212.212.102:40000,AMAZON-02
 https://52.230.7.3:40000,52.230.7.3,40000,https,403 Forbidden,,SG,Singapore,https://52.230.7.3:40000,MICROSOFT-CORP-MSN-AS-BLOCK
+https://129.150.53.22:19015,129.150.53.22,19015,https,403 Forbidden,,SG,Singapore,https://129.150.53.22:19015,ORACLE-BMC-31898
+https://152.69.223.102:19016,152.69.223.102,19016,https,403 Forbidden,,SG,Singapore,https://152.69.223.102:19016,ORACLE-BMC-31898
 https://139.177.185.61:10080,139.177.185.61,10080,https,403 Forbidden,,SG,Singapore,https://139.177.185.61:10080,Akamai Connected Cloud
+https://3.0.20.9:40000,3.0.20.9,40000,https,403 Forbidden,,SG,Singapore,https://3.0.20.9:40000,AMAZON-02
+https://13.229.247.16:40000,13.229.247.16,40000,https,403 Forbidden,,SG,Singapore,https://13.229.247.16:40000,AMAZON-02
+https://52.221.128.124:50002,52.221.128.124,50002,https,403 Forbidden,,SG,Singapore,https://52.221.128.124:50002,AMAZON-02
+https://8.222.184.90:45000,8.222.184.90,45000,https,403 Forbidden,,SG,Singapore,https://8.222.184.90:45000,"Alibaba US Technology Co., Ltd."
 https://178.128.97.69:8004,178.128.97.69,8004,https,403 Forbidden,,SG,Singapore,https://178.128.97.69:8004,DIGITALOCEAN-ASN
 https://35.240.128.114:444,35.240.128.114,444,https,403 Forbidden,,SG,Singapore,https://35.240.128.114:444,GOOGLE-CLOUD-PLATFORM
+https://54.255.33.81:40000,54.255.33.81,40000,https,403 Forbidden,,SG,Singapore,https://54.255.33.81:40000,AMAZON-02
+https://52.77.208.134:40000,52.77.208.134,40000,https,403 Forbidden,,SG,Singapore,https://52.77.208.134:40000,AMAZON-02
 https://52.163.75.28:40000,52.163.75.28,40000,https,403 Forbidden,,SG,Singapore,https://52.163.75.28:40000,MICROSOFT-CORP-MSN-AS-BLOCK
 https://176.97.64.95:8420,176.97.64.95,8420,https,403 Forbidden,,SG,Singapore,https://176.97.64.95:8420,M247 Europe SRL
 https://129.226.151.131:8817,129.226.151.131,8817,https,403 Forbidden,,SG,Singapore,https://129.226.151.131:8817,"Tencent Building, Kejizhongyi Avenue"
@@ -7030,20 +7194,55 @@ https://34.87.137.170:6000,34.87.137.170,6000,https,403 Forbidden,,SG,Singapore,
 https://178.173.235.158:2443,178.173.235.158,2443,https,403 Forbidden,,SG,Singapore,https://178.173.235.158:2443,Nerocloud Ltd
 43.159.48.197:9443,43.159.48.197,9443,http,,,SG,Singapore,http://43.159.48.197:9443,"Tencent Building, Kejizhongyi Avenue"
 https://103.192.178.138:49694,103.192.178.138,49694,https,403 Forbidden,,SG,Singapore,https://103.192.178.138:49694,HostUS
+https://52.76.64.95:444,52.76.64.95,444,https,403 Forbidden,,SG,Singapore,https://52.76.64.95:444,AMAZON-02
 103.213.247.55:8001,103.213.247.55,8001,http,,,SG,Singapore,http://103.213.247.55:8001,KLAYER
+https://13.215.178.112:8888,13.215.178.112,8888,https,403 Forbidden,,SG,Singapore,https://13.215.178.112:8888,AMAZON-02
+https://129.150.63.56:82,129.150.63.56,82,https,403 Forbidden,,SG,Singapore,https://129.150.63.56:82,ORACLE-BMC-31898
 43.156.70.3:8099,43.156.70.3,8099,http,,,SG,Singapore,http://43.156.70.3:8099,"Tencent Building, Kejizhongyi Avenue"
+https://13.250.48.79:10001,13.250.48.79,10001,https,403 Forbidden,,SG,Singapore,https://13.250.48.79:10001,AMAZON-02
+https://54.169.246.125:9527,54.169.246.125,9527,https,403 Forbidden,,SG,Singapore,https://54.169.246.125:9527,AMAZON-02
+https://8.219.71.178:4443,8.219.71.178,4443,https,403 Forbidden,,SG,Singapore,https://8.219.71.178:4443,"Alibaba US Technology Co., Ltd."
+https://54.255.153.253:40000,54.255.153.253,40000,https,403 Forbidden,,SG,Singapore,https://54.255.153.253:40000,AMAZON-02
 https://104.248.154.142:4433,104.248.154.142,4433,https,403 Forbidden,,SG,Singapore,https://104.248.154.142:4433,DIGITALOCEAN-ASN
+https://54.151.200.39:40000,54.151.200.39,40000,https,403 Forbidden,,SG,Singapore,https://54.151.200.39:40000,AMAZON-02
 https://128.199.233.241:7443,128.199.233.241,7443,https,403 Forbidden,,SG,Singapore,https://128.199.233.241:7443,DIGITALOCEAN-ASN
+https://18.143.102.66:9527,18.143.102.66,9527,https,403 Forbidden,,SG,Singapore,https://18.143.102.66:9527,AMAZON-02
+https://175.41.158.203:10001,175.41.158.203,10001,https,403 Forbidden,,SG,Singapore,https://175.41.158.203:10001,AMAZON-02
+https://13.212.83.207:40000,13.212.83.207,40000,https,403 Forbidden,,SG,Singapore,https://13.212.83.207:40000,AMAZON-02
+https://18.143.94.133:40000,18.143.94.133,40000,https,403 Forbidden,,SG,Singapore,https://18.143.94.133:40000,AMAZON-02
+https://54.169.197.55:40000,54.169.197.55,40000,https,403 Forbidden,,SG,Singapore,https://54.169.197.55:40000,AMAZON-02
+https://54.169.168.14:40000,54.169.168.14,40000,https,403 Forbidden,,SG,Singapore,https://54.169.168.14:40000,AMAZON-02
 https://188.166.250.80:5222,188.166.250.80,5222,https,403 Forbidden,,SG,Singapore,https://188.166.250.80:5222,DIGITALOCEAN-ASN
+https://47.128.148.230:1443,47.128.148.230,1443,https,403 Forbidden,,SG,Singapore,https://47.128.148.230:1443,AMAZON-02
 https://207.148.65.48:12345,207.148.65.48,12345,https,403 Forbidden,,SG,Singapore,https://207.148.65.48:12345,AS-CHOOPA
 https://43.228.146.100:12345,43.228.146.100,12345,https,403 Forbidden,,SG,Singapore,https://43.228.146.100:12345,Netundweb Telekomunikasyon Ticaret Limited Sirketi
+https://13.250.116.175:10001,13.250.116.175,10001,https,403 Forbidden,,SG,Singapore,https://13.250.116.175:10001,AMAZON-02
+https://54.255.197.148:40000,54.255.197.148,40000,https,403 Forbidden,,SG,Singapore,https://54.255.197.148:40000,AMAZON-02
+https://13.212.152.13:40000,13.212.152.13,40000,https,403 Forbidden,,SG,Singapore,https://13.212.152.13:40000,AMAZON-02
+https://13.215.49.0:40000,13.215.49.0,40000,https,403 Forbidden,,SG,Singapore,https://13.215.49.0:40000,AMAZON-02
+https://3.1.86.188:55555,3.1.86.188,55555,https,403 Forbidden,,SG,Singapore,https://3.1.86.188:55555,AMAZON-02
+https://8.219.5.125:1080,8.219.5.125,1080,https,403 Forbidden,,SG,Singapore,https://8.219.5.125:1080,"Alibaba US Technology Co., Ltd."
+https://54.179.152.152:21313,54.179.152.152,21313,https,403 Forbidden,,SG,Singapore,https://54.179.152.152:21313,AMAZON-02
+https://18.141.186.223:1029,18.141.186.223,1029,https,403 Forbidden,,SG,Singapore,https://18.141.186.223:1029,AMAZON-02
+https://8.219.124.178:33333,8.219.124.178,33333,https,403 Forbidden,,SG,Singapore,https://8.219.124.178:33333,"Alibaba US Technology Co., Ltd."
 https://64.176.84.45:7443,64.176.84.45,7443,https,403 Forbidden,,SG,Singapore,https://64.176.84.45:7443,AS-CHOOPA
+https://13.229.60.221:40000,13.229.60.221,40000,https,403 Forbidden,,SG,Singapore,https://13.229.60.221:40000,AMAZON-02
+https://13.229.101.167:40000,13.229.101.167,40000,https,403 Forbidden,,SG,Singapore,https://13.229.101.167:40000,AMAZON-02
+https://52.221.249.143:40000,52.221.249.143,40000,https,403 Forbidden,,SG,Singapore,https://52.221.249.143:40000,AMAZON-02
+https://13.215.163.24:40000,13.215.163.24,40000,https,403 Forbidden,,SG,Singapore,https://13.215.163.24:40000,AMAZON-02
 https://178.128.97.69:8845,178.128.97.69,8845,https,403 Forbidden,,SG,Singapore,https://178.128.97.69:8845,DIGITALOCEAN-ASN
 https://64.176.84.45:22222,64.176.84.45,22222,https,403 Forbidden,,SG,Singapore,https://64.176.84.45:22222,AS-CHOOPA
 https://178.128.97.69:4381,178.128.97.69,4381,https,403 Forbidden,,SG,Singapore,https://178.128.97.69:4381,DIGITALOCEAN-ASN
 https://38.180.74.238:12164,38.180.74.238,12164,https,403 Forbidden,,SG,Singapore,https://38.180.74.238:12164,COGENT-174
+8.219.3.25:8000,8.219.3.25,8000,http,,,SG,Singapore,http://8.219.3.25:8000,"Alibaba US Technology Co., Ltd."
+https://13.250.116.175:10000,13.250.116.175,10000,https,403 Forbidden,,SG,Singapore,https://13.250.116.175:10000,AMAZON-02
+https://18.142.122.166:8444,18.142.122.166,8444,https,403 Forbidden,,SG,Singapore,https://18.142.122.166:8444,AMAZON-02
+https://13.215.183.202:40000,13.215.183.202,40000,https,403 Forbidden,,SG,Singapore,https://13.215.183.202:40000,AMAZON-02
+https://54.169.72.23:40000,54.169.72.23,40000,https,403 Forbidden,,SG,Singapore,https://54.169.72.23:40000,AMAZON-02
+https://13.250.7.108:40000,13.250.7.108,40000,https,403 Forbidden,,SG,Singapore,https://13.250.7.108:40000,AMAZON-02
 23.27.101.37:12345,23.27.101.37,12345,http,,,SG,Singapore,http://23.27.101.37:12345,Host Universal Pty Ltd
+https://52.221.232.173:40000,52.221.232.173,40000,https,403 Forbidden,,SG,Singapore,https://52.221.232.173:40000,AMAZON-02
 23.27.101.153:12345,23.27.101.153,12345,http,,,SG,Singapore,http://23.27.101.153:12345,Host Universal Pty Ltd
-https://43.228.147.183:12250,43.228.147.183,12250,https,403 Forbidden,,SG,Singapore,https://43.228.147.183:12250,Netundweb Telekomunikasyon Ticaret Limited Sirketi
-https://43.156.243.49:20040,43.156.243.49,20040,https,403 Forbidden,,SG,Singapore,https://43.156.243.49:20040,"Tencent Building, Kejizhongyi Avenue"
-https://5.253.36.203:4433,5.253.36.203,4433,https,403 Forbidden,,SG,Singapore,https://5.253.36.203:4433,
+13.213.47.133:12345,13.213.47.133,12345,http,,,SG,Singapore,http://13.213.47.133:12345,AMAZON-02
+https://54.169.205.129:40000,54.169.205.129,40000,https,403 Forbidden,,SG,Singapore,https://54.169.205.129:40000,AMAZON-02
+54.169.185.105:12345,54.169.185.105,12345,http,,,SG,Singapore,http://54.169.185.105:12345,AMAZON-02
