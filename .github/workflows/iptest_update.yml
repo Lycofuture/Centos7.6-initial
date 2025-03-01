@@ -29,6 +29,7 @@ jobs:
     - name: delete
       run: |
         cd iptest
+        rm iptest
         tar --no-recursion -czvf iptest.tar.gz *
     - name: Release
       uses: softprops/action-gh-release@v2
