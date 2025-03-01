@@ -5,11 +5,11 @@ name: iptest_update
 
 on:
   workflow_dispatch:
-    inputs:
-      path:
-        description: '请输入要合并csv/xlsx的路径'
-        required: false
-        default: ipfofa
+  push:
+    branches:
+      - main
+    paths:
+      - 'iptest/**'
 
 permissions:
   contents: write
@@ -26,15 +26,9 @@ jobs:
       id: current_date
       run: |
         echo "DATE=$(date +'%Y.%m.%d')" >> $GITHUB_ENV
-    - name: build 
-      run: |
-        cd iptest
-        npm i
-        node  csv_hb.js init.csv ./${{ github.event.inputs.path }}
     - name: delete
       run: |
         cd iptest
-        rm -rf locations.json iptest ipfofa ipquake node_modules ip_tq.csv ip_init.txt *数据.csv
         tar --no-recursion -czvf iptest.tar.gz *
     - name: Release
       uses: softprops/action-gh-release@v2
@@ -46,11 +40,3 @@ jobs:
           generate_release_notes: true
           body: |
             使用教程请查看 https://github.com/Lycofuture/MarketNest/blob/main/iptest/README.md
-    - run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add iptest/init.csv
-        if ! git diff --cached --quiet; then
-          git commit -m "csv update ${{ env.DATE }}"
-          git push
-        fi
